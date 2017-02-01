@@ -103,8 +103,8 @@ table(d[d$sub,]$target_basic)
 ##### Clean up speakerMessages
 
 # Count the number of edits
-# Note: We count the number of messages, where we removed punctuation,
-# the number of messages that had typos.
+# Note: We count the number of punctuation characters removed, the number
+# of upper case characters encountered and the number of messages that had typos.
 num_edits <- rep(0, 3)
 names(num_edits) <- c("case", "punctuation", "spelling")
 
