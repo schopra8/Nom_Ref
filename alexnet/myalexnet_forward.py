@@ -221,10 +221,10 @@ output = sess.run({"prob": prob, "fc8": fc8}, feed_dict = {x:nom_ref_imgs})
 # Output Probabilities:
 with open('./alexnet_results/nom_ref_predicted_labels.csv' ,'wb') as f:
   writer = csv.writer(f)
+  writer.writerow(["File Name", "Label", "Probability"])
   for input_im_ind in range(output["prob"].shape[0]):
       inds = argsort(output["prob"])[input_im_ind,:]
       print "Predicting Image", input_im_ind
-      writer.writerow(["File Name", "Label", "Probability"])
       for i in range(10):
         vals = [nom_ref_img_names[input_im_ind], class_names[inds[-1-i]], output["prob"][input_im_ind, inds[-1-i]]]
         writer.writerow(vals)

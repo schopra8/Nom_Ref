@@ -9,7 +9,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/sparrow_scaled.jpg,hummingbird,0.0210333
 ./nom_ref_imgs/scaled/sparrow_scaled.jpg,"robin, American robin, Turdus migratorius",0.0206468
 ./nom_ref_imgs/scaled/sparrow_scaled.jpg,"cleaver, meat cleaver, chopper",0.0184923
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/sheep_scaled.jpg,Mexican hairless,0.845172
 ./nom_ref_imgs/scaled/sheep_scaled.jpg,triceratops,0.0183454
 ./nom_ref_imgs/scaled/sheep_scaled.jpg,"African grey, African gray, Psittacus erithacus",0.01617
@@ -20,7 +19,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/sheep_scaled.jpg,standard poodle,0.00641188
 ./nom_ref_imgs/scaled/sheep_scaled.jpg,"teddy, teddy bear",0.00465461
 ./nom_ref_imgs/scaled/sheep_scaled.jpg,"hog, pig, grunter, squealer, Sus scrofa",0.00433
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/greyhound_scaled.jpg,"Scottish deerhound, deerhound",0.599879
 ./nom_ref_imgs/scaled/greyhound_scaled.jpg,whippet,0.104605
 ./nom_ref_imgs/scaled/greyhound_scaled.jpg,Egyptian cat,0.0594164
@@ -31,7 +29,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/greyhound_scaled.jpg,Mexican hairless,0.0146834
 ./nom_ref_imgs/scaled/greyhound_scaled.jpg,Irish wolfhound,0.0133883
 ./nom_ref_imgs/scaled/greyhound_scaled.jpg,"borzoi, Russian wolfhound",0.00795577
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/poloShirt_scaled.jpg,"jersey, T-shirt, tee shirt",0.477121
 ./nom_ref_imgs/scaled/poloShirt_scaled.jpg,trench coat,0.183057
 ./nom_ref_imgs/scaled/poloShirt_scaled.jpg,"suit, suit of clothes",0.0806043
@@ -42,7 +39,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/poloShirt_scaled.jpg,cardigan,0.0176407
 ./nom_ref_imgs/scaled/poloShirt_scaled.jpg,vestment,0.0164104
 ./nom_ref_imgs/scaled/poloShirt_scaled.jpg,"academic gown, academic robe, judge's robe",0.0112546
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/bison_scaled.jpg,bison,0.869052
 ./nom_ref_imgs/scaled/bison_scaled.jpg,"wild boar, boar, Sus scrofa",0.0299419
 ./nom_ref_imgs/scaled/bison_scaled.jpg,ox,0.020219
@@ -53,7 +49,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/bison_scaled.jpg,"sloth bear, Melursus ursinus, Ursus ursinus",0.00427547
 ./nom_ref_imgs/scaled/bison_scaled.jpg,"hippopotamus, hippo, river horse, Hippopotamus amphibius",0.00377552
 ./nom_ref_imgs/scaled/bison_scaled.jpg,"ram, tup",0.003754
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/diningTable_scaled.jpg,window shade,0.0960841
 ./nom_ref_imgs/scaled/diningTable_scaled.jpg,"notebook, notebook computer",0.0666747
 ./nom_ref_imgs/scaled/diningTable_scaled.jpg,envelope,0.0528013
@@ -64,7 +59,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/diningTable_scaled.jpg,"television, television system",0.0360554
 ./nom_ref_imgs/scaled/diningTable_scaled.jpg,sliding door,0.0269625
 ./nom_ref_imgs/scaled/diningTable_scaled.jpg,"refrigerator, icebox",0.0206938
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/firetruck_scaled.jpg,barbell,0.262106
 ./nom_ref_imgs/scaled/firetruck_scaled.jpg,tractor,0.0687087
 ./nom_ref_imgs/scaled/firetruck_scaled.jpg,dumbbell,0.0638235
@@ -75,7 +69,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/firetruck_scaled.jpg,"garbage truck, dustcart",0.027813
 ./nom_ref_imgs/scaled/firetruck_scaled.jpg,forklift,0.0215913
 ./nom_ref_imgs/scaled/firetruck_scaled.jpg,"pickup, pickup truck",0.0205734
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/goldFish_scaled.jpg,"swab, swob, mop",0.247021
 ./nom_ref_imgs/scaled/goldFish_scaled.jpg,"wool, woolen, woollen",0.241706
 ./nom_ref_imgs/scaled/goldFish_scaled.jpg,mitten,0.124984
@@ -86,7 +79,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/goldFish_scaled.jpg,"dishrag, dishcloth",0.0182824
 ./nom_ref_imgs/scaled/goldFish_scaled.jpg,bath towel,0.0148518
 ./nom_ref_imgs/scaled/goldFish_scaled.jpg,pinwheel,0.0126719
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/blackStimulus_scaled.jpg,"platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus",0.00505369
 ./nom_ref_imgs/scaled/blackStimulus_scaled.jpg,"African crocodile, Nile crocodile, Crocodylus niloticus",0.00497316
 ./nom_ref_imgs/scaled/blackStimulus_scaled.jpg,"American alligator, Alligator mississipiensis",0.00490359
@@ -97,7 +89,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/blackStimulus_scaled.jpg,"Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis",0.00377547
 ./nom_ref_imgs/scaled/blackStimulus_scaled.jpg,cliff dwelling,0.00362137
 ./nom_ref_imgs/scaled/blackStimulus_scaled.jpg,"lumbermill, sawmill",0.00324525
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/hummingBird_scaled.jpg,"indigo bunting, indigo finch, indigo bird, Passerina cyanea",0.36832
 ./nom_ref_imgs/scaled/hummingBird_scaled.jpg,jay,0.243117
 ./nom_ref_imgs/scaled/hummingBird_scaled.jpg,hummingbird,0.163231
@@ -108,7 +99,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/hummingBird_scaled.jpg,peacock,0.0101851
 ./nom_ref_imgs/scaled/hummingBird_scaled.jpg,"quill, quill pen",0.00615234
 ./nom_ref_imgs/scaled/hummingBird_scaled.jpg,"European gallinule, Porphyrio porphyrio",0.00556097
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/dress_scaled.jpg,"hoopskirt, crinoline",0.430143
 ./nom_ref_imgs/scaled/dress_scaled.jpg,overskirt,0.373749
 ./nom_ref_imgs/scaled/dress_scaled.jpg,velvet,0.0593682
@@ -119,7 +109,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/dress_scaled.jpg,apron,0.00304576
 ./nom_ref_imgs/scaled/dress_scaled.jpg,bulletproof vest,0.00259431
 ./nom_ref_imgs/scaled/dress_scaled.jpg,"lampshade, lamp shade",0.00144501
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/rose_scaled.jpg,poncho,0.152052
 ./nom_ref_imgs/scaled/rose_scaled.jpg,velvet,0.135664
 ./nom_ref_imgs/scaled/rose_scaled.jpg,stole,0.093931
@@ -130,7 +119,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/rose_scaled.jpg,"quill, quill pen",0.0234442
 ./nom_ref_imgs/scaled/rose_scaled.jpg,"feather boa, boa",0.0176845
 ./nom_ref_imgs/scaled/rose_scaled.jpg,maillot,0.0158322
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/picnicTable_scaled.jpg,"plow, plough",0.0943966
 ./nom_ref_imgs/scaled/picnicTable_scaled.jpg,sunglass,0.0729062
 ./nom_ref_imgs/scaled/picnicTable_scaled.jpg,"binder, ring-binder",0.0672579
@@ -141,7 +129,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/picnicTable_scaled.jpg,"assault rifle, assault gun",0.0315446
 ./nom_ref_imgs/scaled/picnicTable_scaled.jpg,knot,0.0311312
 ./nom_ref_imgs/scaled/picnicTable_scaled.jpg,scabbard,0.029088
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/tulip_scaled.jpg,"mantis, mantid",0.199615
 ./nom_ref_imgs/scaled/tulip_scaled.jpg,"green lizard, Lacerta viridis",0.0551467
 ./nom_ref_imgs/scaled/tulip_scaled.jpg,syringe,0.0535006
@@ -152,7 +139,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/tulip_scaled.jpg,"pick, plectrum, plectron",0.0219142
 ./nom_ref_imgs/scaled/tulip_scaled.jpg,"rule, ruler",0.0217296
 ./nom_ref_imgs/scaled/tulip_scaled.jpg,"ballpoint, ballpoint pen, ballpen, Biro",0.0208955
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/eagle_scaled.jpg,"bald eagle, American eagle, Haliaeetus leucocephalus",0.834211
 ./nom_ref_imgs/scaled/eagle_scaled.jpg,kite,0.086984
 ./nom_ref_imgs/scaled/eagle_scaled.jpg,vulture,0.0251806
@@ -163,7 +149,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/eagle_scaled.jpg,"great grey owl, great gray owl, Strix nebulosa",0.00261414
 ./nom_ref_imgs/scaled/eagle_scaled.jpg,hen,0.00136693
 ./nom_ref_imgs/scaled/eagle_scaled.jpg,partridge,0.000769153
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/lobster_scaled.jpg,knot,0.383488
 ./nom_ref_imgs/scaled/lobster_scaled.jpg,"American lobster, Northern lobster, Maine lobster, Homarus americanus",0.143804
 ./nom_ref_imgs/scaled/lobster_scaled.jpg,pinwheel,0.115665
@@ -174,7 +159,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/lobster_scaled.jpg,"wool, woolen, woollen",0.0197611
 ./nom_ref_imgs/scaled/lobster_scaled.jpg,"feather boa, boa",0.0188665
 ./nom_ref_imgs/scaled/lobster_scaled.jpg,scorpion,0.0182028
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/tShirt_scaled.jpg,"jersey, T-shirt, tee shirt",0.989081
 ./nom_ref_imgs/scaled/tShirt_scaled.jpg,sweatshirt,0.0033735
 ./nom_ref_imgs/scaled/tShirt_scaled.jpg,maillot,0.0024536
@@ -185,7 +169,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/tShirt_scaled.jpg,cardigan,0.000368227
 ./nom_ref_imgs/scaled/tShirt_scaled.jpg,"pajama, pyjama, pj's, jammies",0.000243163
 ./nom_ref_imgs/scaled/tShirt_scaled.jpg,"wool, woolen, woollen",0.000221686
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/grizzlyBear_scaled.jpg,badger,0.273573
 ./nom_ref_imgs/scaled/grizzlyBear_scaled.jpg,"American black bear, black bear, Ursus americanus, Euarctos americanus",0.239967
 ./nom_ref_imgs/scaled/grizzlyBear_scaled.jpg,mink,0.0874636
@@ -196,7 +179,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/grizzlyBear_scaled.jpg,weasel,0.0209918
 ./nom_ref_imgs/scaled/grizzlyBear_scaled.jpg,"ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus",0.0175776
 ./nom_ref_imgs/scaled/grizzlyBear_scaled.jpg,"black-footed ferret, ferret, Mustela nigripes",0.0172374
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/jellyBeans_scaled.jpg,"rubber eraser, rubber, pencil eraser",0.47069
 ./nom_ref_imgs/scaled/jellyBeans_scaled.jpg,hair slide,0.453889
 ./nom_ref_imgs/scaled/jellyBeans_scaled.jpg,matchstick,0.0171687
@@ -207,7 +189,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/jellyBeans_scaled.jpg,jigsaw puzzle,0.00238359
 ./nom_ref_imgs/scaled/jellyBeans_scaled.jpg,"wool, woolen, woollen",0.00198123
 ./nom_ref_imgs/scaled/jellyBeans_scaled.jpg,"ballpoint, ballpoint pen, ballpen, Biro",0.00197443
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/skittles_scaled.jpg,"rubber eraser, rubber, pencil eraser",0.391846
 ./nom_ref_imgs/scaled/skittles_scaled.jpg,joystick,0.159233
 ./nom_ref_imgs/scaled/skittles_scaled.jpg,pill bottle,0.0949911
@@ -218,7 +199,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/skittles_scaled.jpg,water bottle,0.0243573
 ./nom_ref_imgs/scaled/skittles_scaled.jpg,"perfume, essence",0.0182556
 ./nom_ref_imgs/scaled/skittles_scaled.jpg,abacus,0.0141512
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/lily_scaled.jpg,pinwheel,0.971857
 ./nom_ref_imgs/scaled/lily_scaled.jpg,hair slide,0.00618436
 ./nom_ref_imgs/scaled/lily_scaled.jpg,wall clock,0.00378947
@@ -229,7 +209,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/lily_scaled.jpg,screw,0.000839125
 ./nom_ref_imgs/scaled/lily_scaled.jpg,"rubber eraser, rubber, pencil eraser",0.000752911
 ./nom_ref_imgs/scaled/lily_scaled.jpg,screwdriver,0.00074807
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/gummyBears_scaled.jpg,"pick, plectrum, plectron",0.164355
 ./nom_ref_imgs/scaled/gummyBears_scaled.jpg,whistle,0.0894423
 ./nom_ref_imgs/scaled/gummyBears_scaled.jpg,"candle, taper, wax light",0.0883741
@@ -240,7 +219,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/gummyBears_scaled.jpg,hair slide,0.0270811
 ./nom_ref_imgs/scaled/gummyBears_scaled.jpg,"clog, geta, patten, sabot",0.0263063
 ./nom_ref_imgs/scaled/gummyBears_scaled.jpg,pinwheel,0.0253452
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/hawaiiShirt_scaled.jpg,fur coat,0.741565
 ./nom_ref_imgs/scaled/hawaiiShirt_scaled.jpg,kimono,0.120105
 ./nom_ref_imgs/scaled/hawaiiShirt_scaled.jpg,"pajama, pyjama, pj's, jammies",0.0478524
@@ -251,7 +229,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/hawaiiShirt_scaled.jpg,trench coat,0.00463151
 ./nom_ref_imgs/scaled/hawaiiShirt_scaled.jpg,poncho,0.00228887
 ./nom_ref_imgs/scaled/hawaiiShirt_scaled.jpg,cuirass,0.00218168
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/rabbit_scaled.jpg,hare,0.857421
 ./nom_ref_imgs/scaled/rabbit_scaled.jpg,"wood rabbit, cottontail, cottontail rabbit",0.131274
 ./nom_ref_imgs/scaled/rabbit_scaled.jpg,"Angora, Angora rabbit",0.0109651
@@ -262,7 +239,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/rabbit_scaled.jpg,broccoli,1.57605e-05
 ./nom_ref_imgs/scaled/rabbit_scaled.jpg,"prairie chicken, prairie grouse, prairie fowl",1.45201e-05
 ./nom_ref_imgs/scaled/rabbit_scaled.jpg,"fox squirrel, eastern fox squirrel, Sciurus niger",1.12684e-05
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/motorcycle_scaled.jpg,moped,0.463187
 ./nom_ref_imgs/scaled/motorcycle_scaled.jpg,"motor scooter, scooter",0.216635
 ./nom_ref_imgs/scaled/motorcycle_scaled.jpg,"tricycle, trike, velocipede",0.182504
@@ -273,7 +249,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/motorcycle_scaled.jpg,"ocarina, sweet potato",0.0052587
 ./nom_ref_imgs/scaled/motorcycle_scaled.jpg,knot,0.00522843
 ./nom_ref_imgs/scaled/motorcycle_scaled.jpg,oxygen mask,0.00515353
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/catfish_scaled.jpg,"spotted salamander, Ambystoma maculatum",0.136491
 ./nom_ref_imgs/scaled/catfish_scaled.jpg,"ground beetle, carabid beetle",0.0579486
 ./nom_ref_imgs/scaled/catfish_scaled.jpg,slug,0.0569556
@@ -284,7 +259,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/catfish_scaled.jpg,isopod,0.0208773
 ./nom_ref_imgs/scaled/catfish_scaled.jpg,"common newt, Triturus vulgaris",0.0197547
 ./nom_ref_imgs/scaled/catfish_scaled.jpg,jacamar,0.0183673
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/sedan_scaled.jpg,car wheel,0.524694
 ./nom_ref_imgs/scaled/sedan_scaled.jpg,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.164221
 ./nom_ref_imgs/scaled/sedan_scaled.jpg,minivan,0.10907
@@ -295,7 +269,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/sedan_scaled.jpg,"grille, radiator grille",0.0191719
 ./nom_ref_imgs/scaled/sedan_scaled.jpg,"cab, hack, taxi, taxicab",0.00618927
 ./nom_ref_imgs/scaled/sedan_scaled.jpg,moving van,0.00545606
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/kitten_scaled.jpg,schipperke,0.182513
 ./nom_ref_imgs/scaled/kitten_scaled.jpg,"Angora, Angora rabbit",0.079871
 ./nom_ref_imgs/scaled/kitten_scaled.jpg,groenendael,0.0421948
@@ -306,7 +279,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/kitten_scaled.jpg,"Arctic fox, white fox, Alopex lagopus",0.0273726
 ./nom_ref_imgs/scaled/kitten_scaled.jpg,"Scotch terrier, Scottish terrier, Scottie",0.02084
 ./nom_ref_imgs/scaled/kitten_scaled.jpg,"Cardigan, Cardigan Welsh corgi",0.0188711
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/pig_scaled.jpg,"piggy bank, penny bank",0.549164
 ./nom_ref_imgs/scaled/pig_scaled.jpg,"white wolf, Arctic wolf, Canis lupus tundrarum",0.211206
 ./nom_ref_imgs/scaled/pig_scaled.jpg,"Arctic fox, white fox, Alopex lagopus",0.0509659
@@ -317,7 +289,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/pig_scaled.jpg,muzzle,0.00835184
 ./nom_ref_imgs/scaled/pig_scaled.jpg,schipperke,0.00814536
 ./nom_ref_imgs/scaled/pig_scaled.jpg,"hog, pig, grunter, squealer, Sus scrofa",0.00656489
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/koalaBear_scaled.jpg,"koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus",0.929291
 ./nom_ref_imgs/scaled/koalaBear_scaled.jpg,"wallaby, brush kangaroo",0.017563
 ./nom_ref_imgs/scaled/koalaBear_scaled.jpg,Kerry blue terrier,0.00914638
@@ -328,7 +299,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/koalaBear_scaled.jpg,"fox squirrel, eastern fox squirrel, Sciurus niger",0.00260493
 ./nom_ref_imgs/scaled/koalaBear_scaled.jpg,"coyote, prairie wolf, brush wolf, Canis latrans",0.00224972
 ./nom_ref_imgs/scaled/koalaBear_scaled.jpg,hare,0.00215266
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/sunflower_scaled.jpg,pinwheel,0.646403
 ./nom_ref_imgs/scaled/sunflower_scaled.jpg,daisy,0.250633
 ./nom_ref_imgs/scaled/sunflower_scaled.jpg,hair slide,0.0347404
@@ -339,7 +309,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/sunflower_scaled.jpg,"pot, flowerpot",0.00235242
 ./nom_ref_imgs/scaled/sunflower_scaled.jpg,sea urchin,0.00139368
 ./nom_ref_imgs/scaled/sunflower_scaled.jpg,"electric fan, blower",0.00133089
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/pug_scaled.jpg,"pug, pug-dog",0.686682
 ./nom_ref_imgs/scaled/pug_scaled.jpg,Brabancon griffon,0.168227
 ./nom_ref_imgs/scaled/pug_scaled.jpg,French bulldog,0.069515
@@ -350,7 +319,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/pug_scaled.jpg,toy terrier,0.00302604
 ./nom_ref_imgs/scaled/pug_scaled.jpg,Great Dane,0.00199064
 ./nom_ref_imgs/scaled/pug_scaled.jpg,boxer,0.00149134
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/elephant_scaled.jpg,"Indian elephant, Elephas maximus",0.27457
 ./nom_ref_imgs/scaled/elephant_scaled.jpg,"African elephant, Loxodonta africana",0.16135
 ./nom_ref_imgs/scaled/elephant_scaled.jpg,Mexican hairless,0.131731
@@ -361,7 +329,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/elephant_scaled.jpg,tusker,0.0422341
 ./nom_ref_imgs/scaled/elephant_scaled.jpg,"chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour",0.0262747
 ./nom_ref_imgs/scaled/elephant_scaled.jpg,"wild boar, boar, Sus scrofa",0.022567
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/coffeeTable_scaled.jpg,"harmonica, mouth organ, harp, mouth harp",0.129612
 ./nom_ref_imgs/scaled/coffeeTable_scaled.jpg,"notebook, notebook computer",0.0551939
 ./nom_ref_imgs/scaled/coffeeTable_scaled.jpg,"rule, ruler",0.0519052
@@ -372,7 +339,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/coffeeTable_scaled.jpg,space heater,0.0310725
 ./nom_ref_imgs/scaled/coffeeTable_scaled.jpg,"screen, CRT screen",0.0302602
 ./nom_ref_imgs/scaled/coffeeTable_scaled.jpg,window shade,0.0260681
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/lamp_scaled.jpg,table lamp,0.804477
 ./nom_ref_imgs/scaled/lamp_scaled.jpg,"lampshade, lamp shade",0.194529
 ./nom_ref_imgs/scaled/lamp_scaled.jpg,"punching bag, punch bag, punching ball, punchball",0.000410617
@@ -383,7 +349,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/lamp_scaled.jpg,"pedestal, plinth, footstall",3.17274e-05
 ./nom_ref_imgs/scaled/lamp_scaled.jpg,tripod,2.10708e-05
 ./nom_ref_imgs/scaled/lamp_scaled.jpg,soap dispenser,7.97251e-06
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/ivy_scaled.jpg,"pot, flowerpot",0.340615
 ./nom_ref_imgs/scaled/ivy_scaled.jpg,pinwheel,0.188383
 ./nom_ref_imgs/scaled/ivy_scaled.jpg,Christmas stocking,0.0673299
@@ -394,7 +359,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/ivy_scaled.jpg,jigsaw puzzle,0.0277045
 ./nom_ref_imgs/scaled/ivy_scaled.jpg,sock,0.0123816
 ./nom_ref_imgs/scaled/ivy_scaled.jpg,"jersey, T-shirt, tee shirt",0.00912884
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/bedsideTable_scaled.jpg,"file, file cabinet, filing cabinet",0.100837
 ./nom_ref_imgs/scaled/bedsideTable_scaled.jpg,safe,0.075452
 ./nom_ref_imgs/scaled/bedsideTable_scaled.jpg,"binder, ring-binder",0.0492555
@@ -405,7 +369,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/bedsideTable_scaled.jpg,"screen, CRT screen",0.0303093
 ./nom_ref_imgs/scaled/bedsideTable_scaled.jpg,entertainment center,0.0262782
 ./nom_ref_imgs/scaled/bedsideTable_scaled.jpg,"fire screen, fireguard",0.025325
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/grasses_scaled.jpg,"pineapple, ananas",0.632375
 ./nom_ref_imgs/scaled/grasses_scaled.jpg,"pot, flowerpot",0.08699
 ./nom_ref_imgs/scaled/grasses_scaled.jpg,vase,0.0668778
@@ -416,7 +379,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/grasses_scaled.jpg,centipede,0.00699782
 ./nom_ref_imgs/scaled/grasses_scaled.jpg,"sea anemone, anemone",0.00539715
 ./nom_ref_imgs/scaled/grasses_scaled.jpg,"ear, spike, capitulum",0.00484564
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/clownFish_scaled.jpg,knee pad,0.166192
 ./nom_ref_imgs/scaled/clownFish_scaled.jpg,"gasmask, respirator, gas helmet",0.132734
 ./nom_ref_imgs/scaled/clownFish_scaled.jpg,oxygen mask,0.0974814
@@ -427,7 +389,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/clownFish_scaled.jpg,pencil sharpener,0.0215009
 ./nom_ref_imgs/scaled/clownFish_scaled.jpg,paintbrush,0.0210032
 ./nom_ref_imgs/scaled/clownFish_scaled.jpg,"hook, claw",0.0187172
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/minivan_scaled.jpg,minivan,0.49426
 ./nom_ref_imgs/scaled/minivan_scaled.jpg,minibus,0.235002
 ./nom_ref_imgs/scaled/minivan_scaled.jpg,moving van,0.0637514
@@ -438,7 +399,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/minivan_scaled.jpg,"limousine, limo",0.0112238
 ./nom_ref_imgs/scaled/minivan_scaled.jpg,car wheel,0.0107052
 ./nom_ref_imgs/scaled/minivan_scaled.jpg,"police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria",0.0103246
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/sideTable_scaled.jpg,desk,0.266688
 ./nom_ref_imgs/scaled/sideTable_scaled.jpg,turnstile,0.213249
 ./nom_ref_imgs/scaled/sideTable_scaled.jpg,"pool table, billiard table, snooker table",0.140289
@@ -449,7 +409,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/sideTable_scaled.jpg,"fire screen, fireguard",0.0141999
 ./nom_ref_imgs/scaled/sideTable_scaled.jpg,"dining table, board",0.0130462
 ./nom_ref_imgs/scaled/sideTable_scaled.jpg,"parallel bars, bars",0.012513
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/pigeon_scaled.jpg,"water ouzel, dipper",0.172576
 ./nom_ref_imgs/scaled/pigeon_scaled.jpg,hummingbird,0.11004
 ./nom_ref_imgs/scaled/pigeon_scaled.jpg,chickadee,0.109569
@@ -460,7 +419,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/pigeon_scaled.jpg,spoonbill,0.0339427
 ./nom_ref_imgs/scaled/pigeon_scaled.jpg,"junco, snowbird",0.0335237
 ./nom_ref_imgs/scaled/pigeon_scaled.jpg,ptarmigan,0.0328054
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/hamster_scaled.jpg,hamster,0.385318
 ./nom_ref_imgs/scaled/hamster_scaled.jpg,"tub, vat",0.0843688
 ./nom_ref_imgs/scaled/hamster_scaled.jpg,Persian cat,0.0531947
@@ -471,7 +429,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/hamster_scaled.jpg,"teddy, teddy bear",0.0181689
 ./nom_ref_imgs/scaled/hamster_scaled.jpg,"bucket, pail",0.0175262
 ./nom_ref_imgs/scaled/hamster_scaled.jpg,weasel,0.0168411
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/lion_scaled.jpg,"Newfoundland, Newfoundland dog",0.333433
 ./nom_ref_imgs/scaled/lion_scaled.jpg,"affenpinscher, monkey pinscher, monkey dog",0.271106
 ./nom_ref_imgs/scaled/lion_scaled.jpg,"Afghan hound, Afghan",0.0605677
@@ -482,7 +439,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/lion_scaled.jpg,"Bouvier des Flandres, Bouviers des Flandres",0.0159743
 ./nom_ref_imgs/scaled/lion_scaled.jpg,briard,0.0147732
 ./nom_ref_imgs/scaled/lion_scaled.jpg,Sussex spaniel,0.01365
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/rhino_scaled.jpg,"dugong, Dugong dugon",0.421755
 ./nom_ref_imgs/scaled/rhino_scaled.jpg,"hog, pig, grunter, squealer, Sus scrofa",0.157905
 ./nom_ref_imgs/scaled/rhino_scaled.jpg,triceratops,0.115322
@@ -493,7 +449,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/rhino_scaled.jpg,"killer whale, killer, orca, grampus, sea wolf, Orcinus orca",0.0232266
 ./nom_ref_imgs/scaled/rhino_scaled.jpg,"hippopotamus, hippo, river horse, Hippopotamus amphibius",0.0135471
 ./nom_ref_imgs/scaled/rhino_scaled.jpg,"wild boar, boar, Sus scrofa",0.0130913
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/sportsCar_scaled.jpg,car wheel,0.739206
 ./nom_ref_imgs/scaled/sportsCar_scaled.jpg,"sports car, sport car",0.119903
 ./nom_ref_imgs/scaled/sportsCar_scaled.jpg,convertible,0.0644737
@@ -504,7 +459,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/sportsCar_scaled.jpg,"limousine, limo",0.00248569
 ./nom_ref_imgs/scaled/sportsCar_scaled.jpg,minivan,0.00193578
 ./nom_ref_imgs/scaled/sportsCar_scaled.jpg,"pickup, pickup truck",0.00160469
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/squirrel_scaled.jpg,"fox squirrel, eastern fox squirrel, Sciurus niger",0.153954
 ./nom_ref_imgs/scaled/squirrel_scaled.jpg,Egyptian cat,0.149619
 ./nom_ref_imgs/scaled/squirrel_scaled.jpg,"black-footed ferret, ferret, Mustela nigripes",0.0536063
@@ -515,7 +469,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/squirrel_scaled.jpg,"Siamese cat, Siamese",0.0351159
 ./nom_ref_imgs/scaled/squirrel_scaled.jpg,hare,0.0322263
 ./nom_ref_imgs/scaled/squirrel_scaled.jpg,schipperke,0.0305562
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/ambulance_scaled.jpg,"police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria",0.53986
 ./nom_ref_imgs/scaled/ambulance_scaled.jpg,ambulance,0.350298
 ./nom_ref_imgs/scaled/ambulance_scaled.jpg,moving van,0.0702932
@@ -526,7 +479,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/ambulance_scaled.jpg,"trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi",0.00334868
 ./nom_ref_imgs/scaled/ambulance_scaled.jpg,"limousine, limo",0.0018258
 ./nom_ref_imgs/scaled/ambulance_scaled.jpg,"mobile home, manufactured home",0.000629507
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/campShirt_scaled.jpg,trench coat,0.854179
 ./nom_ref_imgs/scaled/campShirt_scaled.jpg,"suit, suit of clothes",0.138426
 ./nom_ref_imgs/scaled/campShirt_scaled.jpg,cardigan,0.00186786
@@ -537,7 +489,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/campShirt_scaled.jpg,velvet,0.000408859
 ./nom_ref_imgs/scaled/campShirt_scaled.jpg,"lab coat, laboratory coat",0.000229644
 ./nom_ref_imgs/scaled/campShirt_scaled.jpg,"pajama, pyjama, pj's, jammies",0.000213732
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/germanShepherd_scaled.jpg,Egyptian cat,0.293309
 ./nom_ref_imgs/scaled/germanShepherd_scaled.jpg,"tabby, tabby cat",0.138504
 ./nom_ref_imgs/scaled/germanShepherd_scaled.jpg,"Eskimo dog, husky",0.0846628
@@ -548,7 +499,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/germanShepherd_scaled.jpg,"Siamese cat, Siamese",0.0180334
 ./nom_ref_imgs/scaled/germanShepherd_scaled.jpg,collie,0.0178602
 ./nom_ref_imgs/scaled/germanShepherd_scaled.jpg,jay,0.016802
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/dalmatian_scaled.jpg,"dalmatian, coach dog, carriage dog",0.747465
 ./nom_ref_imgs/scaled/dalmatian_scaled.jpg,"king snake, kingsnake",0.0569727
 ./nom_ref_imgs/scaled/dalmatian_scaled.jpg,Great Dane,0.0301291
@@ -559,7 +509,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/dalmatian_scaled.jpg,"binder, ring-binder",0.00722373
 ./nom_ref_imgs/scaled/dalmatian_scaled.jpg,"hognose snake, puff adder, sand viper",0.00586042
 ./nom_ref_imgs/scaled/dalmatian_scaled.jpg,"jaguar, panther, Panthera onca, Felis onca",0.00345445
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/chips_scaled.jpg,plastic bag,0.250056
 ./nom_ref_imgs/scaled/chips_scaled.jpg,"swimming trunks, bathing trunks",0.117857
 ./nom_ref_imgs/scaled/chips_scaled.jpg,mountain tent,0.0691444
@@ -570,7 +519,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/chips_scaled.jpg,"diaper, nappy, napkin",0.0240592
 ./nom_ref_imgs/scaled/chips_scaled.jpg,shower cap,0.0226857
 ./nom_ref_imgs/scaled/chips_scaled.jpg,head cabbage,0.0211667
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/socks_scaled.jpg,sock,0.27282
 ./nom_ref_imgs/scaled/socks_scaled.jpg,Windsor tie,0.233988
 ./nom_ref_imgs/scaled/socks_scaled.jpg,"panpipe, pandean pipe, syrinx",0.167868
@@ -581,7 +529,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/socks_scaled.jpg,screwdriver,0.0142401
 ./nom_ref_imgs/scaled/socks_scaled.jpg,broom,0.0107948
 ./nom_ref_imgs/scaled/socks_scaled.jpg,maraca,0.00964058
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/parrot_scaled.jpg,"ballpoint, ballpoint pen, ballpen, Biro",0.181879
 ./nom_ref_imgs/scaled/parrot_scaled.jpg,"quill, quill pen",0.125443
 ./nom_ref_imgs/scaled/parrot_scaled.jpg,fountain pen,0.0681459
@@ -592,7 +539,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/parrot_scaled.jpg,"binder, ring-binder",0.0443785
 ./nom_ref_imgs/scaled/parrot_scaled.jpg,"rule, ruler",0.0397968
 ./nom_ref_imgs/scaled/parrot_scaled.jpg,bow,0.0396808
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/pandaBear_scaled.jpg,"giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca",0.918284
 ./nom_ref_imgs/scaled/pandaBear_scaled.jpg,Bedlington terrier,0.0117996
 ./nom_ref_imgs/scaled/pandaBear_scaled.jpg,"Siamese cat, Siamese",0.0117925
@@ -603,7 +549,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/pandaBear_scaled.jpg,"ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus",0.00268063
 ./nom_ref_imgs/scaled/pandaBear_scaled.jpg,"Sealyham terrier, Sealyham",0.00249723
 ./nom_ref_imgs/scaled/pandaBear_scaled.jpg,weasel,0.00237566
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/bed_scaled.jpg,"studio couch, day bed",0.262127
 ./nom_ref_imgs/scaled/bed_scaled.jpg,desk,0.116327
 ./nom_ref_imgs/scaled/bed_scaled.jpg,"dining table, board",0.108009
@@ -614,7 +559,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/bed_scaled.jpg,table lamp,0.0256438
 ./nom_ref_imgs/scaled/bed_scaled.jpg,four-poster,0.0222267
 ./nom_ref_imgs/scaled/bed_scaled.jpg,"grand piano, grand",0.0190168
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/crocodile_scaled.jpg,space bar,0.118333
 ./nom_ref_imgs/scaled/crocodile_scaled.jpg,waffle iron,0.11519
 ./nom_ref_imgs/scaled/crocodile_scaled.jpg,"platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus",0.113084
@@ -625,7 +569,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/crocodile_scaled.jpg,"revolver, six-gun, six-shooter",0.033041
 ./nom_ref_imgs/scaled/crocodile_scaled.jpg,curly-coated retriever,0.0204736
 ./nom_ref_imgs/scaled/crocodile_scaled.jpg,Windsor tie,0.0178292
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/pottedPlant_scaled.jpg,"pot, flowerpot",0.698678
 ./nom_ref_imgs/scaled/pottedPlant_scaled.jpg,vase,0.259633
 ./nom_ref_imgs/scaled/pottedPlant_scaled.jpg,"quill, quill pen",0.0196136
@@ -636,7 +579,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/pottedPlant_scaled.jpg,"bucket, pail",0.000904909
 ./nom_ref_imgs/scaled/pottedPlant_scaled.jpg,broom,0.000885125
 ./nom_ref_imgs/scaled/pottedPlant_scaled.jpg,paintbrush,0.000547511
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/discusFish_scaled.jpg,Windsor tie,0.331493
 ./nom_ref_imgs/scaled/discusFish_scaled.jpg,"bonnet, poke bonnet",0.0790482
 ./nom_ref_imgs/scaled/discusFish_scaled.jpg,sarong,0.0455758
@@ -647,7 +589,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/discusFish_scaled.jpg,mitten,0.0286655
 ./nom_ref_imgs/scaled/discusFish_scaled.jpg,"pencil box, pencil case",0.0253568
 ./nom_ref_imgs/scaled/discusFish_scaled.jpg,"diaper, nappy, napkin",0.0238975
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/rosemary_scaled.jpg,"quill, quill pen",0.212605
 ./nom_ref_imgs/scaled/rosemary_scaled.jpg,"swab, swob, mop",0.0836148
 ./nom_ref_imgs/scaled/rosemary_scaled.jpg,"pot, flowerpot",0.055394
@@ -658,7 +599,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/rosemary_scaled.jpg,"pineapple, ananas",0.0320488
 ./nom_ref_imgs/scaled/rosemary_scaled.jpg,sock,0.0274026
 ./nom_ref_imgs/scaled/rosemary_scaled.jpg,broom,0.0236711
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/cow_scaled.jpg,"Boston bull, Boston terrier",0.37404
 ./nom_ref_imgs/scaled/cow_scaled.jpg,"chocolate sauce, chocolate syrup",0.0934634
 ./nom_ref_imgs/scaled/cow_scaled.jpg,Chihuahua,0.0443563
@@ -669,7 +609,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/cow_scaled.jpg,Border collie,0.0149916
 ./nom_ref_imgs/scaled/cow_scaled.jpg,"ant, emmet, pismire",0.0116109
 ./nom_ref_imgs/scaled/cow_scaled.jpg,rhinoceros beetle,0.0114219
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/daisy_scaled.jpg,hair slide,0.458731
 ./nom_ref_imgs/scaled/daisy_scaled.jpg,daisy,0.194019
 ./nom_ref_imgs/scaled/daisy_scaled.jpg,"bolo tie, bolo, bola tie, bola",0.0808583
@@ -680,7 +619,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/daisy_scaled.jpg,"swab, swob, mop",0.00918937
 ./nom_ref_imgs/scaled/daisy_scaled.jpg,cardoon,0.0085577
 ./nom_ref_imgs/scaled/daisy_scaled.jpg,screwdriver,0.00826755
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/iguana_scaled.jpg,"green lizard, Lacerta viridis",0.301333
 ./nom_ref_imgs/scaled/iguana_scaled.jpg,peacock,0.120445
 ./nom_ref_imgs/scaled/iguana_scaled.jpg,"African chameleon, Chamaeleo chamaeleon",0.104156
@@ -691,7 +629,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/iguana_scaled.jpg,broccoli,0.0197769
 ./nom_ref_imgs/scaled/iguana_scaled.jpg,"dishrag, dishcloth",0.0138334
 ./nom_ref_imgs/scaled/iguana_scaled.jpg,"common iguana, iguana, Iguana iguana",0.0126611
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/popcorn_scaled.jpg,"piggy bank, penny bank",0.171017
 ./nom_ref_imgs/scaled/popcorn_scaled.jpg,vase,0.108258
 ./nom_ref_imgs/scaled/popcorn_scaled.jpg,jigsaw puzzle,0.0986163
@@ -702,7 +639,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/popcorn_scaled.jpg,shower cap,0.030331
 ./nom_ref_imgs/scaled/popcorn_scaled.jpg,soap dispenser,0.030101
 ./nom_ref_imgs/scaled/popcorn_scaled.jpg,"rubber eraser, rubber, pencil eraser",0.0213365
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/swordFish_scaled.jpg,kite,0.112209
 ./nom_ref_imgs/scaled/swordFish_scaled.jpg,bee eater,0.108998
 ./nom_ref_imgs/scaled/swordFish_scaled.jpg,"American chameleon, anole, Anolis carolinensis",0.0513536
@@ -713,7 +649,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/swordFish_scaled.jpg,airliner,0.0363842
 ./nom_ref_imgs/scaled/swordFish_scaled.jpg,"plow, plough",0.0356249
 ./nom_ref_imgs/scaled/swordFish_scaled.jpg,"warplane, military plane",0.031824
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/bathrobe_scaled.jpg,trench coat,0.469869
 ./nom_ref_imgs/scaled/bathrobe_scaled.jpg,overskirt,0.144783
 ./nom_ref_imgs/scaled/bathrobe_scaled.jpg,"pajama, pyjama, pj's, jammies",0.13291
@@ -724,7 +659,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/bathrobe_scaled.jpg,"miniskirt, mini",0.00541276
 ./nom_ref_imgs/scaled/bathrobe_scaled.jpg,sweatshirt,0.00447826
 ./nom_ref_imgs/scaled/bathrobe_scaled.jpg,"suit, suit of clothes",0.00409269
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/pretzels_scaled.jpg,spindle,0.257389
 ./nom_ref_imgs/scaled/pretzels_scaled.jpg,maraca,0.162731
 ./nom_ref_imgs/scaled/pretzels_scaled.jpg,hair slide,0.14108
@@ -735,7 +669,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/pretzels_scaled.jpg,thimble,0.0202237
 ./nom_ref_imgs/scaled/pretzels_scaled.jpg,"pick, plectrum, plectron",0.0201486
 ./nom_ref_imgs/scaled/pretzels_scaled.jpg,"wool, woolen, woollen",0.0193104
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/horse_scaled.jpg,black-and-tan coonhound,0.0862711
 ./nom_ref_imgs/scaled/horse_scaled.jpg,muzzle,0.0683218
 ./nom_ref_imgs/scaled/horse_scaled.jpg,flat-coated retriever,0.0622805
@@ -746,7 +679,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/horse_scaled.jpg,neck brace,0.0295843
 ./nom_ref_imgs/scaled/horse_scaled.jpg,sweatshirt,0.0278238
 ./nom_ref_imgs/scaled/horse_scaled.jpg,"water buffalo, water ox, Asiatic buffalo, Bubalus bubalis",0.0259345
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/gloves_scaled.jpg,knee pad,0.150291
 ./nom_ref_imgs/scaled/gloves_scaled.jpg,"swimming trunks, bathing trunks",0.124728
 ./nom_ref_imgs/scaled/gloves_scaled.jpg,purse,0.056494
@@ -757,7 +689,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/gloves_scaled.jpg,buckle,0.0416935
 ./nom_ref_imgs/scaled/gloves_scaled.jpg,sleeping bag,0.0312359
 ./nom_ref_imgs/scaled/gloves_scaled.jpg,shower cap,0.0274167
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/blackBear_scaled.jpg,"American black bear, black bear, Ursus americanus, Euarctos americanus",0.656281
 ./nom_ref_imgs/scaled/blackBear_scaled.jpg,wombat,0.159023
 ./nom_ref_imgs/scaled/blackBear_scaled.jpg,"brown bear, bruin, Ursus arctos",0.0605954
@@ -768,7 +699,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/blackBear_scaled.jpg,"wild boar, boar, Sus scrofa",0.00754198
 ./nom_ref_imgs/scaled/blackBear_scaled.jpg,"Arctic fox, white fox, Alopex lagopus",0.00626694
 ./nom_ref_imgs/scaled/blackBear_scaled.jpg,mink,0.00606874
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/wardrobe_scaled.jpg,"wardrobe, closet, press",0.916668
 ./nom_ref_imgs/scaled/wardrobe_scaled.jpg,"medicine chest, medicine cabinet",0.0434031
 ./nom_ref_imgs/scaled/wardrobe_scaled.jpg,plate rack,0.0253303
@@ -779,7 +709,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/wardrobe_scaled.jpg,shower curtain,0.000972464
 ./nom_ref_imgs/scaled/wardrobe_scaled.jpg,space heater,0.00088639
 ./nom_ref_imgs/scaled/wardrobe_scaled.jpg,entertainment center,0.000537064
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/snake_scaled.jpg,broccoli,0.0597725
 ./nom_ref_imgs/scaled/snake_scaled.jpg,hair slide,0.044603
 ./nom_ref_imgs/scaled/snake_scaled.jpg,neck brace,0.0422659
@@ -790,7 +719,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/snake_scaled.jpg,bottlecap,0.0176956
 ./nom_ref_imgs/scaled/snake_scaled.jpg,"spotted salamander, Ambystoma maculatum",0.0173199
 ./nom_ref_imgs/scaled/snake_scaled.jpg,chain,0.0170558
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/polarBear_scaled.jpg,"ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus",0.842856
 ./nom_ref_imgs/scaled/polarBear_scaled.jpg,badger,0.0387933
 ./nom_ref_imgs/scaled/polarBear_scaled.jpg,kuvasz,0.0266286
@@ -801,7 +729,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/polarBear_scaled.jpg,otter,0.00462052
 ./nom_ref_imgs/scaled/polarBear_scaled.jpg,"American black bear, black bear, Ursus americanus, Euarctos americanus",0.00260771
 ./nom_ref_imgs/scaled/polarBear_scaled.jpg,"gorilla, Gorilla gorilla",0.00252405
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/dressShirt_scaled.jpg,trench coat,0.638973
 ./nom_ref_imgs/scaled/dressShirt_scaled.jpg,"suit, suit of clothes",0.176116
 ./nom_ref_imgs/scaled/dressShirt_scaled.jpg,cardigan,0.0611433
@@ -812,7 +739,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/dressShirt_scaled.jpg,fur coat,0.0113019
 ./nom_ref_imgs/scaled/dressShirt_scaled.jpg,velvet,0.00578867
 ./nom_ref_imgs/scaled/dressShirt_scaled.jpg,"wool, woolen, woollen",0.00541871
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/train_scaled.jpg,stretcher,0.185802
 ./nom_ref_imgs/scaled/train_scaled.jpg,"passenger car, coach, carriage",0.137788
 ./nom_ref_imgs/scaled/train_scaled.jpg,"trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi",0.124427
@@ -823,7 +749,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/train_scaled.jpg,"harmonica, mouth organ, harp, mouth harp",0.0214849
 ./nom_ref_imgs/scaled/train_scaled.jpg,ski,0.0177505
 ./nom_ref_imgs/scaled/train_scaled.jpg,"oboe, hautboy, hautbois",0.0161143
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/mnMs_scaled.jpg,abacus,0.482605
 ./nom_ref_imgs/scaled/mnMs_scaled.jpg,croquet ball,0.336137
 ./nom_ref_imgs/scaled/mnMs_scaled.jpg,maraca,0.0878317
@@ -834,7 +759,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/mnMs_scaled.jpg,bell pepper,0.00315654
 ./nom_ref_imgs/scaled/mnMs_scaled.jpg,balloon,0.00305941
 ./nom_ref_imgs/scaled/mnMs_scaled.jpg,Granny Smith,0.00267409
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/convertible_scaled.jpg,car wheel,0.895701
 ./nom_ref_imgs/scaled/convertible_scaled.jpg,stethoscope,0.0138834
 ./nom_ref_imgs/scaled/convertible_scaled.jpg,"French horn, horn",0.0138207
@@ -845,7 +769,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/convertible_scaled.jpg,"disk brake, disc brake",0.00473736
 ./nom_ref_imgs/scaled/convertible_scaled.jpg,"sports car, sport car",0.00361706
 ./nom_ref_imgs/scaled/convertible_scaled.jpg,analog clock,0.00265318
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/suv_scaled.jpg,car wheel,0.198599
 ./nom_ref_imgs/scaled/suv_scaled.jpg,minivan,0.183862
 ./nom_ref_imgs/scaled/suv_scaled.jpg,"pickup, pickup truck",0.102205
@@ -856,7 +779,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/suv_scaled.jpg,convertible,0.0408509
 ./nom_ref_imgs/scaled/suv_scaled.jpg,"cab, hack, taxi, taxicab",0.0305312
 ./nom_ref_imgs/scaled/suv_scaled.jpg,"sports car, sport car",0.0164051
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/cookies_scaled.jpg,"ocarina, sweet potato",0.27821
 ./nom_ref_imgs/scaled/cookies_scaled.jpg,mitten,0.196629
 ./nom_ref_imgs/scaled/cookies_scaled.jpg,"pajama, pyjama, pj's, jammies",0.0365191
@@ -867,7 +789,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/cookies_scaled.jpg,sleeping bag,0.0232104
 ./nom_ref_imgs/scaled/cookies_scaled.jpg,purse,0.0223212
 ./nom_ref_imgs/scaled/cookies_scaled.jpg,"clog, geta, patten, sabot",0.0202981
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/husky_scaled.jpg,"Eskimo dog, husky",0.642431
 ./nom_ref_imgs/scaled/husky_scaled.jpg,Siberian husky,0.322261
 ./nom_ref_imgs/scaled/husky_scaled.jpg,"Norwegian elkhound, elkhound",0.0186725
@@ -878,7 +799,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/husky_scaled.jpg,"timber wolf, grey wolf, gray wolf, Canis lupus",0.000173158
 ./nom_ref_imgs/scaled/husky_scaled.jpg,"Cardigan, Cardigan Welsh corgi",0.000135502
 ./nom_ref_imgs/scaled/husky_scaled.jpg,toy terrier,7.83286e-05
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/candyCorn_scaled.jpg,"rubber eraser, rubber, pencil eraser",0.650637
 ./nom_ref_imgs/scaled/candyCorn_scaled.jpg,hair slide,0.132368
 ./nom_ref_imgs/scaled/candyCorn_scaled.jpg,matchstick,0.0454584
@@ -889,7 +809,6 @@ File Name,Label,Probability
 ./nom_ref_imgs/scaled/candyCorn_scaled.jpg,"pick, plectrum, plectron",0.00772441
 ./nom_ref_imgs/scaled/candyCorn_scaled.jpg,whistle,0.00667407
 ./nom_ref_imgs/scaled/candyCorn_scaled.jpg,pill bottle,0.00656057
-File Name,Label,Probability
 ./nom_ref_imgs/scaled/bookcase_scaled.jpg,bookcase,0.953893
 ./nom_ref_imgs/scaled/bookcase_scaled.jpg,"medicine chest, medicine cabinet",0.0184114
 ./nom_ref_imgs/scaled/bookcase_scaled.jpg,library,0.00629661
