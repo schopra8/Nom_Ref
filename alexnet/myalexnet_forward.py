@@ -22,6 +22,7 @@ import time
 import glob
 import os
 import csv
+import json
 from numpy import *
 from pylab import *
 import numpy as np
@@ -62,7 +63,7 @@ with open('object_table.csv') as csvfile:
 # Read Images - Nominal Reference Game Images
 nom_ref_img_names = []
 nom_ref_imgs = []
-object_to_img = {}
+img_to_object = {}
 imgs_dir = './nom_ref_imgs/scaled'
 imgs_path = '{}/*.jpg'.format(imgs_dir)
 for img_file in glob.glob(imgs_path):
@@ -75,7 +76,7 @@ for img_file in glob.glob(imgs_path):
   img_file_prefix = splitext(basename(img_file))[0].lower()
   obj_name = img_file_prefix[:img_file_prefix.find('_')]
 
-  object_to_img[img_file] = (obj_name, object_name_to_ind[obj_name])
+  img_to_object[img_file] = (obj_name, object_name_to_ind[obj_name])
 
 
 ################################################################################
@@ -242,17 +243,19 @@ with open('./alexnet_results/nom_ref_predicted_labels.csv' ,'wb') as f:
   for input_im_ind in range(output["prob"].shape[0]):
       inds = argsort(output["prob"])[input_im_ind,:]
       print "Predicting Image", input_im_ind
+      img_file_name = nom_ref_img_names[input_im_ind]
       for i in range(10):
-        img_file_name = nom_ref_img_names[input_im_ind]
-        vals = [img_file_name, object_to_img[img_file_name][0], object_to_img[img_file_name][1], class_names[inds[-1-i]], output["prob"][input_im_ind, inds[-1-i]]]
+        vals = [img_file_name, img_to_object[img_file_name][0], img_to_object[img_file_name][1], class_names[inds[-1-i]], output["prob"][input_im_ind, inds[-1-i]]]
         writer.writerow(vals)
 
-# Output Tensor Labels (Image File Paths)
-with open('./alexnet_results/tensor_row_labels.csv' ,'wb') as f:
-  writer = csv.writer(f)
-  writer.writerows([[i] for i in nom_ref_img_names])
-
 # Output Tensor:
-np.savetxt('./alexnet_results/alexnet_rep.csv', output["fc8"], delimiter=',')
+embeddings = {}
+for input_im_ind in range(output["fc8"].shape[0]):
+  img_file_name = nom_ref_img_names[input_im_ind]
+  obj_index = img_to_object[img_file_name][1]
+  embeddings[obj_index] = output["fc8"][input_im_ind, :].tolist()
+
+with open('./alexnet_results/embeddings.json', 'w') as fp:
+    json.dump(embeddings, fp)
 
 print time.time()-t
