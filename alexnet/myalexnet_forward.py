@@ -248,6 +248,26 @@ with open('./alexnet_results/nom_ref_predicted_labels.csv' ,'wb') as f:
         vals = [img_file_name, img_to_object[img_file_name][0], img_to_object[img_file_name][1], class_names[inds[-1-i]], output["prob"][input_im_ind, inds[-1-i]]]
         writer.writerow(vals)
 
+# Output Top 10 Labels Per Object
+with open('./alexnet_results/nom_ref_top_10_labels.csv' ,'wb') as f:
+  writer = csv.writer(f)
+  header = ["Object", "Object_Index"]
+  header = ["Label {}".format(i+1) for i in xrange(10)]
+  header.insert(0, "Object_Index")
+  header.insert(0, "Object")
+  writer.writerow(header)
+
+  for input_im_ind in range(output["prob"].shape[0]):
+      inds = argsort(output["prob"])[input_im_ind,:]
+      print "Predicting Image", input_im_ind
+      img_file_name = nom_ref_img_names[input_im_ind]
+      obj = img_to_object[img_file_name]
+
+      label_prob_pairs = ["{} ({})".format(class_names[inds[-1-i]], output["prob"][input_im_ind, inds[-1-i]]) for i in xrange(10)]
+      vals = [obj[0], obj[1]]
+      vals.extend(label_prob_pairs)
+      writer.writerow(vals)
+
 # Output Tensor:
 embeddings = {}
 for input_im_ind in range(output["fc8"].shape[0]):
