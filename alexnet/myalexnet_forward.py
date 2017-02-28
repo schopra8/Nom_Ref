@@ -68,7 +68,7 @@ imgs_dir = './nom_ref_imgs/resize_by_larger_dim'
 imgs_path = '{}/*.jpg'.format(imgs_dir)
 for img_file in glob.glob(imgs_path):
   img = (imread(img_file)[:,:,:3]).astype(np.float32)
-  img = img - mean(img)
+  # img = img - mean(img)
 
   nom_ref_img_names.append(img_file)
   nom_ref_imgs.append(img)
@@ -237,7 +237,7 @@ output = sess.run({"prob": prob, "fc8": fc8}, feed_dict = {x:nom_ref_imgs})
 ################################################################################
 
 # Output Probabilities:
-with open('./alexnet_results/resize_by_larger_dim/nom_ref_predicted_labels.csv' ,'wb') as f:
+with open('./alexnet_results/resize_by_larger_dim_without_demeaning_images/nom_ref_predicted_labels.csv' ,'wb') as f:
   writer = csv.writer(f)
   writer.writerow(["File Name", "Object", "Object_Index", "Label", "Probability"])
   for input_im_ind in range(output["prob"].shape[0]):
@@ -249,7 +249,7 @@ with open('./alexnet_results/resize_by_larger_dim/nom_ref_predicted_labels.csv' 
         writer.writerow(vals)
 
 # Output Top 10 Labels Per Object
-with open('./alexnet_results/resize_by_larger_dim/nom_ref_top_10_labels.csv' ,'wb') as f:
+with open('./alexnet_results/resize_by_larger_dim_without_demeaning_images/nom_ref_top_10_labels.csv' ,'wb') as f:
   writer = csv.writer(f)
   header = ["Object", "Object_Index"]
   header = ["Label {}".format(i+1) for i in xrange(10)]
@@ -275,7 +275,7 @@ for input_im_ind in range(output["fc8"].shape[0]):
   obj_index = img_to_object[img_file_name][1]
   embeddings[obj_index] = output["fc8"][input_im_ind, :].tolist()
 
-with open('./alexnet_results/resize_by_larger_dim/embeddings.json', 'w') as fp:
+with open('./alexnet_results/resize_by_larger_dim_without_demeaning_images/embeddings.json', 'w') as fp:
     json.dump(embeddings, fp)
 
 print time.time()-t
