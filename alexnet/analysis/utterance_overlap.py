@@ -15,38 +15,61 @@ import sets
 sys.path.insert(1, os.path.join(sys.path[0], '..'))
 from caffe_classes import class_names
 
-all_utterances = set()
-obj_to_sub_cat = {}
-obj_to_basic_cat = {}
-obj_to_sup_cat = {}
+def substring_utterance_overlap(all_utterances, class_names_edited):
+    num_intersection = 0
+    overlapping_utterances = {}
+    for u in list(all_utterances):
+        for c in class_names_edited:
+            if u in c:
+                num_intersection += 1
+                overlapping_utterances[u] = True
+                print (u, c)
 
-# Extract object info
-with open('../object_table.csv') as csvfile:
-  reader = csv.DictReader(csvfile)
-  for row in reader:
-    obj = (row['object_name'], row['object_ind'])
-    obj_to_sub_cat[obj] = row['sub_category']
-    obj_to_basic_cat[obj] = row['basic_category']
-    obj_to_sup_cat[obj] = row['super_category']
-    all_utterances.add(row['sub_category'])
-    all_utterances.add(row['basic_category'])
-    all_utterances.add(row['super_category'])
+    print "--------------"
+    print "Substring Overlap"
+    print "Total Unique Utterances: {}".format(len(all_utterances))
+    print "Intersection Utterances Overall: {}".format(num_intersection)
+    print "Unique Overlapping Utterances Overall: {}".format(len(overlapping_utterances.keys()))
+    print "--------------"
 
+def exact_string_overlap(all_utterances, class_names, utterance_to_obj_and_cat):
+    # Split multi word labels into individual words & remove whitespace
+    class_names_edited = [x.replace(" ", "") for labels in class_names for x in str.split(labels, ",")]
 
-# Remove spaces from words in class names -- to match utterances
-class_names_edited = [x.replace(" ", "").replace(",", ", ") for x in class_names]
+    num_intersection = 0
+    overlapping_utterances = {}
+    for u in list(all_utterances):
+        for c in class_names_edited:
+            if u == c:
+                num_intersection += 1
+                overlapping_utterances[u] = True
+                print "Utterance: {}, Imagenet Class: {}, {}".format(u, c, utterance_to_obj_and_cat[u])
 
-num_intersection = 0
-overlapping_utterances = {}
-for u in list(all_utterances):
-    for c in class_names_edited:
-        if u in c:
-            num_intersection += 1
-            overlapping_utterances[u] = True
-            print (u, c)
+    print "--------------"
+    print "Exact String Overlap:"
+    print "Total Unique Utterances: {}".format(len(all_utterances))
+    print "Intersection Utterances Overall: {}".format(num_intersection)
+    print "Unique Overlapping Utterances Overall: {}".format(len(overlapping_utterances.keys()))
+    print "--------------"   
 
-print "--------------"
-print "Total Unique Utterances: {}".format(len(all_utterances))
-print "Overlapping Utterances Overall: {}".format(num_intersection)
-print "Overlapping Utterances Overall: {}".format(len(overlapping_utterances.keys()))
-print "--------------"
+if __name__ == '__main__':
+    all_utterances = set()
+    utterance_to_obj_and_cat = {}
+
+    # Extract object info
+    with open('../object_table.csv') as csvfile:
+      reader = csv.DictReader(csvfile)
+      for row in reader:
+        obj = (row['object_name'], row['object_ind'])
+
+        utterance_to_obj_and_cat[row['sub_category']] = (obj, 'sub')
+        utterance_to_obj_and_cat[row['basic_category']] = (obj, 'basic')  
+        utterance_to_obj_and_cat[row['super_category']] = (obj, 'super')
+
+        all_utterances.add(row['sub_category'])
+        all_utterances.add(row['basic_category'])
+        all_utterances.add(row['super_category'])
+
+    substring_utterance_overlap(all_utterances, class_names)
+    print "-----------------------------------------"
+    exact_string_overlap(all_utterances, class_names, utterance_to_obj_and_cat)
