@@ -35,6 +35,72 @@ def get_min_dim(im):
     else:
         return im.shape[1], False
 
+
+def upscale_by_smaller_dim(im):
+    # Upscale image, if one of the dimensions is less than IMG_SIZE
+    min_dim, height_is_min = get_min_dim(im)
+    if min_dim < IMG_SIZE:
+        upsample_percentage = (IMG_SIZE / min_dim)
+        if height_is_min:
+            width_scaled = int(im.shape[1] * upsample_percentage)
+            rescaled_shape = (int(IMG_SIZE), width_scaled)
+        else:
+            height_scaled = int(im.shape[0] * upsample_percentage)
+            rescaled_shape = (height_scaled, int(IMG_SIZE))
+        im = imresize(im, rescaled_shape)
+
+    print "Image Dimensions after Upscaling"
+    print im.shape
+    return im
+
+def resize_by_smaller_dim(im):
+    # Resize image such that smaller length is IMG_SIZE
+    min_dim, height_is_min = get_min_dim(im)
+    if min_dim != IMG_SIZE:
+        downsample_frac = (IMG_SIZE / min_dim)
+        im = imresize(im, downsample_frac)
+
+    print "Image Dimensions after Resizing"
+    print im.shape    
+    return im
+
+def crop_center(im):
+    # Extract central IMG_SIZE x IMG_SIZE portion of the image
+    min_dim, height_is_min = get_min_dim(im)
+    if height_is_min:
+        if im.shape[1] > IMG_SIZE:
+            margin = int((im.shape[1] - IMG_SIZE)/2)
+            # If margin is 0, we have 1 pixel to chop off
+            # If we follow through with cropping, we'll
+            # end up with a side that has length 0.
+            if margin != 0:
+                im = im[:, margin : - margin, :]
+    else:
+        if im.shape[0] > IMG_SIZE:
+            margin = int((im.shape[0] - IMG_SIZE)/2)
+            # If margin is 0, we have 1 pixel to chop off
+            # If we follow through with cropping, we'll
+            # end up with a side that has length 0.
+            if margin != 0:
+                im = im[margin : -margin, :, :]
+
+    print "Image Dimensions after Cropping"
+    print im.shape
+    return im
+
+def crop_post_processing(im):
+    # If we have an odd number of pixels for height or width
+    # we will be left with an extra row or column of pixels
+    # i.e. IMG_SIZE x IMG_SIZE + 1 or
+    # IMG_SIZE + 1 x 256. We must get rid of this
+    # excess -- as Alexnet requires a fixed input of
+    # IMG_SIZE x IMG_SIZE images.
+    if im.shape[0] > IMG_SIZE:
+        im = im[0:IMG_SIZE, :, :]
+    else:
+        im = im[:, 0:IMG_SIZE, :]
+    return im
+
 def preprocess_imgs(orig_imgs_dir, scaled_imgs_dir):
     imgs = {}
 
@@ -49,63 +115,19 @@ def preprocess_imgs(orig_imgs_dir, scaled_imgs_dir):
         print "Original Image Dimensions"
         print im.shape
 
-        # Upscale image, if one of the dimensions is less than IMG_SIZE
-        min_dim, height_is_min = get_min_dim(im)
-        if min_dim < IMG_SIZE:
-            upsample_percentage = (IMG_SIZE / min_dim)
-            if height_is_min:
-                width_scaled = int(im.shape[1] * upsample_percentage)
-                rescaled_shape = (int(IMG_SIZE), width_scaled)
-            else:
-                height_scaled = int(im.shape[0] * upsample_percentage)
-                rescaled_shape = (height_scaled, int(IMG_SIZE))
-            im = imresize(im, rescaled_shape)
+        # Upsample if smaller dimension < IMG_SIZE
+        im = upscale_by_smaller_dim(im)
 
-        print "Image Dimensions after Upscaling"
-        print im.shape
+        # Downsample such that smaller dimension = IMG_SIZE
+        im = resize_by_smaller_dim(im)
 
-        # Resize image such that smaller length is 256
-        min_dim, height_is_min = get_min_dim(im)
-        if min_dim != IMG_SIZE:
-            downsample_frac = (IMG_SIZE / min_dim)
-            im = imresize(im, downsample_frac)
+        # Crop center IMG_SIZE x IMG_SIZE portion
+        im = crop_center(im) 
+        im = crop_post_processing(im)
 
-        print "Image Dimensions after Resizing"
-        print im.shape
+        # Ensue correct dimensions of the image
+        assert(im.shape == (IMG_SIZE, IMG_SIZE, 3)) 
 
-        # Extract central IMG_SIZE x IMG_SIZE portion of the image
-        min_dim, height_is_min = get_min_dim(im)
-        if height_is_min:
-            if im.shape[1] > IMG_SIZE:
-                margin = int((im.shape[1] - IMG_SIZE)/2)
-                # If margin is 0, we have 1 pixel to chop off
-                # If we follow through with cropping, we'll
-                # end up with a side that has length 0.
-                if margin != 0:
-                    im = im[:, margin : - margin, :]
-        else:
-            if im.shape[0] > IMG_SIZE:
-                margin = int((im.shape[0] - IMG_SIZE)/2)
-                # If margin is 0, we have 1 pixel to chop off
-                # If we follow through with cropping, we'll
-                # end up with a side that has length 0.
-                if margin != 0:
-                    im = im[margin : -margin, :, :]
-
-        print "Image Dimensions after Cropping"
-        print im.shape
-
-        # If we have an odd number of pixels for height or width
-        # we will be left with an extra row or column of pixels
-        # i.e. IMG_SIZE x IMG_SIZE + 1 or
-        # IMG_SIZE + 1 x 256. We must get rid of this
-        # excess -- as Alexnet requires a fixed input of
-        # IMG_SIZE x IMG_SIZE images.
-        if im.shape[0] > IMG_SIZE:
-            im = im[0:IMG_SIZE, :, :]
-        else:
-            im = im[:, 0:IMG_SIZE, :]
-        assert(im.shape == (IMG_SIZE, IMG_SIZE, 3))
 
         print "Finished Image"
         print im.shape
