@@ -3,15 +3,18 @@ This repository contains experiments on the Nominal Reference Game dataset produ
 
 Currently, the project is focused on developing speaker models to produce utterances provided by human speakers in the game. Specifically, we have been focusing on inferring different lexicons based on the game data, before running RSA to produce utterances. Below is a list of the proposed models that are contained and documented within this repository.
 
-## TODO: Add Deterministic 
+## TODO: Add Deterministic Lexicon Model
 ## TODO: Add Beta-Draw Webppl Model
 ## TODO: Create Directory for our "Vision" Model that Leverages Alexnet.
+
+## Models
 * Beta-Draw for Lexicon Seeding
 * Deterinsitic Lexicon
 * Vision-Inferred Lexicon
 
-## alexnet
+## Directory Laout
+### alexnet
 Directory contains all code pertaining to deriving dense image embeddings of the objects used in the nominal reference game.
 
-## nomRef
+### nomRef
 Directory contains code pertaining to preprocessing the Nominal Reference Data.
