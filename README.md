@@ -16,5 +16,5 @@ Currently, the project is focused on developing speaker models to produce uttera
 ### alexnet
 Directory contains all code pertaining to deriving dense image embeddings of the objects used in the nominal reference game.
 
-### nomRef
+### nom_ref_preprocessing
 Directory contains code pertaining to preprocessing the Nominal Reference Data.
