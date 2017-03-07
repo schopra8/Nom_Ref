@@ -220,7 +220,6 @@ def preprocess_imgs(orig_imgs_dir, scaled_imgs_dir, resize_for_smaller_dim=True)
 
 # Excute Pre-Processing
 orig_imgs_dir = './nom_ref_imgs/orig'
-# scaled_imgs_dir = './nom_ref_imgs/scaled'
 scaled_imgs_dir = './nom_ref_imgs/resize_by_larger_dim'
 print "-----------------------------------"
 print 'Scaling images from {} and deposting them in {}'.format(orig_imgs_dir, scaled_imgs_dir)

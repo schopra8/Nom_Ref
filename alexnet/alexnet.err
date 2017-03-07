@@ -1,4 +1,0 @@
-Traceback (most recent call last):
-  File "myalexnet_forward.py", line 21, in <module>
-    from scipy.misc import imread
-ImportError: cannot import name imread
