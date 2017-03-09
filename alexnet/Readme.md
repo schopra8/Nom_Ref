@@ -1,6 +1,6 @@
 # alexnet
 
-We leverage a pretrained version of alexnet from (http://www.cs.toronto.edu/~guerzhoy/tf_alexnet/). In order to run Alexnet, you mustfirst download the trained alexnet weights via:
+We leverage a pretrained version of alexnet from (http://www.cs.toronto.edu/~guerzhoy/tf_alexnet/). In order to run Alexnet, you must first download the trained alexnet weights via:
 ```
 curl http://www.cs.toronto.edu/~guerzhoy/tf_alexnet/bvlc_alexnet.npy# --output bvlc_alexnet.npy
 
@@ -12,6 +12,8 @@ ml load python/2.7.5
 module load tensorflow
 module load py-scipy/0.17.0
 ```
+
+## Directory Output
 
 ### alexnet_output
 This is a directoy of the output produced by alexnet, including top 10 labels, predicted labels, and embeddings for specified objects.
