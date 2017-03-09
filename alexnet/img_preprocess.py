@@ -19,6 +19,7 @@ import glob
 import numpy as np
 from subprocess import call
 from math import ceil
+import os
 from os.path import basename
 from os.path import splitext
 from scipy.misc import imread
@@ -219,8 +220,10 @@ def preprocess_imgs(orig_imgs_dir, scaled_imgs_dir, resize_for_smaller_dim=True)
         imsave(fp, im)
 
 # Excute Pre-Processing
-orig_imgs_dir = './nom_ref_imgs/orig'
-scaled_imgs_dir = './nom_ref_imgs/resize_by_larger_dim'
+orig_imgs_dir = '../imgs/nom_ref_imgs/orig'
+scaled_imgs_dir = '../imgs/nom_ref_imgs/scaled'
+if not os.path.exists(scaled_imgs_dir):
+    os.makedirs(scaled_imgs_dir)
 print "-----------------------------------"
 print 'Scaling images from {} and deposting them in {}'.format(orig_imgs_dir, scaled_imgs_dir)
 preprocess_imgs(orig_imgs_dir, scaled_imgs_dir, False)

@@ -13,11 +13,11 @@ module load tensorflow
 module load py-scipy/0.17.0
 ```
 
+### alexnet_output
+This is a directoy of the output produced by alexnet, including top 10 labels, predicted labels, and embeddings for specified objects.
+
 ### default_imgs
 This is a directory of the images that came with the pretrained Alexnet model. 
-
-### nom_ref_imgs
-This is a directory of images from the Nominal Reference Game data. It contains two subdirectories - one for the original images and one for the images resized into 227 x 227 patches that can be fed into the Alexnet Model.
 
 ### analysis
 This is a directory that contains analysis of the Alexnet classification of images from the Nominal Reference data.

@@ -64,7 +64,7 @@ with open('object_table.csv') as csvfile:
 nom_ref_img_names = []
 nom_ref_imgs = []
 img_to_object = {}
-imgs_dir = './nom_ref_imgs/resize_by_larger_dim'
+imgs_dir = '../imgs/nom_ref_imgs/scaled'
 imgs_path = '{}/*.jpg'.format(imgs_dir)
 for img_file in glob.glob(imgs_path):
   img = (imread(img_file)[:,:,:3]).astype(np.float32)
@@ -236,8 +236,14 @@ output = sess.run({"prob": prob, "fc8": fc8}, feed_dict = {x:nom_ref_imgs})
 
 ################################################################################
 
-# Output Probabilities:
-with open('./alexnet_results/resize_by_larger_dim/nom_ref_predicted_labels.csv' ,'wb') as f:
+# Create results directory
+results_dir = './alexnet_output/nom_ref'
+if not os.path.exists(results_dir):
+    os.makedirs(results_dir)
+
+# Output csv of all predicted labels:
+predicted_labels_file = '{}/predicted_labels.csv'.format(results_dir)
+with open(predicted_labels_file ,'wb') as f:
   writer = csv.writer(f)
   writer.writerow(["File Name", "Object", "Object_Index", "Label", "Probability"])
   for input_im_ind in range(output["prob"].shape[0]):
@@ -249,7 +255,8 @@ with open('./alexnet_results/resize_by_larger_dim/nom_ref_predicted_labels.csv' 
         writer.writerow(vals)
 
 # Output Top 10 Labels Per Object
-with open('./alexnet_results/resize_by_larger_dim/nom_ref_top_10_labels.csv' ,'wb') as f:
+top_10_labels_file = '{}/top_10_labels.csv'.format(results_dir)
+with open(top_10_labels_file ,'wb') as f:
   writer = csv.writer(f)
   header = ["Object", "Object_Index"]
   header = ["Label {}".format(i+1) for i in xrange(10)]
@@ -269,13 +276,14 @@ with open('./alexnet_results/resize_by_larger_dim/nom_ref_top_10_labels.csv' ,'w
       writer.writerow(vals)
 
 # Output Tensor:
+embeddings_file = '{}/embeddings.json'.format(results_dir)
 embeddings = {}
 for input_im_ind in range(output["fc8"].shape[0]):
   img_file_name = nom_ref_img_names[input_im_ind]
   obj_index = img_to_object[img_file_name][1]
   embeddings[obj_index] = output["fc8"][input_im_ind, :].tolist()
 
-with open('./alexnet_results/resize_by_larger_dim/embeddings.json', 'w') as fp:
+with open(embeddings_file, 'w') as fp:
     json.dump(embeddings, fp)
 
 print time.time()-t

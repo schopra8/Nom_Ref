@@ -1,0 +1,811 @@
+File Name,Object,Object_Index,Label,Probability
+../imgs/nom_ref_imgs/scaled/sparrow_scaled.jpg,sparrow,80,"brambling, Fringilla montifringilla",0.37638
+../imgs/nom_ref_imgs/scaled/sparrow_scaled.jpg,sparrow,80,magpie,0.170657
+../imgs/nom_ref_imgs/scaled/sparrow_scaled.jpg,sparrow,80,"house finch, linnet, Carpodacus mexicanus",0.117602
+../imgs/nom_ref_imgs/scaled/sparrow_scaled.jpg,sparrow,80,"junco, snowbird",0.106213
+../imgs/nom_ref_imgs/scaled/sparrow_scaled.jpg,sparrow,80,"robin, American robin, Turdus migratorius",0.0541474
+../imgs/nom_ref_imgs/scaled/sparrow_scaled.jpg,sparrow,80,jay,0.0318833
+../imgs/nom_ref_imgs/scaled/sparrow_scaled.jpg,sparrow,80,"indigo bunting, indigo finch, indigo bird, Passerina cyanea",0.0266073
+../imgs/nom_ref_imgs/scaled/sparrow_scaled.jpg,sparrow,80,"goldfinch, Carduelis carduelis",0.0265866
+../imgs/nom_ref_imgs/scaled/sparrow_scaled.jpg,sparrow,80,chickadee,0.025705
+../imgs/nom_ref_imgs/scaled/sparrow_scaled.jpg,sparrow,80,bulbul,0.0180008
+../imgs/nom_ref_imgs/scaled/sheep_scaled.jpg,sheep,79,Mexican hairless,0.62238
+../imgs/nom_ref_imgs/scaled/sheep_scaled.jpg,sheep,79,triceratops,0.0560268
+../imgs/nom_ref_imgs/scaled/sheep_scaled.jpg,sheep,79,"African grey, African gray, Psittacus erithacus",0.0161137
+../imgs/nom_ref_imgs/scaled/sheep_scaled.jpg,sheep,79,"piggy bank, penny bank",0.0120191
+../imgs/nom_ref_imgs/scaled/sheep_scaled.jpg,sheep,79,"ocarina, sweet potato",0.0113361
+../imgs/nom_ref_imgs/scaled/sheep_scaled.jpg,sheep,79,"bonnet, poke bonnet",0.0111701
+../imgs/nom_ref_imgs/scaled/sheep_scaled.jpg,sheep,79,standard poodle,0.0110519
+../imgs/nom_ref_imgs/scaled/sheep_scaled.jpg,sheep,79,schipperke,0.0107781
+../imgs/nom_ref_imgs/scaled/sheep_scaled.jpg,sheep,79,kelpie,0.00995041
+../imgs/nom_ref_imgs/scaled/sheep_scaled.jpg,sheep,79,"teddy, teddy bear",0.00730783
+../imgs/nom_ref_imgs/scaled/greyhound_scaled.jpg,greyhound,40,"Scottish deerhound, deerhound",0.385811
+../imgs/nom_ref_imgs/scaled/greyhound_scaled.jpg,greyhound,40,whippet,0.20986
+../imgs/nom_ref_imgs/scaled/greyhound_scaled.jpg,greyhound,40,"Saluki, gazelle hound",0.200807
+../imgs/nom_ref_imgs/scaled/greyhound_scaled.jpg,greyhound,40,Italian greyhound,0.104902
+../imgs/nom_ref_imgs/scaled/greyhound_scaled.jpg,greyhound,40,Mexican hairless,0.0270563
+../imgs/nom_ref_imgs/scaled/greyhound_scaled.jpg,greyhound,40,Irish wolfhound,0.0220532
+../imgs/nom_ref_imgs/scaled/greyhound_scaled.jpg,greyhound,40,Great Dane,0.0176432
+../imgs/nom_ref_imgs/scaled/greyhound_scaled.jpg,greyhound,40,toy terrier,0.00533971
+../imgs/nom_ref_imgs/scaled/greyhound_scaled.jpg,greyhound,40,Egyptian cat,0.00441297
+../imgs/nom_ref_imgs/scaled/greyhound_scaled.jpg,greyhound,40,flat-coated retriever,0.00401244
+../imgs/nom_ref_imgs/scaled/poloShirt_scaled.jpg,poloshirt,15,trench coat,0.409744
+../imgs/nom_ref_imgs/scaled/poloShirt_scaled.jpg,poloshirt,15,"jersey, T-shirt, tee shirt",0.235236
+../imgs/nom_ref_imgs/scaled/poloShirt_scaled.jpg,poloshirt,15,"suit, suit of clothes",0.134105
+../imgs/nom_ref_imgs/scaled/poloShirt_scaled.jpg,poloshirt,15,fur coat,0.0709569
+../imgs/nom_ref_imgs/scaled/poloShirt_scaled.jpg,poloshirt,15,sweatshirt,0.0440575
+../imgs/nom_ref_imgs/scaled/poloShirt_scaled.jpg,poloshirt,15,"wool, woolen, woollen",0.0138355
+../imgs/nom_ref_imgs/scaled/poloShirt_scaled.jpg,poloshirt,15,"academic gown, academic robe, judge's robe",0.0138353
+../imgs/nom_ref_imgs/scaled/poloShirt_scaled.jpg,poloshirt,15,poncho,0.0125262
+../imgs/nom_ref_imgs/scaled/poloShirt_scaled.jpg,poloshirt,15,velvet,0.00969056
+../imgs/nom_ref_imgs/scaled/poloShirt_scaled.jpg,poloshirt,15,cloak,0.00854078
+../imgs/nom_ref_imgs/scaled/bison_scaled.jpg,bison,56,bison,0.495636
+../imgs/nom_ref_imgs/scaled/bison_scaled.jpg,bison,56,"wild boar, boar, Sus scrofa",0.137098
+../imgs/nom_ref_imgs/scaled/bison_scaled.jpg,bison,56,"hog, pig, grunter, squealer, Sus scrofa",0.0628543
+../imgs/nom_ref_imgs/scaled/bison_scaled.jpg,bison,56,ox,0.0356754
+../imgs/nom_ref_imgs/scaled/bison_scaled.jpg,bison,56,"American black bear, black bear, Ursus americanus, Euarctos americanus",0.0347125
+../imgs/nom_ref_imgs/scaled/bison_scaled.jpg,bison,56,schipperke,0.0237055
+../imgs/nom_ref_imgs/scaled/bison_scaled.jpg,bison,56,curly-coated retriever,0.0229893
+../imgs/nom_ref_imgs/scaled/bison_scaled.jpg,bison,56,flat-coated retriever,0.0220089
+../imgs/nom_ref_imgs/scaled/bison_scaled.jpg,bison,56,"water buffalo, water ox, Asiatic buffalo, Bubalus bubalis",0.015329
+../imgs/nom_ref_imgs/scaled/bison_scaled.jpg,bison,56,"ram, tup",0.0149937
+../imgs/nom_ref_imgs/scaled/diningTable_scaled.jpg,diningtable,13,"dining table, board",0.453987
+../imgs/nom_ref_imgs/scaled/diningTable_scaled.jpg,diningtable,13,desk,0.273851
+../imgs/nom_ref_imgs/scaled/diningTable_scaled.jpg,diningtable,13,"pool table, billiard table, snooker table",0.140258
+../imgs/nom_ref_imgs/scaled/diningTable_scaled.jpg,diningtable,13,"bathtub, bathing tub, bath, tub",0.0162524
+../imgs/nom_ref_imgs/scaled/diningTable_scaled.jpg,diningtable,13,paper towel,0.0148178
+../imgs/nom_ref_imgs/scaled/diningTable_scaled.jpg,diningtable,13,"studio couch, day bed",0.00947034
+../imgs/nom_ref_imgs/scaled/diningTable_scaled.jpg,diningtable,13,"parallel bars, bars",0.00942896
+../imgs/nom_ref_imgs/scaled/diningTable_scaled.jpg,diningtable,13,"grand piano, grand",0.00715686
+../imgs/nom_ref_imgs/scaled/diningTable_scaled.jpg,diningtable,13,"tub, vat",0.00695274
+../imgs/nom_ref_imgs/scaled/diningTable_scaled.jpg,diningtable,13,park bench,0.00565336
+../imgs/nom_ref_imgs/scaled/firetruck_scaled.jpg,firetruck,64,"racer, race car, racing car",0.118644
+../imgs/nom_ref_imgs/scaled/firetruck_scaled.jpg,firetruck,64,tractor,0.11599
+../imgs/nom_ref_imgs/scaled/firetruck_scaled.jpg,firetruck,64,barbell,0.095801
+../imgs/nom_ref_imgs/scaled/firetruck_scaled.jpg,firetruck,64,"trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi",0.0892552
+../imgs/nom_ref_imgs/scaled/firetruck_scaled.jpg,firetruck,64,"garbage truck, dustcart",0.056749
+../imgs/nom_ref_imgs/scaled/firetruck_scaled.jpg,firetruck,64,forklift,0.0566265
+../imgs/nom_ref_imgs/scaled/firetruck_scaled.jpg,firetruck,64,"tow truck, tow car, wrecker",0.0535706
+../imgs/nom_ref_imgs/scaled/firetruck_scaled.jpg,firetruck,64,dumbbell,0.0422718
+../imgs/nom_ref_imgs/scaled/firetruck_scaled.jpg,firetruck,64,"plow, plough",0.0402597
+../imgs/nom_ref_imgs/scaled/firetruck_scaled.jpg,firetruck,64,"harvester, reaper",0.0282572
+../imgs/nom_ref_imgs/scaled/goldFish_scaled.jpg,goldfish,6,pinwheel,0.406887
+../imgs/nom_ref_imgs/scaled/goldFish_scaled.jpg,goldfish,6,spindle,0.1675
+../imgs/nom_ref_imgs/scaled/goldFish_scaled.jpg,goldfish,6,triceratops,0.0414562
+../imgs/nom_ref_imgs/scaled/goldFish_scaled.jpg,goldfish,6,poncho,0.04081
+../imgs/nom_ref_imgs/scaled/goldFish_scaled.jpg,goldfish,6,hair slide,0.0387249
+../imgs/nom_ref_imgs/scaled/goldFish_scaled.jpg,goldfish,6,"swab, swob, mop",0.036547
+../imgs/nom_ref_imgs/scaled/goldFish_scaled.jpg,goldfish,6,"quill, quill pen",0.0325712
+../imgs/nom_ref_imgs/scaled/goldFish_scaled.jpg,goldfish,6,agama,0.031382
+../imgs/nom_ref_imgs/scaled/goldFish_scaled.jpg,goldfish,6,"feather boa, boa",0.0214083
+../imgs/nom_ref_imgs/scaled/goldFish_scaled.jpg,goldfish,6,knot,0.0198448
+../imgs/nom_ref_imgs/scaled/hummingBird_scaled.jpg,hummingbird,31,hummingbird,0.917083
+../imgs/nom_ref_imgs/scaled/hummingBird_scaled.jpg,hummingbird,31,jay,0.036421
+../imgs/nom_ref_imgs/scaled/hummingBird_scaled.jpg,hummingbird,31,"indigo bunting, indigo finch, indigo bird, Passerina cyanea",0.0278141
+../imgs/nom_ref_imgs/scaled/hummingBird_scaled.jpg,hummingbird,31,bee eater,0.00933119
+../imgs/nom_ref_imgs/scaled/hummingBird_scaled.jpg,hummingbird,31,"European gallinule, Porphyrio porphyrio",0.00429127
+../imgs/nom_ref_imgs/scaled/hummingBird_scaled.jpg,hummingbird,31,jacamar,0.00185857
+../imgs/nom_ref_imgs/scaled/hummingBird_scaled.jpg,hummingbird,31,magpie,0.000972419
+../imgs/nom_ref_imgs/scaled/hummingBird_scaled.jpg,hummingbird,31,bulbul,0.000672433
+../imgs/nom_ref_imgs/scaled/hummingBird_scaled.jpg,hummingbird,31,macaw,0.00045164
+../imgs/nom_ref_imgs/scaled/hummingBird_scaled.jpg,hummingbird,31,coucal,0.000360862
+../imgs/nom_ref_imgs/scaled/dress_scaled.jpg,dress,37,velvet,0.342101
+../imgs/nom_ref_imgs/scaled/dress_scaled.jpg,dress,37,gown,0.297754
+../imgs/nom_ref_imgs/scaled/dress_scaled.jpg,dress,37,overskirt,0.181048
+../imgs/nom_ref_imgs/scaled/dress_scaled.jpg,dress,37,"hoopskirt, crinoline",0.0711651
+../imgs/nom_ref_imgs/scaled/dress_scaled.jpg,dress,37,sarong,0.0394408
+../imgs/nom_ref_imgs/scaled/dress_scaled.jpg,dress,37,apron,0.0322146
+../imgs/nom_ref_imgs/scaled/dress_scaled.jpg,dress,37,abaya,0.0102808
+../imgs/nom_ref_imgs/scaled/dress_scaled.jpg,dress,37,trench coat,0.003907
+../imgs/nom_ref_imgs/scaled/dress_scaled.jpg,dress,37,bulletproof vest,0.00353316
+../imgs/nom_ref_imgs/scaled/dress_scaled.jpg,dress,37,stole,0.0034757
+../imgs/nom_ref_imgs/scaled/rose_scaled.jpg,rose,17,"bonnet, poke bonnet",0.150295
+../imgs/nom_ref_imgs/scaled/rose_scaled.jpg,rose,17,"hook, claw",0.0916208
+../imgs/nom_ref_imgs/scaled/rose_scaled.jpg,rose,17,poncho,0.0611543
+../imgs/nom_ref_imgs/scaled/rose_scaled.jpg,rose,17,wig,0.0599252
+../imgs/nom_ref_imgs/scaled/rose_scaled.jpg,rose,17,"indigo bunting, indigo finch, indigo bird, Passerina cyanea",0.0574261
+../imgs/nom_ref_imgs/scaled/rose_scaled.jpg,rose,17,pinwheel,0.0555085
+../imgs/nom_ref_imgs/scaled/rose_scaled.jpg,rose,17,mask,0.0423908
+../imgs/nom_ref_imgs/scaled/rose_scaled.jpg,rose,17,"feather boa, boa",0.0377089
+../imgs/nom_ref_imgs/scaled/rose_scaled.jpg,rose,17,umbrella,0.0229723
+../imgs/nom_ref_imgs/scaled/rose_scaled.jpg,rose,17,"quill, quill pen",0.0216222
+../imgs/nom_ref_imgs/scaled/picnicTable_scaled.jpg,picnictable,2,"plow, plough",0.511157
+../imgs/nom_ref_imgs/scaled/picnicTable_scaled.jpg,picnictable,2,stretcher,0.173564
+../imgs/nom_ref_imgs/scaled/picnicTable_scaled.jpg,picnictable,2,"assault rifle, assault gun",0.0805328
+../imgs/nom_ref_imgs/scaled/picnicTable_scaled.jpg,picnictable,2,"pool table, billiard table, snooker table",0.0256736
+../imgs/nom_ref_imgs/scaled/picnicTable_scaled.jpg,picnictable,2,power drill,0.0211315
+../imgs/nom_ref_imgs/scaled/picnicTable_scaled.jpg,picnictable,2,rifle,0.0174241
+../imgs/nom_ref_imgs/scaled/picnicTable_scaled.jpg,picnictable,2,pinwheel,0.0154433
+../imgs/nom_ref_imgs/scaled/picnicTable_scaled.jpg,picnictable,2,hair slide,0.0127176
+../imgs/nom_ref_imgs/scaled/picnicTable_scaled.jpg,picnictable,2,desk,0.00875228
+../imgs/nom_ref_imgs/scaled/picnicTable_scaled.jpg,picnictable,2,bow,0.00851346
+../imgs/nom_ref_imgs/scaled/tulip_scaled.jpg,tulip,11,maraca,0.128851
+../imgs/nom_ref_imgs/scaled/tulip_scaled.jpg,tulip,11,"quill, quill pen",0.0686852
+../imgs/nom_ref_imgs/scaled/tulip_scaled.jpg,tulip,11,"pick, plectrum, plectron",0.0509707
+../imgs/nom_ref_imgs/scaled/tulip_scaled.jpg,tulip,11,hair slide,0.0392508
+../imgs/nom_ref_imgs/scaled/tulip_scaled.jpg,tulip,11,spatula,0.0288159
+../imgs/nom_ref_imgs/scaled/tulip_scaled.jpg,tulip,11,screwdriver,0.0286632
+../imgs/nom_ref_imgs/scaled/tulip_scaled.jpg,tulip,11,"hand blower, blow dryer, blow drier, hair dryer, hair drier",0.0226405
+../imgs/nom_ref_imgs/scaled/tulip_scaled.jpg,tulip,11,spindle,0.022406
+../imgs/nom_ref_imgs/scaled/tulip_scaled.jpg,tulip,11,paintbrush,0.0207591
+../imgs/nom_ref_imgs/scaled/tulip_scaled.jpg,tulip,11,vase,0.0195407
+../imgs/nom_ref_imgs/scaled/eagle_scaled.jpg,eagle,9,"bald eagle, American eagle, Haliaeetus leucocephalus",0.947507
+../imgs/nom_ref_imgs/scaled/eagle_scaled.jpg,eagle,9,kite,0.0377407
+../imgs/nom_ref_imgs/scaled/eagle_scaled.jpg,eagle,9,vulture,0.0121082
+../imgs/nom_ref_imgs/scaled/eagle_scaled.jpg,eagle,9,hornbill,0.000624339
+../imgs/nom_ref_imgs/scaled/eagle_scaled.jpg,eagle,9,"African grey, African gray, Psittacus erithacus",0.000543804
+../imgs/nom_ref_imgs/scaled/eagle_scaled.jpg,eagle,9,black grouse,0.000204097
+../imgs/nom_ref_imgs/scaled/eagle_scaled.jpg,eagle,9,quail,0.000170522
+../imgs/nom_ref_imgs/scaled/eagle_scaled.jpg,eagle,9,"ruffed grouse, partridge, Bonasa umbellus",0.000158173
+../imgs/nom_ref_imgs/scaled/eagle_scaled.jpg,eagle,9,hen,0.000117469
+../imgs/nom_ref_imgs/scaled/eagle_scaled.jpg,eagle,9,cock,0.000109891
+../imgs/nom_ref_imgs/scaled/lobster_scaled.jpg,lobster,42,"American lobster, Northern lobster, Maine lobster, Homarus americanus",0.37192
+../imgs/nom_ref_imgs/scaled/lobster_scaled.jpg,lobster,42,knot,0.268998
+../imgs/nom_ref_imgs/scaled/lobster_scaled.jpg,lobster,42,pinwheel,0.0583109
+../imgs/nom_ref_imgs/scaled/lobster_scaled.jpg,lobster,42,"crayfish, crawfish, crawdad, crawdaddy",0.0563442
+../imgs/nom_ref_imgs/scaled/lobster_scaled.jpg,lobster,42,scorpion,0.0561561
+../imgs/nom_ref_imgs/scaled/lobster_scaled.jpg,lobster,42,"bow tie, bow-tie, bowtie",0.020175
+../imgs/nom_ref_imgs/scaled/lobster_scaled.jpg,lobster,42,macaw,0.0138976
+../imgs/nom_ref_imgs/scaled/lobster_scaled.jpg,lobster,42,stole,0.0104632
+../imgs/nom_ref_imgs/scaled/lobster_scaled.jpg,lobster,42,"indigo bunting, indigo finch, indigo bird, Passerina cyanea",0.0101973
+../imgs/nom_ref_imgs/scaled/lobster_scaled.jpg,lobster,42,"wool, woolen, woollen",0.00989486
+../imgs/nom_ref_imgs/scaled/tShirt_scaled.jpg,tshirt,34,"jersey, T-shirt, tee shirt",0.990627
+../imgs/nom_ref_imgs/scaled/tShirt_scaled.jpg,tshirt,34,sweatshirt,0.00230695
+../imgs/nom_ref_imgs/scaled/tShirt_scaled.jpg,tshirt,34,maillot,0.00121756
+../imgs/nom_ref_imgs/scaled/tShirt_scaled.jpg,tshirt,34,abaya,0.000862916
+../imgs/nom_ref_imgs/scaled/tShirt_scaled.jpg,tshirt,34,poncho,0.000792729
+../imgs/nom_ref_imgs/scaled/tShirt_scaled.jpg,tshirt,34,vestment,0.000675986
+../imgs/nom_ref_imgs/scaled/tShirt_scaled.jpg,tshirt,34,velvet,0.000584781
+../imgs/nom_ref_imgs/scaled/tShirt_scaled.jpg,tshirt,34,cardigan,0.000483569
+../imgs/nom_ref_imgs/scaled/tShirt_scaled.jpg,tshirt,34,"suit, suit of clothes",0.000422695
+../imgs/nom_ref_imgs/scaled/tShirt_scaled.jpg,tshirt,34,"wool, woolen, woollen",0.00035636
+../imgs/nom_ref_imgs/scaled/grizzlyBear_scaled.jpg,grizzlybear,3,badger,0.273573
+../imgs/nom_ref_imgs/scaled/grizzlyBear_scaled.jpg,grizzlybear,3,"American black bear, black bear, Ursus americanus, Euarctos americanus",0.239967
+../imgs/nom_ref_imgs/scaled/grizzlyBear_scaled.jpg,grizzlybear,3,mink,0.0874636
+../imgs/nom_ref_imgs/scaled/grizzlyBear_scaled.jpg,grizzlybear,3,"brown bear, bruin, Ursus arctos",0.0787331
+../imgs/nom_ref_imgs/scaled/grizzlyBear_scaled.jpg,grizzlybear,3,"polecat, fitch, foulmart, foumart, Mustela putorius",0.0578229
+../imgs/nom_ref_imgs/scaled/grizzlyBear_scaled.jpg,grizzlybear,3,otter,0.0570154
+../imgs/nom_ref_imgs/scaled/grizzlyBear_scaled.jpg,grizzlybear,3,beaver,0.0532468
+../imgs/nom_ref_imgs/scaled/grizzlyBear_scaled.jpg,grizzlybear,3,weasel,0.0209918
+../imgs/nom_ref_imgs/scaled/grizzlyBear_scaled.jpg,grizzlybear,3,"ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus",0.0175776
+../imgs/nom_ref_imgs/scaled/grizzlyBear_scaled.jpg,grizzlybear,3,"black-footed ferret, ferret, Mustela nigripes",0.0172374
+../imgs/nom_ref_imgs/scaled/jellyBeans_scaled.jpg,jellybeans,10,hair slide,0.736256
+../imgs/nom_ref_imgs/scaled/jellyBeans_scaled.jpg,jellybeans,10,"rubber eraser, rubber, pencil eraser",0.199462
+../imgs/nom_ref_imgs/scaled/jellyBeans_scaled.jpg,jellybeans,10,matchstick,0.0189396
+../imgs/nom_ref_imgs/scaled/jellyBeans_scaled.jpg,jellybeans,10,"pick, plectrum, plectron",0.0112355
+../imgs/nom_ref_imgs/scaled/jellyBeans_scaled.jpg,jellybeans,10,whistle,0.00876998
+../imgs/nom_ref_imgs/scaled/jellyBeans_scaled.jpg,jellybeans,10,"wool, woolen, woollen",0.00454222
+../imgs/nom_ref_imgs/scaled/jellyBeans_scaled.jpg,jellybeans,10,abacus,0.00321152
+../imgs/nom_ref_imgs/scaled/jellyBeans_scaled.jpg,jellybeans,10,necklace,0.0026493
+../imgs/nom_ref_imgs/scaled/jellyBeans_scaled.jpg,jellybeans,10,jigsaw puzzle,0.00230308
+../imgs/nom_ref_imgs/scaled/jellyBeans_scaled.jpg,jellybeans,10,safety pin,0.00195653
+../imgs/nom_ref_imgs/scaled/skittles_scaled.jpg,skittles,32,"rubber eraser, rubber, pencil eraser",0.491195
+../imgs/nom_ref_imgs/scaled/skittles_scaled.jpg,skittles,32,hair slide,0.235753
+../imgs/nom_ref_imgs/scaled/skittles_scaled.jpg,skittles,32,"pick, plectrum, plectron",0.0891283
+../imgs/nom_ref_imgs/scaled/skittles_scaled.jpg,skittles,32,joystick,0.0309094
+../imgs/nom_ref_imgs/scaled/skittles_scaled.jpg,skittles,32,thimble,0.0266581
+../imgs/nom_ref_imgs/scaled/skittles_scaled.jpg,skittles,32,pill bottle,0.0253318
+../imgs/nom_ref_imgs/scaled/skittles_scaled.jpg,skittles,32,necklace,0.0190188
+../imgs/nom_ref_imgs/scaled/skittles_scaled.jpg,skittles,32,bottlecap,0.0133131
+../imgs/nom_ref_imgs/scaled/skittles_scaled.jpg,skittles,32,matchstick,0.00911183
+../imgs/nom_ref_imgs/scaled/skittles_scaled.jpg,skittles,32,whistle,0.00617632
+../imgs/nom_ref_imgs/scaled/lily_scaled.jpg,lily,76,pinwheel,0.966832
+../imgs/nom_ref_imgs/scaled/lily_scaled.jpg,lily,76,hair slide,0.00788839
+../imgs/nom_ref_imgs/scaled/lily_scaled.jpg,lily,76,wall clock,0.00487705
+../imgs/nom_ref_imgs/scaled/lily_scaled.jpg,lily,76,street sign,0.00297345
+../imgs/nom_ref_imgs/scaled/lily_scaled.jpg,lily,76,"dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk",0.00122183
+../imgs/nom_ref_imgs/scaled/lily_scaled.jpg,lily,76,screwdriver,0.00121364
+../imgs/nom_ref_imgs/scaled/lily_scaled.jpg,lily,76,screw,0.00111393
+../imgs/nom_ref_imgs/scaled/lily_scaled.jpg,lily,76,"can opener, tin opener",0.00107255
+../imgs/nom_ref_imgs/scaled/lily_scaled.jpg,lily,76,"corkscrew, bottle screw",0.000871214
+../imgs/nom_ref_imgs/scaled/lily_scaled.jpg,lily,76,"rubber eraser, rubber, pencil eraser",0.000742365
+../imgs/nom_ref_imgs/scaled/gummyBears_scaled.jpg,gummybears,8,hair slide,0.248205
+../imgs/nom_ref_imgs/scaled/gummyBears_scaled.jpg,gummybears,8,"rubber eraser, rubber, pencil eraser",0.167293
+../imgs/nom_ref_imgs/scaled/gummyBears_scaled.jpg,gummybears,8,"pick, plectrum, plectron",0.146023
+../imgs/nom_ref_imgs/scaled/gummyBears_scaled.jpg,gummybears,8,pinwheel,0.0690756
+../imgs/nom_ref_imgs/scaled/gummyBears_scaled.jpg,gummybears,8,pencil sharpener,0.052347
+../imgs/nom_ref_imgs/scaled/gummyBears_scaled.jpg,gummybears,8,whistle,0.0520533
+../imgs/nom_ref_imgs/scaled/gummyBears_scaled.jpg,gummybears,8,"candle, taper, wax light",0.0384747
+../imgs/nom_ref_imgs/scaled/gummyBears_scaled.jpg,gummybears,8,knot,0.0285289
+../imgs/nom_ref_imgs/scaled/gummyBears_scaled.jpg,gummybears,8,"pot, flowerpot",0.0236085
+../imgs/nom_ref_imgs/scaled/gummyBears_scaled.jpg,gummybears,8,"clog, geta, patten, sabot",0.0222615
+../imgs/nom_ref_imgs/scaled/hawaiiShirt_scaled.jpg,hawaiishirt,18,fur coat,0.741565
+../imgs/nom_ref_imgs/scaled/hawaiiShirt_scaled.jpg,hawaiishirt,18,kimono,0.120105
+../imgs/nom_ref_imgs/scaled/hawaiiShirt_scaled.jpg,hawaiishirt,18,"pajama, pyjama, pj's, jammies",0.0478524
+../imgs/nom_ref_imgs/scaled/hawaiiShirt_scaled.jpg,hawaiishirt,18,military uniform,0.0284734
+../imgs/nom_ref_imgs/scaled/hawaiiShirt_scaled.jpg,hawaiishirt,18,vestment,0.0213481
+../imgs/nom_ref_imgs/scaled/hawaiiShirt_scaled.jpg,hawaiishirt,18,stole,0.0162818
+../imgs/nom_ref_imgs/scaled/hawaiiShirt_scaled.jpg,hawaiishirt,18,velvet,0.0082532
+../imgs/nom_ref_imgs/scaled/hawaiiShirt_scaled.jpg,hawaiishirt,18,trench coat,0.00463151
+../imgs/nom_ref_imgs/scaled/hawaiiShirt_scaled.jpg,hawaiishirt,18,poncho,0.00228887
+../imgs/nom_ref_imgs/scaled/hawaiiShirt_scaled.jpg,hawaiishirt,18,cuirass,0.00218168
+../imgs/nom_ref_imgs/scaled/rabbit_scaled.jpg,rabbit,60,hare,0.836499
+../imgs/nom_ref_imgs/scaled/rabbit_scaled.jpg,rabbit,60,"wood rabbit, cottontail, cottontail rabbit",0.156037
+../imgs/nom_ref_imgs/scaled/rabbit_scaled.jpg,rabbit,60,"Angora, Angora rabbit",0.00738606
+../imgs/nom_ref_imgs/scaled/rabbit_scaled.jpg,rabbit,60,hamster,4.20534e-05
+../imgs/nom_ref_imgs/scaled/rabbit_scaled.jpg,rabbit,60,broccoli,1.01671e-05
+../imgs/nom_ref_imgs/scaled/rabbit_scaled.jpg,rabbit,60,"fox squirrel, eastern fox squirrel, Sciurus niger",3.17892e-06
+../imgs/nom_ref_imgs/scaled/rabbit_scaled.jpg,rabbit,60,"sulphur-crested cockatoo, Kakatoe galerita, Cacatua galerita",2.90164e-06
+../imgs/nom_ref_imgs/scaled/rabbit_scaled.jpg,rabbit,60,"wallaby, brush kangaroo",2.78317e-06
+../imgs/nom_ref_imgs/scaled/rabbit_scaled.jpg,rabbit,60,Egyptian cat,2.3989e-06
+../imgs/nom_ref_imgs/scaled/rabbit_scaled.jpg,rabbit,60,quail,1.89837e-06
+../imgs/nom_ref_imgs/scaled/motorcycle_scaled.jpg,motorcycle,47,"motor scooter, scooter",0.551322
+../imgs/nom_ref_imgs/scaled/motorcycle_scaled.jpg,motorcycle,47,moped,0.386516
+../imgs/nom_ref_imgs/scaled/motorcycle_scaled.jpg,motorcycle,47,"tricycle, trike, velocipede",0.0228093
+../imgs/nom_ref_imgs/scaled/motorcycle_scaled.jpg,motorcycle,47,crash helmet,0.0155196
+../imgs/nom_ref_imgs/scaled/motorcycle_scaled.jpg,motorcycle,47,"bicycle-built-for-two, tandem bicycle, tandem",0.0151164
+../imgs/nom_ref_imgs/scaled/motorcycle_scaled.jpg,motorcycle,47,"hook, claw",0.00131731
+../imgs/nom_ref_imgs/scaled/motorcycle_scaled.jpg,motorcycle,47,"mountain bike, all-terrain bike, off-roader",0.000885409
+../imgs/nom_ref_imgs/scaled/motorcycle_scaled.jpg,motorcycle,47,"disk brake, disc brake",0.000482143
+../imgs/nom_ref_imgs/scaled/motorcycle_scaled.jpg,motorcycle,47,"unicycle, monocycle",0.000443627
+../imgs/nom_ref_imgs/scaled/motorcycle_scaled.jpg,motorcycle,47,hair slide,0.000441677
+../imgs/nom_ref_imgs/scaled/catfish_scaled.jpg,catfish,28,"spotted salamander, Ambystoma maculatum",0.198925
+../imgs/nom_ref_imgs/scaled/catfish_scaled.jpg,catfish,28,slug,0.148227
+../imgs/nom_ref_imgs/scaled/catfish_scaled.jpg,catfish,28,weevil,0.11926
+../imgs/nom_ref_imgs/scaled/catfish_scaled.jpg,catfish,28,"common newt, Triturus vulgaris",0.110141
+../imgs/nom_ref_imgs/scaled/catfish_scaled.jpg,catfish,28,"ground beetle, carabid beetle",0.0629601
+../imgs/nom_ref_imgs/scaled/catfish_scaled.jpg,catfish,28,"African chameleon, Chamaeleo chamaeleon",0.0560094
+../imgs/nom_ref_imgs/scaled/catfish_scaled.jpg,catfish,28,alligator lizard,0.046082
+../imgs/nom_ref_imgs/scaled/catfish_scaled.jpg,catfish,28,"long-horned beetle, longicorn, longicorn beetle",0.0386122
+../imgs/nom_ref_imgs/scaled/catfish_scaled.jpg,catfish,28,"European fire salamander, Salamandra salamandra",0.0320465
+../imgs/nom_ref_imgs/scaled/catfish_scaled.jpg,catfish,28,"cockroach, roach",0.0126565
+../imgs/nom_ref_imgs/scaled/sedan_scaled.jpg,sedan,75,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.546594
+../imgs/nom_ref_imgs/scaled/sedan_scaled.jpg,sedan,75,minivan,0.333057
+../imgs/nom_ref_imgs/scaled/sedan_scaled.jpg,sedan,75,"grille, radiator grille",0.0376532
+../imgs/nom_ref_imgs/scaled/sedan_scaled.jpg,sedan,75,convertible,0.0255927
+../imgs/nom_ref_imgs/scaled/sedan_scaled.jpg,sedan,75,car wheel,0.0195597
+../imgs/nom_ref_imgs/scaled/sedan_scaled.jpg,sedan,75,"sports car, sport car",0.0185757
+../imgs/nom_ref_imgs/scaled/sedan_scaled.jpg,sedan,75,"limousine, limo",0.00947012
+../imgs/nom_ref_imgs/scaled/sedan_scaled.jpg,sedan,75,"pickup, pickup truck",0.00211047
+../imgs/nom_ref_imgs/scaled/sedan_scaled.jpg,sedan,75,toaster,0.00116856
+../imgs/nom_ref_imgs/scaled/sedan_scaled.jpg,sedan,75,canoe,0.000771484
+../imgs/nom_ref_imgs/scaled/kitten_scaled.jpg,kitten,78,"Angora, Angora rabbit",0.12139
+../imgs/nom_ref_imgs/scaled/kitten_scaled.jpg,kitten,78,"Arctic fox, white fox, Alopex lagopus",0.120387
+../imgs/nom_ref_imgs/scaled/kitten_scaled.jpg,kitten,78,schipperke,0.106752
+../imgs/nom_ref_imgs/scaled/kitten_scaled.jpg,kitten,78,Persian cat,0.0687755
+../imgs/nom_ref_imgs/scaled/kitten_scaled.jpg,kitten,78,groenendael,0.0565272
+../imgs/nom_ref_imgs/scaled/kitten_scaled.jpg,kitten,78,"piggy bank, penny bank",0.0293482
+../imgs/nom_ref_imgs/scaled/kitten_scaled.jpg,kitten,78,"white wolf, Arctic wolf, Canis lupus tundrarum",0.0289238
+../imgs/nom_ref_imgs/scaled/kitten_scaled.jpg,kitten,78,keeshond,0.0221758
+../imgs/nom_ref_imgs/scaled/kitten_scaled.jpg,kitten,78,shower curtain,0.0194938
+../imgs/nom_ref_imgs/scaled/kitten_scaled.jpg,kitten,78,jay,0.0186369
+../imgs/nom_ref_imgs/scaled/pig_scaled.jpg,pig,68,"piggy bank, penny bank",0.449535
+../imgs/nom_ref_imgs/scaled/pig_scaled.jpg,pig,68,"white wolf, Arctic wolf, Canis lupus tundrarum",0.285476
+../imgs/nom_ref_imgs/scaled/pig_scaled.jpg,pig,68,"Arctic fox, white fox, Alopex lagopus",0.217072
+../imgs/nom_ref_imgs/scaled/pig_scaled.jpg,pig,68,"ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus",0.00645971
+../imgs/nom_ref_imgs/scaled/pig_scaled.jpg,pig,68,"hog, pig, grunter, squealer, Sus scrofa",0.00593233
+../imgs/nom_ref_imgs/scaled/pig_scaled.jpg,pig,68,schipperke,0.00535108
+../imgs/nom_ref_imgs/scaled/pig_scaled.jpg,pig,68,Chihuahua,0.00525596
+../imgs/nom_ref_imgs/scaled/pig_scaled.jpg,pig,68,"Siamese cat, Siamese",0.00497899
+../imgs/nom_ref_imgs/scaled/pig_scaled.jpg,pig,68,"red fox, Vulpes vulpes",0.00173618
+../imgs/nom_ref_imgs/scaled/pig_scaled.jpg,pig,68,Egyptian cat,0.00149731
+../imgs/nom_ref_imgs/scaled/koalaBear_scaled.jpg,koalabear,39,"koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus",0.49603
+../imgs/nom_ref_imgs/scaled/koalaBear_scaled.jpg,koalabear,39,groenendael,0.0535329
+../imgs/nom_ref_imgs/scaled/koalaBear_scaled.jpg,koalabear,39,toy poodle,0.0379101
+../imgs/nom_ref_imgs/scaled/koalaBear_scaled.jpg,koalabear,39,"chow, chow chow",0.0356009
+../imgs/nom_ref_imgs/scaled/koalaBear_scaled.jpg,koalabear,39,"teddy, teddy bear",0.0332338
+../imgs/nom_ref_imgs/scaled/koalaBear_scaled.jpg,koalabear,39,miniature poodle,0.031203
+../imgs/nom_ref_imgs/scaled/koalaBear_scaled.jpg,koalabear,39,"Scotch terrier, Scottish terrier, Scottie",0.0261433
+../imgs/nom_ref_imgs/scaled/koalaBear_scaled.jpg,koalabear,39,"affenpinscher, monkey pinscher, monkey dog",0.0250357
+../imgs/nom_ref_imgs/scaled/koalaBear_scaled.jpg,koalabear,39,"Norwegian elkhound, elkhound",0.0191168
+../imgs/nom_ref_imgs/scaled/koalaBear_scaled.jpg,koalabear,39,Kerry blue terrier,0.0159187
+../imgs/nom_ref_imgs/scaled/sunflower_scaled.jpg,sunflower,33,daisy,0.479698
+../imgs/nom_ref_imgs/scaled/sunflower_scaled.jpg,sunflower,33,pinwheel,0.327037
+../imgs/nom_ref_imgs/scaled/sunflower_scaled.jpg,sunflower,33,wall clock,0.0763596
+../imgs/nom_ref_imgs/scaled/sunflower_scaled.jpg,sunflower,33,hair slide,0.031295
+../imgs/nom_ref_imgs/scaled/sunflower_scaled.jpg,sunflower,33,bee,0.0303324
+../imgs/nom_ref_imgs/scaled/sunflower_scaled.jpg,sunflower,33,cardoon,0.0176356
+../imgs/nom_ref_imgs/scaled/sunflower_scaled.jpg,sunflower,33,"quill, quill pen",0.0116501
+../imgs/nom_ref_imgs/scaled/sunflower_scaled.jpg,sunflower,33,sea urchin,0.00365927
+../imgs/nom_ref_imgs/scaled/sunflower_scaled.jpg,sunflower,33,fly,0.003555
+../imgs/nom_ref_imgs/scaled/sunflower_scaled.jpg,sunflower,33,"pot, flowerpot",0.00253984
+../imgs/nom_ref_imgs/scaled/pug_scaled.jpg,pug,22,"pug, pug-dog",0.752497
+../imgs/nom_ref_imgs/scaled/pug_scaled.jpg,pug,22,Brabancon griffon,0.123558
+../imgs/nom_ref_imgs/scaled/pug_scaled.jpg,pug,22,French bulldog,0.0717815
+../imgs/nom_ref_imgs/scaled/pug_scaled.jpg,pug,22,"Boston bull, Boston terrier",0.020155
+../imgs/nom_ref_imgs/scaled/pug_scaled.jpg,pug,22,"Norwegian elkhound, elkhound",0.0186235
+../imgs/nom_ref_imgs/scaled/pug_scaled.jpg,pug,22,bull mastiff,0.00388047
+../imgs/nom_ref_imgs/scaled/pug_scaled.jpg,pug,22,toy terrier,0.00218794
+../imgs/nom_ref_imgs/scaled/pug_scaled.jpg,pug,22,muzzle,0.00140241
+../imgs/nom_ref_imgs/scaled/pug_scaled.jpg,pug,22,boxer,0.000990557
+../imgs/nom_ref_imgs/scaled/pug_scaled.jpg,pug,22,Great Dane,0.000749826
+../imgs/nom_ref_imgs/scaled/elephant_scaled.jpg,elephant,51,triceratops,0.374601
+../imgs/nom_ref_imgs/scaled/elephant_scaled.jpg,elephant,51,"Indian elephant, Elephas maximus",0.338483
+../imgs/nom_ref_imgs/scaled/elephant_scaled.jpg,elephant,51,"African elephant, Loxodonta africana",0.0827411
+../imgs/nom_ref_imgs/scaled/elephant_scaled.jpg,elephant,51,tusker,0.062406
+../imgs/nom_ref_imgs/scaled/elephant_scaled.jpg,elephant,51,Mexican hairless,0.0535617
+../imgs/nom_ref_imgs/scaled/elephant_scaled.jpg,elephant,51,armadillo,0.0179188
+../imgs/nom_ref_imgs/scaled/elephant_scaled.jpg,elephant,51,warthog,0.0135954
+../imgs/nom_ref_imgs/scaled/elephant_scaled.jpg,elephant,51,"ram, tup",0.00808433
+../imgs/nom_ref_imgs/scaled/elephant_scaled.jpg,elephant,51,"Staffordshire bullterrier, Staffordshire bull terrier",0.00716511
+../imgs/nom_ref_imgs/scaled/elephant_scaled.jpg,elephant,51,"bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis",0.00712543
+../imgs/nom_ref_imgs/scaled/coffeeTable_scaled.jpg,coffeetable,20,paper towel,0.143859
+../imgs/nom_ref_imgs/scaled/coffeeTable_scaled.jpg,coffeetable,20,fountain pen,0.101164
+../imgs/nom_ref_imgs/scaled/coffeeTable_scaled.jpg,coffeetable,20,printer,0.100083
+../imgs/nom_ref_imgs/scaled/coffeeTable_scaled.jpg,coffeetable,20,park bench,0.0884041
+../imgs/nom_ref_imgs/scaled/coffeeTable_scaled.jpg,coffeetable,20,"harmonica, mouth organ, harp, mouth harp",0.0603836
+../imgs/nom_ref_imgs/scaled/coffeeTable_scaled.jpg,coffeetable,20,"studio couch, day bed",0.0601138
+../imgs/nom_ref_imgs/scaled/coffeeTable_scaled.jpg,coffeetable,20,space heater,0.0337529
+../imgs/nom_ref_imgs/scaled/coffeeTable_scaled.jpg,coffeetable,20,"mailbox, letter box",0.0325883
+../imgs/nom_ref_imgs/scaled/coffeeTable_scaled.jpg,coffeetable,20,"home theater, home theatre",0.0226384
+../imgs/nom_ref_imgs/scaled/coffeeTable_scaled.jpg,coffeetable,20,CD player,0.0221139
+../imgs/nom_ref_imgs/scaled/lamp_scaled.jpg,lamp,43,table lamp,0.91291
+../imgs/nom_ref_imgs/scaled/lamp_scaled.jpg,lamp,43,"lampshade, lamp shade",0.0869609
+../imgs/nom_ref_imgs/scaled/lamp_scaled.jpg,lamp,43,"chime, bell, gong",0.000109554
+../imgs/nom_ref_imgs/scaled/lamp_scaled.jpg,lamp,43,"spotlight, spot",6.42669e-06
+../imgs/nom_ref_imgs/scaled/lamp_scaled.jpg,lamp,43,"punching bag, punch bag, punching ball, punchball",4.62335e-06
+../imgs/nom_ref_imgs/scaled/lamp_scaled.jpg,lamp,43,"hook, claw",3.1043e-06
+../imgs/nom_ref_imgs/scaled/lamp_scaled.jpg,lamp,43,tripod,1.60814e-06
+../imgs/nom_ref_imgs/scaled/lamp_scaled.jpg,lamp,43,"pedestal, plinth, footstall",8.5438e-07
+../imgs/nom_ref_imgs/scaled/lamp_scaled.jpg,lamp,43,"hoopskirt, crinoline",4.26699e-07
+../imgs/nom_ref_imgs/scaled/lamp_scaled.jpg,lamp,43,umbrella,3.16913e-07
+../imgs/nom_ref_imgs/scaled/ivy_scaled.jpg,ivy,77,pinwheel,0.244959
+../imgs/nom_ref_imgs/scaled/ivy_scaled.jpg,ivy,77,"pot, flowerpot",0.0763856
+../imgs/nom_ref_imgs/scaled/ivy_scaled.jpg,ivy,77,hair slide,0.0698743
+../imgs/nom_ref_imgs/scaled/ivy_scaled.jpg,ivy,77,jigsaw puzzle,0.0574493
+../imgs/nom_ref_imgs/scaled/ivy_scaled.jpg,ivy,77,Christmas stocking,0.0434444
+../imgs/nom_ref_imgs/scaled/ivy_scaled.jpg,ivy,77,vase,0.0373462
+../imgs/nom_ref_imgs/scaled/ivy_scaled.jpg,ivy,77,"hook, claw",0.0350964
+../imgs/nom_ref_imgs/scaled/ivy_scaled.jpg,ivy,77,necklace,0.0333794
+../imgs/nom_ref_imgs/scaled/ivy_scaled.jpg,ivy,77,soap dispenser,0.027209
+../imgs/nom_ref_imgs/scaled/ivy_scaled.jpg,ivy,77,safety pin,0.0271087
+../imgs/nom_ref_imgs/scaled/bedsideTable_scaled.jpg,bedsidetable,29,"file, file cabinet, filing cabinet",0.128493
+../imgs/nom_ref_imgs/scaled/bedsideTable_scaled.jpg,bedsidetable,29,safe,0.0627893
+../imgs/nom_ref_imgs/scaled/bedsideTable_scaled.jpg,bedsidetable,29,stove,0.0408037
+../imgs/nom_ref_imgs/scaled/bedsideTable_scaled.jpg,bedsidetable,29,window screen,0.0388197
+../imgs/nom_ref_imgs/scaled/bedsideTable_scaled.jpg,bedsidetable,29,"medicine chest, medicine cabinet",0.0387757
+../imgs/nom_ref_imgs/scaled/bedsideTable_scaled.jpg,bedsidetable,29,chest,0.0317071
+../imgs/nom_ref_imgs/scaled/bedsideTable_scaled.jpg,bedsidetable,29,"chiffonier, commode",0.0304058
+../imgs/nom_ref_imgs/scaled/bedsideTable_scaled.jpg,bedsidetable,29,"binder, ring-binder",0.0278048
+../imgs/nom_ref_imgs/scaled/bedsideTable_scaled.jpg,bedsidetable,29,"fire screen, fireguard",0.0274156
+../imgs/nom_ref_imgs/scaled/bedsideTable_scaled.jpg,bedsidetable,29,"television, television system",0.0253689
+../imgs/nom_ref_imgs/scaled/grasses_scaled.jpg,grasses,44,"pineapple, ananas",0.351945
+../imgs/nom_ref_imgs/scaled/grasses_scaled.jpg,grasses,44,"quill, quill pen",0.262026
+../imgs/nom_ref_imgs/scaled/grasses_scaled.jpg,grasses,44,"pot, flowerpot",0.114572
+../imgs/nom_ref_imgs/scaled/grasses_scaled.jpg,grasses,44,vase,0.0658384
+../imgs/nom_ref_imgs/scaled/grasses_scaled.jpg,grasses,44,daisy,0.0415788
+../imgs/nom_ref_imgs/scaled/grasses_scaled.jpg,grasses,44,cardoon,0.0314244
+../imgs/nom_ref_imgs/scaled/grasses_scaled.jpg,grasses,44,centipede,0.0207737
+../imgs/nom_ref_imgs/scaled/grasses_scaled.jpg,grasses,44,sea urchin,0.0190062
+../imgs/nom_ref_imgs/scaled/grasses_scaled.jpg,grasses,44,hummingbird,0.0124773
+../imgs/nom_ref_imgs/scaled/grasses_scaled.jpg,grasses,44,"sea anemone, anemone",0.00950469
+../imgs/nom_ref_imgs/scaled/clownFish_scaled.jpg,clownfish,35,joystick,0.0977781
+../imgs/nom_ref_imgs/scaled/clownFish_scaled.jpg,clownfish,35,"clog, geta, patten, sabot",0.057841
+../imgs/nom_ref_imgs/scaled/clownFish_scaled.jpg,clownfish,35,"hook, claw",0.0527767
+../imgs/nom_ref_imgs/scaled/clownFish_scaled.jpg,clownfish,35,knot,0.0517885
+../imgs/nom_ref_imgs/scaled/clownFish_scaled.jpg,clownfish,35,coffee mug,0.0346299
+../imgs/nom_ref_imgs/scaled/clownFish_scaled.jpg,clownfish,35,"gasmask, respirator, gas helmet",0.0345281
+../imgs/nom_ref_imgs/scaled/clownFish_scaled.jpg,clownfish,35,jigsaw puzzle,0.0325355
+../imgs/nom_ref_imgs/scaled/clownFish_scaled.jpg,clownfish,35,knee pad,0.0291986
+../imgs/nom_ref_imgs/scaled/clownFish_scaled.jpg,clownfish,35,"ocarina, sweet potato",0.0290365
+../imgs/nom_ref_imgs/scaled/clownFish_scaled.jpg,clownfish,35,pencil sharpener,0.0276205
+../imgs/nom_ref_imgs/scaled/minivan_scaled.jpg,minivan,7,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.497818
+../imgs/nom_ref_imgs/scaled/minivan_scaled.jpg,minivan,7,minivan,0.417721
+../imgs/nom_ref_imgs/scaled/minivan_scaled.jpg,minivan,7,minibus,0.0368987
+../imgs/nom_ref_imgs/scaled/minivan_scaled.jpg,minivan,7,"limousine, limo",0.0120938
+../imgs/nom_ref_imgs/scaled/minivan_scaled.jpg,minivan,7,"grille, radiator grille",0.00593291
+../imgs/nom_ref_imgs/scaled/minivan_scaled.jpg,minivan,7,ambulance,0.00464067
+../imgs/nom_ref_imgs/scaled/minivan_scaled.jpg,minivan,7,"police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria",0.00440224
+../imgs/nom_ref_imgs/scaled/minivan_scaled.jpg,minivan,7,car wheel,0.00351845
+../imgs/nom_ref_imgs/scaled/minivan_scaled.jpg,minivan,7,"pickup, pickup truck",0.00298113
+../imgs/nom_ref_imgs/scaled/minivan_scaled.jpg,minivan,7,"passenger car, coach, carriage",0.00254759
+../imgs/nom_ref_imgs/scaled/sideTable_scaled.jpg,sidetable,38,desk,0.335832
+../imgs/nom_ref_imgs/scaled/sideTable_scaled.jpg,sidetable,38,"pedestal, plinth, footstall",0.190727
+../imgs/nom_ref_imgs/scaled/sideTable_scaled.jpg,sidetable,38,"pool table, billiard table, snooker table",0.169299
+../imgs/nom_ref_imgs/scaled/sideTable_scaled.jpg,sidetable,38,turnstile,0.13041
+../imgs/nom_ref_imgs/scaled/sideTable_scaled.jpg,sidetable,38,potter's wheel,0.0818079
+../imgs/nom_ref_imgs/scaled/sideTable_scaled.jpg,sidetable,38,"dining table, board",0.023388
+../imgs/nom_ref_imgs/scaled/sideTable_scaled.jpg,sidetable,38,guillotine,0.0127854
+../imgs/nom_ref_imgs/scaled/sideTable_scaled.jpg,sidetable,38,"parallel bars, bars",0.01037
+../imgs/nom_ref_imgs/scaled/sideTable_scaled.jpg,sidetable,38,"medicine chest, medicine cabinet",0.00447213
+../imgs/nom_ref_imgs/scaled/sideTable_scaled.jpg,sidetable,38,"marimba, xylophone",0.00423793
+../imgs/nom_ref_imgs/scaled/pigeon_scaled.jpg,pigeon,19,"water ouzel, dipper",0.13574
+../imgs/nom_ref_imgs/scaled/pigeon_scaled.jpg,pigeon,19,chickadee,0.130004
+../imgs/nom_ref_imgs/scaled/pigeon_scaled.jpg,pigeon,19,hummingbird,0.117477
+../imgs/nom_ref_imgs/scaled/pigeon_scaled.jpg,pigeon,19,magpie,0.0941616
+../imgs/nom_ref_imgs/scaled/pigeon_scaled.jpg,pigeon,19,"albatross, mollymawk",0.0654827
+../imgs/nom_ref_imgs/scaled/pigeon_scaled.jpg,pigeon,19,bulbul,0.0404667
+../imgs/nom_ref_imgs/scaled/pigeon_scaled.jpg,pigeon,19,spoonbill,0.0367073
+../imgs/nom_ref_imgs/scaled/pigeon_scaled.jpg,pigeon,19,ptarmigan,0.0340864
+../imgs/nom_ref_imgs/scaled/pigeon_scaled.jpg,pigeon,19,"brambling, Fringilla montifringilla",0.0339589
+../imgs/nom_ref_imgs/scaled/pigeon_scaled.jpg,pigeon,19,kite,0.0286242
+../imgs/nom_ref_imgs/scaled/hamster_scaled.jpg,hamster,63,hamster,0.18599
+../imgs/nom_ref_imgs/scaled/hamster_scaled.jpg,hamster,63,"tub, vat",0.113465
+../imgs/nom_ref_imgs/scaled/hamster_scaled.jpg,hamster,63,"feather boa, boa",0.0971291
+../imgs/nom_ref_imgs/scaled/hamster_scaled.jpg,hamster,63,"Siamese cat, Siamese",0.0775635
+../imgs/nom_ref_imgs/scaled/hamster_scaled.jpg,hamster,63,"piggy bank, penny bank",0.0739857
+../imgs/nom_ref_imgs/scaled/hamster_scaled.jpg,hamster,63,Egyptian cat,0.0381056
+../imgs/nom_ref_imgs/scaled/hamster_scaled.jpg,hamster,63,"Angora, Angora rabbit",0.0210345
+../imgs/nom_ref_imgs/scaled/hamster_scaled.jpg,hamster,63,"washbasin, handbasin, washbowl, lavabo, wash-hand basin",0.020074
+../imgs/nom_ref_imgs/scaled/hamster_scaled.jpg,hamster,63,plastic bag,0.0166146
+../imgs/nom_ref_imgs/scaled/hamster_scaled.jpg,hamster,63,hare,0.016229
+../imgs/nom_ref_imgs/scaled/lion_scaled.jpg,lion,48,peacock,0.11676
+../imgs/nom_ref_imgs/scaled/lion_scaled.jpg,lion,48,flat-coated retriever,0.0930552
+../imgs/nom_ref_imgs/scaled/lion_scaled.jpg,lion,48,"siamang, Hylobates syndactylus, Symphalangus syndactylus",0.0848513
+../imgs/nom_ref_imgs/scaled/lion_scaled.jpg,lion,48,bluetick,0.0709841
+../imgs/nom_ref_imgs/scaled/lion_scaled.jpg,lion,48,Gordon setter,0.0653222
+../imgs/nom_ref_imgs/scaled/lion_scaled.jpg,lion,48,macaw,0.050539
+../imgs/nom_ref_imgs/scaled/lion_scaled.jpg,lion,48,knot,0.046045
+../imgs/nom_ref_imgs/scaled/lion_scaled.jpg,lion,48,"chimpanzee, chimp, Pan troglodytes",0.0413262
+../imgs/nom_ref_imgs/scaled/lion_scaled.jpg,lion,48,"cocker spaniel, English cocker spaniel, cocker",0.0379113
+../imgs/nom_ref_imgs/scaled/lion_scaled.jpg,lion,48,sleeping bag,0.0166044
+../imgs/nom_ref_imgs/scaled/rhino_scaled.jpg,rhino,49,triceratops,0.929094
+../imgs/nom_ref_imgs/scaled/rhino_scaled.jpg,rhino,49,"water buffalo, water ox, Asiatic buffalo, Bubalus bubalis",0.0172916
+../imgs/nom_ref_imgs/scaled/rhino_scaled.jpg,rhino,49,"hippopotamus, hippo, river horse, Hippopotamus amphibius",0.0133322
+../imgs/nom_ref_imgs/scaled/rhino_scaled.jpg,rhino,49,warthog,0.0085984
+../imgs/nom_ref_imgs/scaled/rhino_scaled.jpg,rhino,49,bison,0.0074675
+../imgs/nom_ref_imgs/scaled/rhino_scaled.jpg,rhino,49,"dugong, Dugong dugon",0.0072714
+../imgs/nom_ref_imgs/scaled/rhino_scaled.jpg,rhino,49,"hog, pig, grunter, squealer, Sus scrofa",0.00703045
+../imgs/nom_ref_imgs/scaled/rhino_scaled.jpg,rhino,49,"wild boar, boar, Sus scrofa",0.00127277
+../imgs/nom_ref_imgs/scaled/rhino_scaled.jpg,rhino,49,ox,0.00084012
+../imgs/nom_ref_imgs/scaled/rhino_scaled.jpg,rhino,49,"piggy bank, penny bank",0.000785332
+../imgs/nom_ref_imgs/scaled/sportsCar_scaled.jpg,sportscar,30,"sports car, sport car",0.332065
+../imgs/nom_ref_imgs/scaled/sportsCar_scaled.jpg,sportscar,30,convertible,0.227321
+../imgs/nom_ref_imgs/scaled/sportsCar_scaled.jpg,sportscar,30,"racer, race car, racing car",0.173633
+../imgs/nom_ref_imgs/scaled/sportsCar_scaled.jpg,sportscar,30,car wheel,0.0842006
+../imgs/nom_ref_imgs/scaled/sportsCar_scaled.jpg,sportscar,30,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.0799902
+../imgs/nom_ref_imgs/scaled/sportsCar_scaled.jpg,sportscar,30,"grille, radiator grille",0.0225245
+../imgs/nom_ref_imgs/scaled/sportsCar_scaled.jpg,sportscar,30,"limousine, limo",0.00867113
+../imgs/nom_ref_imgs/scaled/sportsCar_scaled.jpg,sportscar,30,minivan,0.00538005
+../imgs/nom_ref_imgs/scaled/sportsCar_scaled.jpg,sportscar,30,"pickup, pickup truck",0.00520231
+../imgs/nom_ref_imgs/scaled/sportsCar_scaled.jpg,sportscar,30,stethoscope,0.00395437
+../imgs/nom_ref_imgs/scaled/squirrel_scaled.jpg,squirrel,55,schipperke,0.308751
+../imgs/nom_ref_imgs/scaled/squirrel_scaled.jpg,squirrel,55,Egyptian cat,0.208079
+../imgs/nom_ref_imgs/scaled/squirrel_scaled.jpg,squirrel,55,groenendael,0.131286
+../imgs/nom_ref_imgs/scaled/squirrel_scaled.jpg,squirrel,55,"Scotch terrier, Scottish terrier, Scottie",0.056772
+../imgs/nom_ref_imgs/scaled/squirrel_scaled.jpg,squirrel,55,"Siamese cat, Siamese",0.0295645
+../imgs/nom_ref_imgs/scaled/squirrel_scaled.jpg,squirrel,55,"tabby, tabby cat",0.0292515
+../imgs/nom_ref_imgs/scaled/squirrel_scaled.jpg,squirrel,55,tiger cat,0.0237926
+../imgs/nom_ref_imgs/scaled/squirrel_scaled.jpg,squirrel,55,"lynx, catamount",0.0184455
+../imgs/nom_ref_imgs/scaled/squirrel_scaled.jpg,squirrel,55,"Norwegian elkhound, elkhound",0.0150089
+../imgs/nom_ref_imgs/scaled/squirrel_scaled.jpg,squirrel,55,"grey fox, gray fox, Urocyon cinereoargenteus",0.0132139
+../imgs/nom_ref_imgs/scaled/ambulance_scaled.jpg,ambulance,36,ambulance,0.699259
+../imgs/nom_ref_imgs/scaled/ambulance_scaled.jpg,ambulance,36,"police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria",0.120481
+../imgs/nom_ref_imgs/scaled/ambulance_scaled.jpg,ambulance,36,moving van,0.0396746
+../imgs/nom_ref_imgs/scaled/ambulance_scaled.jpg,ambulance,36,"recreational vehicle, RV, R.V.",0.0387897
+../imgs/nom_ref_imgs/scaled/ambulance_scaled.jpg,ambulance,36,"garbage truck, dustcart",0.0287761
+../imgs/nom_ref_imgs/scaled/ambulance_scaled.jpg,ambulance,36,minibus,0.0179775
+../imgs/nom_ref_imgs/scaled/ambulance_scaled.jpg,ambulance,36,"trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi",0.0108676
+../imgs/nom_ref_imgs/scaled/ambulance_scaled.jpg,ambulance,36,"limousine, limo",0.00683986
+../imgs/nom_ref_imgs/scaled/ambulance_scaled.jpg,ambulance,36,minivan,0.00551908
+../imgs/nom_ref_imgs/scaled/ambulance_scaled.jpg,ambulance,36,"pickup, pickup truck",0.00472031
+../imgs/nom_ref_imgs/scaled/campShirt_scaled.jpg,campshirt,74,trench coat,0.854179
+../imgs/nom_ref_imgs/scaled/campShirt_scaled.jpg,campshirt,74,"suit, suit of clothes",0.138426
+../imgs/nom_ref_imgs/scaled/campShirt_scaled.jpg,campshirt,74,cardigan,0.00186786
+../imgs/nom_ref_imgs/scaled/campShirt_scaled.jpg,campshirt,74,Windsor tie,0.00145014
+../imgs/nom_ref_imgs/scaled/campShirt_scaled.jpg,campshirt,74,fur coat,0.0013025
+../imgs/nom_ref_imgs/scaled/campShirt_scaled.jpg,campshirt,74,"wool, woolen, woollen",0.000721524
+../imgs/nom_ref_imgs/scaled/campShirt_scaled.jpg,campshirt,74,military uniform,0.000571835
+../imgs/nom_ref_imgs/scaled/campShirt_scaled.jpg,campshirt,74,velvet,0.000408859
+../imgs/nom_ref_imgs/scaled/campShirt_scaled.jpg,campshirt,74,"lab coat, laboratory coat",0.000229644
+../imgs/nom_ref_imgs/scaled/campShirt_scaled.jpg,campshirt,74,"pajama, pyjama, pj's, jammies",0.000213732
+../imgs/nom_ref_imgs/scaled/germanShepherd_scaled.jpg,germanshepherd,23,jay,0.37324
+../imgs/nom_ref_imgs/scaled/germanShepherd_scaled.jpg,germanshepherd,23,"Eskimo dog, husky",0.0843271
+../imgs/nom_ref_imgs/scaled/germanShepherd_scaled.jpg,germanshepherd,23,Egyptian cat,0.0565853
+../imgs/nom_ref_imgs/scaled/germanShepherd_scaled.jpg,germanshepherd,23,pinwheel,0.0405057
+../imgs/nom_ref_imgs/scaled/germanShepherd_scaled.jpg,germanshepherd,23,toy terrier,0.0334424
+../imgs/nom_ref_imgs/scaled/germanShepherd_scaled.jpg,germanshepherd,23,"Cardigan, Cardigan Welsh corgi",0.0247864
+../imgs/nom_ref_imgs/scaled/germanShepherd_scaled.jpg,germanshepherd,23,Siberian husky,0.0229371
+../imgs/nom_ref_imgs/scaled/germanShepherd_scaled.jpg,germanshepherd,23,"Norwegian elkhound, elkhound",0.0194842
+../imgs/nom_ref_imgs/scaled/germanShepherd_scaled.jpg,germanshepherd,23,"Boston bull, Boston terrier",0.0191711
+../imgs/nom_ref_imgs/scaled/germanShepherd_scaled.jpg,germanshepherd,23,"can opener, tin opener",0.0181987
+../imgs/nom_ref_imgs/scaled/dalmatian_scaled.jpg,dalmatian,27,"king snake, kingsnake",0.466129
+../imgs/nom_ref_imgs/scaled/dalmatian_scaled.jpg,dalmatian,27,"Gila monster, Heloderma suspectum",0.114415
+../imgs/nom_ref_imgs/scaled/dalmatian_scaled.jpg,dalmatian,27,"hognose snake, puff adder, sand viper",0.0797991
+../imgs/nom_ref_imgs/scaled/dalmatian_scaled.jpg,dalmatian,27,"night snake, Hypsiglena torquata",0.0548929
+../imgs/nom_ref_imgs/scaled/dalmatian_scaled.jpg,dalmatian,27,banded gecko,0.037743
+../imgs/nom_ref_imgs/scaled/dalmatian_scaled.jpg,dalmatian,27,"spotted salamander, Ambystoma maculatum",0.019011
+../imgs/nom_ref_imgs/scaled/dalmatian_scaled.jpg,dalmatian,27,"diamondback, diamondback rattlesnake, Crotalus adamanteus",0.0186698
+../imgs/nom_ref_imgs/scaled/dalmatian_scaled.jpg,dalmatian,27,chain,0.0158994
+../imgs/nom_ref_imgs/scaled/dalmatian_scaled.jpg,dalmatian,27,alligator lizard,0.0150634
+../imgs/nom_ref_imgs/scaled/dalmatian_scaled.jpg,dalmatian,27,necklace,0.0132429
+../imgs/nom_ref_imgs/scaled/chips_scaled.jpg,chips,45,"swimming trunks, bathing trunks",0.237578
+../imgs/nom_ref_imgs/scaled/chips_scaled.jpg,chips,45,knot,0.189602
+../imgs/nom_ref_imgs/scaled/chips_scaled.jpg,chips,45,sleeping bag,0.112037
+../imgs/nom_ref_imgs/scaled/chips_scaled.jpg,chips,45,plastic bag,0.0633057
+../imgs/nom_ref_imgs/scaled/chips_scaled.jpg,chips,45,"diaper, nappy, napkin",0.0509745
+../imgs/nom_ref_imgs/scaled/chips_scaled.jpg,chips,45,"swab, swob, mop",0.0382484
+../imgs/nom_ref_imgs/scaled/chips_scaled.jpg,chips,45,"pajama, pyjama, pj's, jammies",0.037442
+../imgs/nom_ref_imgs/scaled/chips_scaled.jpg,chips,45,velvet,0.0219459
+../imgs/nom_ref_imgs/scaled/chips_scaled.jpg,chips,45,"piggy bank, penny bank",0.020831
+../imgs/nom_ref_imgs/scaled/chips_scaled.jpg,chips,45,"brassiere, bra, bandeau",0.0173006
+../imgs/nom_ref_imgs/scaled/socks_scaled.jpg,socks,73,"panpipe, pandean pipe, syrinx",0.336045
+../imgs/nom_ref_imgs/scaled/socks_scaled.jpg,socks,73,sock,0.117402
+../imgs/nom_ref_imgs/scaled/socks_scaled.jpg,socks,73,"coil, spiral, volute, whorl, helix",0.108033
+../imgs/nom_ref_imgs/scaled/socks_scaled.jpg,socks,73,Windsor tie,0.0779398
+../imgs/nom_ref_imgs/scaled/socks_scaled.jpg,socks,73,matchstick,0.0608559
+../imgs/nom_ref_imgs/scaled/socks_scaled.jpg,socks,73,Christmas stocking,0.0459696
+../imgs/nom_ref_imgs/scaled/socks_scaled.jpg,socks,73,abacus,0.0431172
+../imgs/nom_ref_imgs/scaled/socks_scaled.jpg,socks,73,screwdriver,0.0376695
+../imgs/nom_ref_imgs/scaled/socks_scaled.jpg,socks,73,"rubber eraser, rubber, pencil eraser",0.0353355
+../imgs/nom_ref_imgs/scaled/socks_scaled.jpg,socks,73,spatula,0.0210894
+../imgs/nom_ref_imgs/scaled/parrot_scaled.jpg,parrot,5,macaw,0.986326
+../imgs/nom_ref_imgs/scaled/parrot_scaled.jpg,parrot,5,bee eater,0.00630526
+../imgs/nom_ref_imgs/scaled/parrot_scaled.jpg,parrot,5,lorikeet,0.00333969
+../imgs/nom_ref_imgs/scaled/parrot_scaled.jpg,parrot,5,"indigo bunting, indigo finch, indigo bird, Passerina cyanea",0.0023909
+../imgs/nom_ref_imgs/scaled/parrot_scaled.jpg,parrot,5,ski,0.000283002
+../imgs/nom_ref_imgs/scaled/parrot_scaled.jpg,parrot,5,"European gallinule, Porphyrio porphyrio",0.000264718
+../imgs/nom_ref_imgs/scaled/parrot_scaled.jpg,parrot,5,hummingbird,0.000188623
+../imgs/nom_ref_imgs/scaled/parrot_scaled.jpg,parrot,5,"goldfinch, Carduelis carduelis",0.000152519
+../imgs/nom_ref_imgs/scaled/parrot_scaled.jpg,parrot,5,jay,0.000124694
+../imgs/nom_ref_imgs/scaled/parrot_scaled.jpg,parrot,5,bow,8.57072e-05
+../imgs/nom_ref_imgs/scaled/pandaBear_scaled.jpg,pandabear,26,"giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca",0.967638
+../imgs/nom_ref_imgs/scaled/pandaBear_scaled.jpg,pandabear,26,soccer ball,0.0030056
+../imgs/nom_ref_imgs/scaled/pandaBear_scaled.jpg,pandabear,26,"American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier",0.00270797
+../imgs/nom_ref_imgs/scaled/pandaBear_scaled.jpg,pandabear,26,"Siamese cat, Siamese",0.00266469
+../imgs/nom_ref_imgs/scaled/pandaBear_scaled.jpg,pandabear,26,"Staffordshire bullterrier, Staffordshire bull terrier",0.00241679
+../imgs/nom_ref_imgs/scaled/pandaBear_scaled.jpg,pandabear,26,"teddy, teddy bear",0.00185306
+../imgs/nom_ref_imgs/scaled/pandaBear_scaled.jpg,pandabear,26,weasel,0.00133204
+../imgs/nom_ref_imgs/scaled/pandaBear_scaled.jpg,pandabear,26,"guinea pig, Cavia cobaya",0.00124493
+../imgs/nom_ref_imgs/scaled/pandaBear_scaled.jpg,pandabear,26,"Old English sheepdog, bobtail",0.00118214
+../imgs/nom_ref_imgs/scaled/pandaBear_scaled.jpg,pandabear,26,"Boston bull, Boston terrier",0.00112448
+../imgs/nom_ref_imgs/scaled/bed_scaled.jpg,bed,69,"studio couch, day bed",0.262127
+../imgs/nom_ref_imgs/scaled/bed_scaled.jpg,bed,69,desk,0.116327
+../imgs/nom_ref_imgs/scaled/bed_scaled.jpg,bed,69,"dining table, board",0.108009
+../imgs/nom_ref_imgs/scaled/bed_scaled.jpg,bed,69,"washbasin, handbasin, washbowl, lavabo, wash-hand basin",0.0831811
+../imgs/nom_ref_imgs/scaled/bed_scaled.jpg,bed,69,bassinet,0.0505671
+../imgs/nom_ref_imgs/scaled/bed_scaled.jpg,bed,69,"bathtub, bathing tub, bath, tub",0.0324325
+../imgs/nom_ref_imgs/scaled/bed_scaled.jpg,bed,69,"tub, vat",0.025877
+../imgs/nom_ref_imgs/scaled/bed_scaled.jpg,bed,69,table lamp,0.0256438
+../imgs/nom_ref_imgs/scaled/bed_scaled.jpg,bed,69,four-poster,0.0222267
+../imgs/nom_ref_imgs/scaled/bed_scaled.jpg,bed,69,"grand piano, grand",0.0190168
+../imgs/nom_ref_imgs/scaled/crocodile_scaled.jpg,crocodile,52,"American alligator, Alligator mississipiensis",0.234697
+../imgs/nom_ref_imgs/scaled/crocodile_scaled.jpg,crocodile,52,"spotted salamander, Ambystoma maculatum",0.0799752
+../imgs/nom_ref_imgs/scaled/crocodile_scaled.jpg,crocodile,52,rifle,0.0665124
+../imgs/nom_ref_imgs/scaled/crocodile_scaled.jpg,crocodile,52,alligator lizard,0.0587909
+../imgs/nom_ref_imgs/scaled/crocodile_scaled.jpg,crocodile,52,"assault rifle, assault gun",0.038802
+../imgs/nom_ref_imgs/scaled/crocodile_scaled.jpg,crocodile,52,"oboe, hautboy, hautbois",0.0384483
+../imgs/nom_ref_imgs/scaled/crocodile_scaled.jpg,crocodile,52,"gar, garfish, garpike, billfish, Lepisosteus osseus",0.037066
+../imgs/nom_ref_imgs/scaled/crocodile_scaled.jpg,crocodile,52,"African crocodile, Nile crocodile, Crocodylus niloticus",0.0344654
+../imgs/nom_ref_imgs/scaled/crocodile_scaled.jpg,crocodile,52,"letter opener, paper knife, paperknife",0.0341487
+../imgs/nom_ref_imgs/scaled/crocodile_scaled.jpg,crocodile,52,scabbard,0.0339476
+../imgs/nom_ref_imgs/scaled/pottedPlant_scaled.jpg,pottedplant,62,"pot, flowerpot",0.698678
+../imgs/nom_ref_imgs/scaled/pottedPlant_scaled.jpg,pottedplant,62,vase,0.259633
+../imgs/nom_ref_imgs/scaled/pottedPlant_scaled.jpg,pottedplant,62,"quill, quill pen",0.0196136
+../imgs/nom_ref_imgs/scaled/pottedPlant_scaled.jpg,pottedplant,62,daisy,0.00484462
+../imgs/nom_ref_imgs/scaled/pottedPlant_scaled.jpg,pottedplant,62,pinwheel,0.00395664
+../imgs/nom_ref_imgs/scaled/pottedPlant_scaled.jpg,pottedplant,62,goblet,0.00203517
+../imgs/nom_ref_imgs/scaled/pottedPlant_scaled.jpg,pottedplant,62,"pineapple, ananas",0.00178477
+../imgs/nom_ref_imgs/scaled/pottedPlant_scaled.jpg,pottedplant,62,"bucket, pail",0.000904909
+../imgs/nom_ref_imgs/scaled/pottedPlant_scaled.jpg,pottedplant,62,broom,0.000885125
+../imgs/nom_ref_imgs/scaled/pottedPlant_scaled.jpg,pottedplant,62,paintbrush,0.000547511
+../imgs/nom_ref_imgs/scaled/discusFish_scaled.jpg,discusfish,67,Windsor tie,0.157991
+../imgs/nom_ref_imgs/scaled/discusFish_scaled.jpg,discusfish,67,"piggy bank, penny bank",0.141006
+../imgs/nom_ref_imgs/scaled/discusFish_scaled.jpg,discusfish,67,"bonnet, poke bonnet",0.111339
+../imgs/nom_ref_imgs/scaled/discusFish_scaled.jpg,discusfish,67,"wool, woolen, woollen",0.045355
+../imgs/nom_ref_imgs/scaled/discusFish_scaled.jpg,discusfish,67,sarong,0.0372294
+../imgs/nom_ref_imgs/scaled/discusFish_scaled.jpg,discusfish,67,"indigo bunting, indigo finch, indigo bird, Passerina cyanea",0.0357601
+../imgs/nom_ref_imgs/scaled/discusFish_scaled.jpg,discusfish,67,"swab, swob, mop",0.0295662
+../imgs/nom_ref_imgs/scaled/discusFish_scaled.jpg,discusfish,67,"swimming trunks, bathing trunks",0.0255577
+../imgs/nom_ref_imgs/scaled/discusFish_scaled.jpg,discusfish,67,stole,0.0238646
+../imgs/nom_ref_imgs/scaled/discusFish_scaled.jpg,discusfish,67,lorikeet,0.0219309
+../imgs/nom_ref_imgs/scaled/rosemary_scaled.jpg,rosemary,66,peacock,0.380948
+../imgs/nom_ref_imgs/scaled/rosemary_scaled.jpg,rosemary,66,"quill, quill pen",0.264636
+../imgs/nom_ref_imgs/scaled/rosemary_scaled.jpg,rosemary,66,hair slide,0.0777083
+../imgs/nom_ref_imgs/scaled/rosemary_scaled.jpg,rosemary,66,hummingbird,0.0764609
+../imgs/nom_ref_imgs/scaled/rosemary_scaled.jpg,rosemary,66,broom,0.0376987
+../imgs/nom_ref_imgs/scaled/rosemary_scaled.jpg,rosemary,66,"feather boa, boa",0.0220961
+../imgs/nom_ref_imgs/scaled/rosemary_scaled.jpg,rosemary,66,"swab, swob, mop",0.0156589
+../imgs/nom_ref_imgs/scaled/rosemary_scaled.jpg,rosemary,66,macaw,0.0105187
+../imgs/nom_ref_imgs/scaled/rosemary_scaled.jpg,rosemary,66,"pot, flowerpot",0.00839305
+../imgs/nom_ref_imgs/scaled/rosemary_scaled.jpg,rosemary,66,pinwheel,0.00779004
+../imgs/nom_ref_imgs/scaled/cow_scaled.jpg,cow,54,"puck, hockey puck",0.245993
+../imgs/nom_ref_imgs/scaled/cow_scaled.jpg,cow,54,"Boston bull, Boston terrier",0.207845
+../imgs/nom_ref_imgs/scaled/cow_scaled.jpg,cow,54,"chocolate sauce, chocolate syrup",0.091498
+../imgs/nom_ref_imgs/scaled/cow_scaled.jpg,cow,54,Great Dane,0.0372592
+../imgs/nom_ref_imgs/scaled/cow_scaled.jpg,cow,54,"Walker hound, Walker foxhound",0.0327813
+../imgs/nom_ref_imgs/scaled/cow_scaled.jpg,cow,54,"dalmatian, coach dog, carriage dog",0.0326045
+../imgs/nom_ref_imgs/scaled/cow_scaled.jpg,cow,54,"Staffordshire bullterrier, Staffordshire bull terrier",0.0256258
+../imgs/nom_ref_imgs/scaled/cow_scaled.jpg,cow,54,Italian greyhound,0.0238983
+../imgs/nom_ref_imgs/scaled/cow_scaled.jpg,cow,54,"African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus",0.0214138
+../imgs/nom_ref_imgs/scaled/cow_scaled.jpg,cow,54,"Cardigan, Cardigan Welsh corgi",0.0162673
+../imgs/nom_ref_imgs/scaled/daisy_scaled.jpg,daisy,24,"bolo tie, bolo, bola tie, bola",0.211001
+../imgs/nom_ref_imgs/scaled/daisy_scaled.jpg,daisy,24,hair slide,0.16077
+../imgs/nom_ref_imgs/scaled/daisy_scaled.jpg,daisy,24,"quill, quill pen",0.146117
+../imgs/nom_ref_imgs/scaled/daisy_scaled.jpg,daisy,24,pinwheel,0.115573
+../imgs/nom_ref_imgs/scaled/daisy_scaled.jpg,daisy,24,daisy,0.104012
+../imgs/nom_ref_imgs/scaled/daisy_scaled.jpg,daisy,24,wall clock,0.0845202
+../imgs/nom_ref_imgs/scaled/daisy_scaled.jpg,daisy,24,"indigo bunting, indigo finch, indigo bird, Passerina cyanea",0.0477796
+../imgs/nom_ref_imgs/scaled/daisy_scaled.jpg,daisy,24,"dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk",0.0184208
+../imgs/nom_ref_imgs/scaled/daisy_scaled.jpg,daisy,24,cardoon,0.0149372
+../imgs/nom_ref_imgs/scaled/daisy_scaled.jpg,daisy,24,hummingbird,0.0147501
+../imgs/nom_ref_imgs/scaled/iguana_scaled.jpg,iguana,53,"green lizard, Lacerta viridis",0.446845
+../imgs/nom_ref_imgs/scaled/iguana_scaled.jpg,iguana,53,broccoli,0.140384
+../imgs/nom_ref_imgs/scaled/iguana_scaled.jpg,iguana,53,stole,0.111312
+../imgs/nom_ref_imgs/scaled/iguana_scaled.jpg,iguana,53,"American chameleon, anole, Anolis carolinensis",0.0598966
+../imgs/nom_ref_imgs/scaled/iguana_scaled.jpg,iguana,53,sock,0.0398025
+../imgs/nom_ref_imgs/scaled/iguana_scaled.jpg,iguana,53,peacock,0.0330285
+../imgs/nom_ref_imgs/scaled/iguana_scaled.jpg,iguana,53,agama,0.0311152
+../imgs/nom_ref_imgs/scaled/iguana_scaled.jpg,iguana,53,mitten,0.0258859
+../imgs/nom_ref_imgs/scaled/iguana_scaled.jpg,iguana,53,"African chameleon, Chamaeleo chamaeleon",0.0241041
+../imgs/nom_ref_imgs/scaled/iguana_scaled.jpg,iguana,53,Christmas stocking,0.0199075
+../imgs/nom_ref_imgs/scaled/popcorn_scaled.jpg,popcorn,50,hair slide,0.326909
+../imgs/nom_ref_imgs/scaled/popcorn_scaled.jpg,popcorn,50,jigsaw puzzle,0.150004
+../imgs/nom_ref_imgs/scaled/popcorn_scaled.jpg,popcorn,50,"rubber eraser, rubber, pencil eraser",0.0427875
+../imgs/nom_ref_imgs/scaled/popcorn_scaled.jpg,popcorn,50,water bottle,0.0271057
+../imgs/nom_ref_imgs/scaled/popcorn_scaled.jpg,popcorn,50,pencil sharpener,0.0191726
+../imgs/nom_ref_imgs/scaled/popcorn_scaled.jpg,popcorn,50,"handkerchief, hankie, hanky, hankey",0.0164221
+../imgs/nom_ref_imgs/scaled/popcorn_scaled.jpg,popcorn,50,knot,0.0162904
+../imgs/nom_ref_imgs/scaled/popcorn_scaled.jpg,popcorn,50,screw,0.0162188
+../imgs/nom_ref_imgs/scaled/popcorn_scaled.jpg,popcorn,50,"piggy bank, penny bank",0.0146586
+../imgs/nom_ref_imgs/scaled/popcorn_scaled.jpg,popcorn,50,"swimming trunks, bathing trunks",0.0136989
+../imgs/nom_ref_imgs/scaled/swordFish_scaled.jpg,swordfish,25,bee eater,0.188215
+../imgs/nom_ref_imgs/scaled/swordFish_scaled.jpg,swordfish,25,bulbul,0.107857
+../imgs/nom_ref_imgs/scaled/swordFish_scaled.jpg,swordfish,25,goose,0.0903599
+../imgs/nom_ref_imgs/scaled/swordFish_scaled.jpg,swordfish,25,kite,0.0836491
+../imgs/nom_ref_imgs/scaled/swordFish_scaled.jpg,swordfish,25,"albatross, mollymawk",0.0475144
+../imgs/nom_ref_imgs/scaled/swordFish_scaled.jpg,swordfish,25,hummingbird,0.0389824
+../imgs/nom_ref_imgs/scaled/swordFish_scaled.jpg,swordfish,25,jacamar,0.0339181
+../imgs/nom_ref_imgs/scaled/swordFish_scaled.jpg,swordfish,25,quail,0.0272032
+../imgs/nom_ref_imgs/scaled/swordFish_scaled.jpg,swordfish,25,crane,0.0252538
+../imgs/nom_ref_imgs/scaled/swordFish_scaled.jpg,swordfish,25,"walking stick, walkingstick, stick insect",0.0234802
+../imgs/nom_ref_imgs/scaled/bathrobe_scaled.jpg,bathrobe,70,velvet,0.284129
+../imgs/nom_ref_imgs/scaled/bathrobe_scaled.jpg,bathrobe,70,trench coat,0.27196
+../imgs/nom_ref_imgs/scaled/bathrobe_scaled.jpg,bathrobe,70,overskirt,0.0983098
+../imgs/nom_ref_imgs/scaled/bathrobe_scaled.jpg,bathrobe,70,"hoopskirt, crinoline",0.0656549
+../imgs/nom_ref_imgs/scaled/bathrobe_scaled.jpg,bathrobe,70,"pajama, pyjama, pj's, jammies",0.0599681
+../imgs/nom_ref_imgs/scaled/bathrobe_scaled.jpg,bathrobe,70,fur coat,0.0408899
+../imgs/nom_ref_imgs/scaled/bathrobe_scaled.jpg,bathrobe,70,wig,0.0280403
+../imgs/nom_ref_imgs/scaled/bathrobe_scaled.jpg,bathrobe,70,gown,0.0212003
+../imgs/nom_ref_imgs/scaled/bathrobe_scaled.jpg,bathrobe,70,kimono,0.0199075
+../imgs/nom_ref_imgs/scaled/bathrobe_scaled.jpg,bathrobe,70,"miniskirt, mini",0.0132606
+../imgs/nom_ref_imgs/scaled/pretzels_scaled.jpg,pretzels,71,knot,0.533938
+../imgs/nom_ref_imgs/scaled/pretzels_scaled.jpg,pretzels,71,hair slide,0.176146
+../imgs/nom_ref_imgs/scaled/pretzels_scaled.jpg,pretzels,71,chain,0.0427917
+../imgs/nom_ref_imgs/scaled/pretzels_scaled.jpg,pretzels,71,spindle,0.0262891
+../imgs/nom_ref_imgs/scaled/pretzels_scaled.jpg,pretzels,71,necklace,0.0239328
+../imgs/nom_ref_imgs/scaled/pretzels_scaled.jpg,pretzels,71,"chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour",0.0223075
+../imgs/nom_ref_imgs/scaled/pretzels_scaled.jpg,pretzels,71,maraca,0.0136702
+../imgs/nom_ref_imgs/scaled/pretzels_scaled.jpg,pretzels,71,mitten,0.0129812
+../imgs/nom_ref_imgs/scaled/pretzels_scaled.jpg,pretzels,71,"ocarina, sweet potato",0.0121967
+../imgs/nom_ref_imgs/scaled/pretzels_scaled.jpg,pretzels,71,"coil, spiral, volute, whorl, helix",0.0121727
+../imgs/nom_ref_imgs/scaled/horse_scaled.jpg,horse,46,"water buffalo, water ox, Asiatic buffalo, Bubalus bubalis",0.322803
+../imgs/nom_ref_imgs/scaled/horse_scaled.jpg,horse,46,ox,0.128899
+../imgs/nom_ref_imgs/scaled/horse_scaled.jpg,horse,46,"Staffordshire bullterrier, Staffordshire bull terrier",0.0650775
+../imgs/nom_ref_imgs/scaled/horse_scaled.jpg,horse,46,Great Dane,0.0392715
+../imgs/nom_ref_imgs/scaled/horse_scaled.jpg,horse,46,Mexican hairless,0.0358029
+../imgs/nom_ref_imgs/scaled/horse_scaled.jpg,horse,46,"bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis",0.0312684
+../imgs/nom_ref_imgs/scaled/horse_scaled.jpg,horse,46,flat-coated retriever,0.0311963
+../imgs/nom_ref_imgs/scaled/horse_scaled.jpg,horse,46,"Saluki, gazelle hound",0.0296174
+../imgs/nom_ref_imgs/scaled/horse_scaled.jpg,horse,46,muzzle,0.0295823
+../imgs/nom_ref_imgs/scaled/horse_scaled.jpg,horse,46,whippet,0.0257611
+../imgs/nom_ref_imgs/scaled/gloves_scaled.jpg,gloves,65,buckle,0.145726
+../imgs/nom_ref_imgs/scaled/gloves_scaled.jpg,gloves,65,"backpack, back pack, knapsack, packsack, rucksack, haversack",0.10058
+../imgs/nom_ref_imgs/scaled/gloves_scaled.jpg,gloves,65,purse,0.0977237
+../imgs/nom_ref_imgs/scaled/gloves_scaled.jpg,gloves,65,"swimming trunks, bathing trunks",0.0942808
+../imgs/nom_ref_imgs/scaled/gloves_scaled.jpg,gloves,65,knee pad,0.0881816
+../imgs/nom_ref_imgs/scaled/gloves_scaled.jpg,gloves,65,"wallet, billfold, notecase, pocketbook",0.0487974
+../imgs/nom_ref_imgs/scaled/gloves_scaled.jpg,gloves,65,"mailbag, postbag",0.0456508
+../imgs/nom_ref_imgs/scaled/gloves_scaled.jpg,gloves,65,"binder, ring-binder",0.03069
+../imgs/nom_ref_imgs/scaled/gloves_scaled.jpg,gloves,65,"pencil box, pencil case",0.0240089
+../imgs/nom_ref_imgs/scaled/gloves_scaled.jpg,gloves,65,velvet,0.0238237
+../imgs/nom_ref_imgs/scaled/blackBear_scaled.jpg,blackbear,14,"American black bear, black bear, Ursus americanus, Euarctos americanus",0.817873
+../imgs/nom_ref_imgs/scaled/blackBear_scaled.jpg,blackbear,14,"brown bear, bruin, Ursus arctos",0.084257
+../imgs/nom_ref_imgs/scaled/blackBear_scaled.jpg,blackbear,14,wombat,0.0412339
+../imgs/nom_ref_imgs/scaled/blackBear_scaled.jpg,blackbear,14,"sloth bear, Melursus ursinus, Ursus ursinus",0.0117269
+../imgs/nom_ref_imgs/scaled/blackBear_scaled.jpg,blackbear,14,schipperke,0.0104567
+../imgs/nom_ref_imgs/scaled/blackBear_scaled.jpg,blackbear,14,"wild boar, boar, Sus scrofa",0.00722647
+../imgs/nom_ref_imgs/scaled/blackBear_scaled.jpg,blackbear,14,"hog, pig, grunter, squealer, Sus scrofa",0.00393311
+../imgs/nom_ref_imgs/scaled/blackBear_scaled.jpg,blackbear,14,"timber wolf, grey wolf, gray wolf, Canis lupus",0.00345734
+../imgs/nom_ref_imgs/scaled/blackBear_scaled.jpg,blackbear,14,kelpie,0.00219919
+../imgs/nom_ref_imgs/scaled/blackBear_scaled.jpg,blackbear,14,mink,0.00191717
+../imgs/nom_ref_imgs/scaled/wardrobe_scaled.jpg,wardrobe,59,"wardrobe, closet, press",0.853494
+../imgs/nom_ref_imgs/scaled/wardrobe_scaled.jpg,wardrobe,59,"medicine chest, medicine cabinet",0.116455
+../imgs/nom_ref_imgs/scaled/wardrobe_scaled.jpg,wardrobe,59,plate rack,0.0125982
+../imgs/nom_ref_imgs/scaled/wardrobe_scaled.jpg,wardrobe,59,safe,0.00271305
+../imgs/nom_ref_imgs/scaled/wardrobe_scaled.jpg,wardrobe,59,"china cabinet, china closet",0.00244068
+../imgs/nom_ref_imgs/scaled/wardrobe_scaled.jpg,wardrobe,59,"binder, ring-binder",0.00198885
+../imgs/nom_ref_imgs/scaled/wardrobe_scaled.jpg,wardrobe,59,bookcase,0.000885119
+../imgs/nom_ref_imgs/scaled/wardrobe_scaled.jpg,wardrobe,59,"doormat, welcome mat",0.000690011
+../imgs/nom_ref_imgs/scaled/wardrobe_scaled.jpg,wardrobe,59,sliding door,0.000633126
+../imgs/nom_ref_imgs/scaled/wardrobe_scaled.jpg,wardrobe,59,space heater,0.000631827
+../imgs/nom_ref_imgs/scaled/snake_scaled.jpg,snake,72,broccoli,0.0520895
+../imgs/nom_ref_imgs/scaled/snake_scaled.jpg,snake,72,hair slide,0.0505016
+../imgs/nom_ref_imgs/scaled/snake_scaled.jpg,snake,72,toilet seat,0.0467444
+../imgs/nom_ref_imgs/scaled/snake_scaled.jpg,snake,72,"cucumber, cuke",0.0383078
+../imgs/nom_ref_imgs/scaled/snake_scaled.jpg,snake,72,"dial telephone, dial phone",0.027133
+../imgs/nom_ref_imgs/scaled/snake_scaled.jpg,snake,72,bottlecap,0.0250447
+../imgs/nom_ref_imgs/scaled/snake_scaled.jpg,snake,72,necklace,0.0249993
+../imgs/nom_ref_imgs/scaled/snake_scaled.jpg,snake,72,purse,0.0211674
+../imgs/nom_ref_imgs/scaled/snake_scaled.jpg,snake,72,bib,0.0203378
+../imgs/nom_ref_imgs/scaled/snake_scaled.jpg,snake,72,neck brace,0.0167718
+../imgs/nom_ref_imgs/scaled/polarBear_scaled.jpg,polarbear,21,"ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus",0.751415
+../imgs/nom_ref_imgs/scaled/polarBear_scaled.jpg,polarbear,21,badger,0.0522399
+../imgs/nom_ref_imgs/scaled/polarBear_scaled.jpg,polarbear,21,Great Pyrenees,0.0395688
+../imgs/nom_ref_imgs/scaled/polarBear_scaled.jpg,polarbear,21,kuvasz,0.0322761
+../imgs/nom_ref_imgs/scaled/polarBear_scaled.jpg,polarbear,21,golden retriever,0.0297369
+../imgs/nom_ref_imgs/scaled/polarBear_scaled.jpg,polarbear,21,Labrador retriever,0.02032
+../imgs/nom_ref_imgs/scaled/polarBear_scaled.jpg,polarbear,21,otter,0.00890093
+../imgs/nom_ref_imgs/scaled/polarBear_scaled.jpg,polarbear,21,"African grey, African gray, Psittacus erithacus",0.0079058
+../imgs/nom_ref_imgs/scaled/polarBear_scaled.jpg,polarbear,21,"Arctic fox, white fox, Alopex lagopus",0.00498219
+../imgs/nom_ref_imgs/scaled/polarBear_scaled.jpg,polarbear,21,"Samoyed, Samoyede",0.00419013
+../imgs/nom_ref_imgs/scaled/dressShirt_scaled.jpg,dressshirt,1,trench coat,0.564178
+../imgs/nom_ref_imgs/scaled/dressShirt_scaled.jpg,dressshirt,1,fur coat,0.180737
+../imgs/nom_ref_imgs/scaled/dressShirt_scaled.jpg,dressshirt,1,sweatshirt,0.0551884
+../imgs/nom_ref_imgs/scaled/dressShirt_scaled.jpg,dressshirt,1,"suit, suit of clothes",0.0420493
+../imgs/nom_ref_imgs/scaled/dressShirt_scaled.jpg,dressshirt,1,poncho,0.0404865
+../imgs/nom_ref_imgs/scaled/dressShirt_scaled.jpg,dressshirt,1,cloak,0.0256141
+../imgs/nom_ref_imgs/scaled/dressShirt_scaled.jpg,dressshirt,1,velvet,0.0185291
+../imgs/nom_ref_imgs/scaled/dressShirt_scaled.jpg,dressshirt,1,cardigan,0.0165779
+../imgs/nom_ref_imgs/scaled/dressShirt_scaled.jpg,dressshirt,1,stole,0.00818439
+../imgs/nom_ref_imgs/scaled/dressShirt_scaled.jpg,dressshirt,1,"pajama, pyjama, pj's, jammies",0.00484539
+../imgs/nom_ref_imgs/scaled/train_scaled.jpg,train,41,"trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi",0.332456
+../imgs/nom_ref_imgs/scaled/train_scaled.jpg,train,41,"harmonica, mouth organ, harp, mouth harp",0.0829148
+../imgs/nom_ref_imgs/scaled/train_scaled.jpg,train,41,"bobsled, bobsleigh, bob",0.0754746
+../imgs/nom_ref_imgs/scaled/train_scaled.jpg,train,41,"limousine, limo",0.0361356
+../imgs/nom_ref_imgs/scaled/train_scaled.jpg,train,41,screwdriver,0.0354382
+../imgs/nom_ref_imgs/scaled/train_scaled.jpg,train,41,"ballpoint, ballpoint pen, ballpen, Biro",0.0322474
+../imgs/nom_ref_imgs/scaled/train_scaled.jpg,train,41,stretcher,0.0318182
+../imgs/nom_ref_imgs/scaled/train_scaled.jpg,train,41,"rubber eraser, rubber, pencil eraser",0.0270858
+../imgs/nom_ref_imgs/scaled/train_scaled.jpg,train,41,fountain pen,0.0209104
+../imgs/nom_ref_imgs/scaled/train_scaled.jpg,train,41,"passenger car, coach, carriage",0.0179824
+../imgs/nom_ref_imgs/scaled/mnMs_scaled.jpg,mnms,16,abacus,0.40638
+../imgs/nom_ref_imgs/scaled/mnMs_scaled.jpg,mnms,16,croquet ball,0.197833
+../imgs/nom_ref_imgs/scaled/mnMs_scaled.jpg,mnms,16,"rubber eraser, rubber, pencil eraser",0.167294
+../imgs/nom_ref_imgs/scaled/mnMs_scaled.jpg,mnms,16,maraca,0.0405166
+../imgs/nom_ref_imgs/scaled/mnMs_scaled.jpg,mnms,16,ping-pong ball,0.0397543
+../imgs/nom_ref_imgs/scaled/mnMs_scaled.jpg,mnms,16,hair slide,0.0355772
+../imgs/nom_ref_imgs/scaled/mnMs_scaled.jpg,mnms,16,pill bottle,0.0330196
+../imgs/nom_ref_imgs/scaled/mnMs_scaled.jpg,mnms,16,"piggy bank, penny bank",0.00782405
+../imgs/nom_ref_imgs/scaled/mnMs_scaled.jpg,mnms,16,"pool table, billiard table, snooker table",0.00690284
+../imgs/nom_ref_imgs/scaled/mnMs_scaled.jpg,mnms,16,joystick,0.00591068
+../imgs/nom_ref_imgs/scaled/convertible_scaled.jpg,convertible,12,convertible,0.554638
+../imgs/nom_ref_imgs/scaled/convertible_scaled.jpg,convertible,12,"sports car, sport car",0.311717
+../imgs/nom_ref_imgs/scaled/convertible_scaled.jpg,convertible,12,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.0542028
+../imgs/nom_ref_imgs/scaled/convertible_scaled.jpg,convertible,12,"racer, race car, racing car",0.0274552
+../imgs/nom_ref_imgs/scaled/convertible_scaled.jpg,convertible,12,"grille, radiator grille",0.0252729
+../imgs/nom_ref_imgs/scaled/convertible_scaled.jpg,convertible,12,car wheel,0.0150541
+../imgs/nom_ref_imgs/scaled/convertible_scaled.jpg,convertible,12,"limousine, limo",0.00191947
+../imgs/nom_ref_imgs/scaled/convertible_scaled.jpg,convertible,12,"pickup, pickup truck",0.00135063
+../imgs/nom_ref_imgs/scaled/convertible_scaled.jpg,convertible,12,fountain pen,0.000749755
+../imgs/nom_ref_imgs/scaled/convertible_scaled.jpg,convertible,12,toaster,0.000554937
+../imgs/nom_ref_imgs/scaled/suv_scaled.jpg,suv,0,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",0.289409
+../imgs/nom_ref_imgs/scaled/suv_scaled.jpg,suv,0,minivan,0.272481
+../imgs/nom_ref_imgs/scaled/suv_scaled.jpg,suv,0,car wheel,0.0738105
+../imgs/nom_ref_imgs/scaled/suv_scaled.jpg,suv,0,"grille, radiator grille",0.072704
+../imgs/nom_ref_imgs/scaled/suv_scaled.jpg,suv,0,convertible,0.0460494
+../imgs/nom_ref_imgs/scaled/suv_scaled.jpg,suv,0,"pickup, pickup truck",0.0449898
+../imgs/nom_ref_imgs/scaled/suv_scaled.jpg,suv,0,"racer, race car, racing car",0.0372092
+../imgs/nom_ref_imgs/scaled/suv_scaled.jpg,suv,0,"sports car, sport car",0.0355989
+../imgs/nom_ref_imgs/scaled/suv_scaled.jpg,suv,0,"cab, hack, taxi, taxicab",0.031799
+../imgs/nom_ref_imgs/scaled/suv_scaled.jpg,suv,0,"passenger car, coach, carriage",0.0185725
+../imgs/nom_ref_imgs/scaled/cookies_scaled.jpg,cookies,61,"ocarina, sweet potato",0.960273
+../imgs/nom_ref_imgs/scaled/cookies_scaled.jpg,cookies,61,"clog, geta, patten, sabot",0.0131213
+../imgs/nom_ref_imgs/scaled/cookies_scaled.jpg,cookies,61,mitten,0.00338355
+../imgs/nom_ref_imgs/scaled/cookies_scaled.jpg,cookies,61,purse,0.00333479
+../imgs/nom_ref_imgs/scaled/cookies_scaled.jpg,cookies,61,sandal,0.00329212
+../imgs/nom_ref_imgs/scaled/cookies_scaled.jpg,cookies,61,hair slide,0.00212877
+../imgs/nom_ref_imgs/scaled/cookies_scaled.jpg,cookies,61,"bow tie, bow-tie, bowtie",0.00174145
+../imgs/nom_ref_imgs/scaled/cookies_scaled.jpg,cookies,61,shower cap,0.00155855
+../imgs/nom_ref_imgs/scaled/cookies_scaled.jpg,cookies,61,"pajama, pyjama, pj's, jammies",0.00115251
+../imgs/nom_ref_imgs/scaled/cookies_scaled.jpg,cookies,61,maraca,0.000989484
+../imgs/nom_ref_imgs/scaled/husky_scaled.jpg,husky,4,"Eskimo dog, husky",0.701796
+../imgs/nom_ref_imgs/scaled/husky_scaled.jpg,husky,4,Siberian husky,0.264526
+../imgs/nom_ref_imgs/scaled/husky_scaled.jpg,husky,4,"malamute, malemute, Alaskan malamute",0.0143301
+../imgs/nom_ref_imgs/scaled/husky_scaled.jpg,husky,4,"Norwegian elkhound, elkhound",0.0130647
+../imgs/nom_ref_imgs/scaled/husky_scaled.jpg,husky,4,"German shepherd, German shepherd dog, German police dog, alsatian",0.0018742
+../imgs/nom_ref_imgs/scaled/husky_scaled.jpg,husky,4,"dogsled, dog sled, dog sleigh",0.000917353
+../imgs/nom_ref_imgs/scaled/husky_scaled.jpg,husky,4,kelpie,0.000901621
+../imgs/nom_ref_imgs/scaled/husky_scaled.jpg,husky,4,toy terrier,0.000448958
+../imgs/nom_ref_imgs/scaled/husky_scaled.jpg,husky,4,"Cardigan, Cardigan Welsh corgi",0.000333632
+../imgs/nom_ref_imgs/scaled/husky_scaled.jpg,husky,4,Egyptian cat,0.00021692
+../imgs/nom_ref_imgs/scaled/candyCorn_scaled.jpg,candycorn,58,"rubber eraser, rubber, pencil eraser",0.432431
+../imgs/nom_ref_imgs/scaled/candyCorn_scaled.jpg,candycorn,58,hair slide,0.319592
+../imgs/nom_ref_imgs/scaled/candyCorn_scaled.jpg,candycorn,58,"dishrag, dishcloth",0.06566
+../imgs/nom_ref_imgs/scaled/candyCorn_scaled.jpg,candycorn,58,matchstick,0.0358942
+../imgs/nom_ref_imgs/scaled/candyCorn_scaled.jpg,candycorn,58,knot,0.01856
+../imgs/nom_ref_imgs/scaled/candyCorn_scaled.jpg,candycorn,58,"coil, spiral, volute, whorl, helix",0.0133965
+../imgs/nom_ref_imgs/scaled/candyCorn_scaled.jpg,candycorn,58,"swimming trunks, bathing trunks",0.0125068
+../imgs/nom_ref_imgs/scaled/candyCorn_scaled.jpg,candycorn,58,jigsaw puzzle,0.0112305
+../imgs/nom_ref_imgs/scaled/candyCorn_scaled.jpg,candycorn,58,pinwheel,0.00943179
+../imgs/nom_ref_imgs/scaled/candyCorn_scaled.jpg,candycorn,58,mitten,0.00911335
+../imgs/nom_ref_imgs/scaled/bookcase_scaled.jpg,bookcase,57,bookcase,0.87339
+../imgs/nom_ref_imgs/scaled/bookcase_scaled.jpg,bookcase,57,library,0.0427495
+../imgs/nom_ref_imgs/scaled/bookcase_scaled.jpg,bookcase,57,"medicine chest, medicine cabinet",0.0260199
+../imgs/nom_ref_imgs/scaled/bookcase_scaled.jpg,bookcase,57,abacus,0.0125118
+../imgs/nom_ref_imgs/scaled/bookcase_scaled.jpg,bookcase,57,"bookshop, bookstore, bookstall",0.00527885
+../imgs/nom_ref_imgs/scaled/bookcase_scaled.jpg,bookcase,57,"china cabinet, china closet",0.00434089
+../imgs/nom_ref_imgs/scaled/bookcase_scaled.jpg,bookcase,57,sliding door,0.00393493
+../imgs/nom_ref_imgs/scaled/bookcase_scaled.jpg,bookcase,57,vending machine,0.00354204
+../imgs/nom_ref_imgs/scaled/bookcase_scaled.jpg,bookcase,57,shoji,0.00349703
+../imgs/nom_ref_imgs/scaled/bookcase_scaled.jpg,bookcase,57,"prison, prison house",0.00293919
