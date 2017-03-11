@@ -55,7 +55,7 @@ ydim = train_y.shape[1]
 
 # Read object list
 object_name_to_ind = {}
-with open('object_table.csv') as csvfile:
+with open('../object_table.csv') as csvfile:
   reader = csv.DictReader(csvfile)
   for row in reader:
     object_name_to_ind[row['object_name']] = row['object_ind']

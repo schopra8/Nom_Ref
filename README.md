@@ -8,13 +8,12 @@ Currently, the project is focused on developing speaker models to produce uttera
 * Deterinsitic Lexicon
 * Vision-Inferred Lexicon
 
-### TODO: Add Deterministic Lexicon Model
-### TODO: Add Beta-Draw Webppl Model
-### TODO: Create Directory for our "Vision" Model that Leverages Alexnet.
-
 ## Directory Layout
 ### alexnet
 Directory contains all code pertaining to deriving dense image embeddings of the objects used in the nominal reference game.
 
 ### nom_ref_preprocessing
 Directory contains code pertaining to preprocessing the Nominal Reference Data.
+
+### imgs
+Directory containing imgs of objects from nominal reference game and additional generalization tasks.
