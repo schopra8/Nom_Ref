@@ -1,0 +1,28 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="sl-si" lang="sl-si" dir="ltr">
+<head>
+	<title>404 - Napaka: 404</title>
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" href="/templates/jd_jagodic/css/error.css" type="text/css" />
+			
+	<meta name="viewport" content="width=device-width, initial-scale=1.0;">
+	<link href='http://fonts.googleapis.com/css?family=Roboto:300' rel='stylesheet' type='text/css'>
+</head>
+<body class="page-error">
+	<div class="error">
+		<div id="outline">
+			<div id="errorboxoutline">
+				<div class="error-code"><span class="first">4</span><span class="">0</span><span class="last">4</span></div>
+				
+				<div class="error-message"><h2>Kategorija ni bila najdena</h2></div>
+				
+				<div id="errorboxbody">
+					<p>Prosimo poskusite eno od naslednjih strani:</p>
+          <a class="button-home" href="/index.php" title="Pojdi na domačo stran">Domača stran</a>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+</body>
+</html>
