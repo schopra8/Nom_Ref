@@ -1,0 +1,1572 @@
+<!DOCTYPE html>
+<!--[if IE 8]> 				 <html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+
+<head>
+
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+
+	
+		<title>News | Eurofit Direct</title>
+	
+
+	
+
+
+	<link href="/blogs/news.atom" title="Feed" rel="alternate" type="application/atom+xml" />
+<script type="text/javascript">
+//<![CDATA[
+      var Shopify = Shopify || {};
+      Shopify.shop = "eurofit-direct.myshopify.com";
+      Shopify.theme = {"name":"Latest","id":159105738,"theme_store_id":null,"role":"main"};
+      Shopify.theme.handle = 'null';
+      Shopify.theme.style = {"id":null,"handle":null};
+
+//]]>
+</script><script id="__st">
+//<![CDATA[
+var __st={"a":14032071,"offset":0,"reqid":"5393351a-36da-4db1-8354-9c0e940f357d","pageurl":"www.eurofitdirect.co.uk\/blogs\/news?page=1","s":"blogs-83271239","u":"47374bbb0661","p":"blog","rtyp":"blog","rid":83271239};
+//]]>
+</script><script src="https://cdn.shopify.com/s/javascripts/shopify_stats.js?v=6" type="text/javascript" async="async"></script>
+<meta id="shopify-digital-wallet" data-iframe-url="/14032071/digital_wallets/dialog" />
+<script src="//cdn.shopify.com/s/assets/themes_support/ga_urchin_forms-668547562549a84f5dfa01ef82607987f85ecbe1c8301faf25059becfa208199.js" defer="defer"></script>
+      <script type="text/javascript">
+        
+      window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+      window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+      window.ShopifyAnalytics.meta.currency = 'GBP';
+      var meta = {"page":{"pageType":"blog","resourceType":"blog","resourceId":83271239}};
+      for (var attr in meta) {
+        window.ShopifyAnalytics.meta[attr] = meta[attr];
+      }
+    
+      </script>
+
+      <script type="text/javascript">
+        window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+          var crafty_cfg = document.createElement('script');
+crafty_cfg.setAttribute('type', 'text/javascript');
+crafty_cfg.innerHTML = "var _cp_access_token = 'cbdd6-35cf7-d28bd-01d77';";
+document.getElementsByTagName("head")[0].appendChild(crafty_cfg); 
+
+var _cc_url = "cdn.shopify.com/s/files/1/1403/2071/files/shopify_crafty_clicks_rps2.js?9594801057063864332";
+var _cc_s = document.createElement('script');
+_cc_s.type= 'text/javascript';
+_cc_s.src = (("http:"===document.location.protocol)?"http:":"https:") + "//" + _cc_url;
+document.getElementsByTagName("head")[0].appendChild(_cc_s);
+        };
+      </script>
+
+      <script type="text/javascript" class="analytics">
+        (window.gaDevIds=window.gaDevIds||[]).push('BwiEti');
+        
+
+        (function () {
+          var customDocumentWrite = function(content) {
+            var jquery = null;
+
+            if (window.jQuery) {
+              jquery = window.jQuery;
+            } else if (window.Checkout && window.Checkout.$) {
+              jquery = window.Checkout.$;
+            }
+
+            if (jquery) {
+              jquery('body').append(content);
+            }
+          };
+
+          var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+          if (trekkie.integrations) {
+            return;
+          }
+          trekkie.methods = [
+            'identify',
+            'page',
+            'ready',
+            'track',
+            'trackForm',
+            'trackLink'
+          ];
+          trekkie.factory = function(method) {
+            return function() {
+              var args = Array.prototype.slice.call(arguments);
+              args.unshift(method);
+              trekkie.push(args);
+              return trekkie;
+            };
+          };
+          for (var i = 0; i < trekkie.methods.length; i++) {
+            var key = trekkie.methods[i];
+            trekkie[key] = trekkie.factory(key);
+          }
+          trekkie.load = function(config) {
+            trekkie.config = config;
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+            script.onerror = function(e) {
+              (new Image()).src = '//v.shopify.com/internal_errors/track?error=trekkie_load';
+            };
+            script.async = true;
+            script.src = 'https://cdn.shopify.com/s/javascripts/tricorder/trekkie.storefront.min.js?v=2017.02.23.1';
+            var first = document.getElementsByTagName('script')[0];
+            first.parentNode.insertBefore(script, first);
+          };
+          trekkie.load(
+            {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":14032071}},"Performance":{"navigationTimingApiMeasurementsEnabled":true,"navigationTimingApiMeasurementsSampleRate":0.1},"Google Analytics":{"trackingId":"UA-91228252-1","domain":"auto","siteSpeedSampleRate":"10","enhancedEcommerce":true,"doubleClick":true,"includeSearch":true}}
+          );
+
+          var loaded = false;
+          trekkie.ready(function() {
+            if (loaded) return;
+            loaded = true;
+
+            window.ShopifyAnalytics.lib = window.trekkie;
+            
+      ga('require', 'linker');
+      function addListener(element, type, callback) {
+        if (element.addEventListener) {
+          element.addEventListener(type, callback);
+        }
+        else if (element.attachEvent) {
+          element.attachEvent('on' + type, callback);
+        }
+      }
+      function decorate(event) {
+        event = event || window.event;
+        var target = event.target || event.srcElement;
+        if (target && (target.getAttribute('action') || target.getAttribute('href'))) {
+          ga(function (tracker) {
+            var linkerParam = tracker.get('linkerParam');
+            document.cookie = '_shopify_ga=' + linkerParam + '; ' + 'path=/';
+          });
+        }
+      }
+      addListener(window, 'load', function(){
+        for (var i=0; i < document.forms.length; i++) {
+          var action = document.forms[i].getAttribute('action');
+          if(action && action.indexOf('/cart') >= 0) {
+            addListener(document.forms[i], 'submit', decorate);
+          }
+        }
+        for (var i=0; i < document.links.length; i++) {
+          var href = document.links[i].getAttribute('href');
+          if(href && href.indexOf('/checkout') >= 0) {
+            addListener(document.links[i], 'click', decorate);
+          }
+        }
+      });
+    
+
+            var originalDocumentWrite = document.write;
+            document.write = customDocumentWrite;
+            try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+            document.write = originalDocumentWrite;
+
+            
+        window.ShopifyAnalytics.lib.page(
+          null,
+          {"pageType":"blog","resourceType":"blog","resourceId":83271239}
+        );
+      
+            
+          });
+
+          
+      var eventsListenerScript = document.createElement('script');
+      eventsListenerScript.async = true;
+      eventsListenerScript.src = "//cdn.shopify.com/s/assets/shop_events_listener-0320d3eb7ceaecf62b48e0a1102174bde201a7230c8e40f7ef9f45401190ad6d.js";
+      document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+    
+        })();
+      </script>
+    
+<script id="apple-pay-shop-capabilities" type="application/json">{"shopId":14032071,"countryCode":"GB","currencyCode":"GBP","merchantCapabilities":["supports3DS"],"merchantId":"gid:\/\/shopify\/Shop\/14032071","merchantName":"Eurofit Direct","requiredBillingContactFields":["postalAddress","email","phone"],"requiredShippingContactFields":["postalAddress","email","phone"],"shippingType":"shipping","supportedNetworks":["visa","masterCard","amex"]}</script>
+<script src="//cdn.shopify.com/s/assets/storefront/express_buttons-0812a6f7bc4e98f9d74f71e91b151e45059198982fc2fa1410eb07ad9149b205.js" defer="defer" crossorigin="anonymous" integrity="sha256-CBKm97xOmPnXT3HpGxUeRQWRmJgvwvoUEOsHrZFJsgU="></script>
+<link rel="next" href="/blogs/news?page=2"/>
+
+<meta name="shopify-checkout-api-token" content="be4f96345d9526dcf80d4ccfdea8d7e9" />
+
+<script type="text/javascript">
+//<![CDATA[
+      window.ShopifyExperiments = window.ShopifyExperiments || {};
+      window.ShopifyExperiments.digitalWallet = true;
+
+//]]>
+</script>
+<link rel="stylesheet" media="all" href="//cdn.shopify.com/s/assets/storefront/additional-checkout-buttons-268f2787c6e46fcdc8455b9822142bfb2f78fdae42dcab79a9d1348ab88ade55.css" />
+
+  	<!-- CSS -->
+		<link href="//cdn.shopify.com/s/files/1/1403/2071/t/5/assets/style-meganav.css?3092649673137105783" rel="stylesheet" type="text/css" media="all" />
+		<link href="//cdn.shopify.com/s/files/1/1403/2071/t/5/assets/style.css?3092649673137105783" rel="stylesheet" type="text/css" media="all" />
+		<link href="//cdn.shopify.com/s/files/1/1403/2071/t/5/assets/foundation-icons.css?3092649673137105783" rel="stylesheet" type="text/css" media="all" />
+		<link href="//cdn.shopify.com/s/files/1/1403/2071/t/5/assets/app.css?3092649673137105783" rel="stylesheet" type="text/css" media="all" />
+
+  	<script src="//cdn.shopify.com/s/files/1/1403/2071/t/5/assets/jquery.min.js?3092649673137105783" type="text/javascript"></script>
+  	<script src="//cdn.shopify.com/s/files/1/1403/2071/t/5/assets/custom.modernizr.min.js?3092649673137105783" type="text/javascript"></script>
+  	<script type="text/javascript" src="//fast.fonts.net/jsapi/f2596749-7b2a-4073-8148-a00bc71c4f58.js"></script>
+
+	<!-- Shopify js -->
+  	
+	<script src="//cdn.shopify.com/s/assets/themes_support/option_selection-f3dd7ba25bddfb6b0fe9addc0cae11dc709eeb6a469ec7f66f49e3abc4ce8c81.js" type="text/javascript"></script>
+
+	<!-- Icons -->
+	<link rel="shortcut icon" href="//cdn.shopify.com/s/files/1/1403/2071/t/5/assets/favicon.png?3092649673137105783" type="image/png" />
+	<link rel="apple-touch-icon" href="//cdn.shopify.com/s/files/1/1403/2071/t/5/assets/favicon.png?3092649673137105783" type="image/png" />
+
+	<!-- Facebook Open Graph -->
+    
+        <meta property="og:title" content="Eurofit Direct"/>
+        <meta property="og:type" content="article"/>
+        <meta property="og:image" content="//cdn.shopify.com/s/files/1/1403/2071/t/5/assets/logo.png?3092649673137105783"/>
+        <meta property="og:url" content="https://www.eurofitdirect.co.uk"/>
+    
+    <meta property="og:site_name" content="Eurofit Direct"/>
+
+    <!-- TrustBox script -->
+      <script type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.sync.bootstrap.min.js" async></script>
+    <!-- End Trustbox script -->
+
+		<!-- CrazyEgg script -->
+		<script type="text/javascript">
+		setTimeout(function(){var a=document.createElement("script");
+		var b=document.getElementsByTagName("script")[0];
+		a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0036/5686.js?"+Math.floor(new Date().getTime()/3600000);
+		a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+		</script>
+		<!-- End CrazyEgg script -->
+
+<link rel="canonical" href="https://www.eurofitdirect.co.uk/blogs/news" />
+</head>
+
+<body class="blog antialiased" id="news">
+
+	<!-- Include Header & Top Navigation -->
+		    <section class="header-strip ">
+        <div class="row">
+            <div class="small-12 columns">
+
+                <div class="ticker-content">
+                    <p>
+                        <span>Eurofit</span> - The home of furniture fittings & components
+                    </p>
+                </div>
+
+                <div class="ticker-content show-for-large-up">
+                    
+                        <p>
+                            <a href="/account/login" id="customer_login_link">Log in</a> / <a href="/account/register" id="customer_register_link">Register</a>
+                        </p>
+                    
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <header class="cd-main-header">
+
+        <div class="header--bg-strip show-for-large-up">
+        </div>
+
+        <div class="header--inner" data-equalizer>
+
+
+            <div class="header--inner__upper">
+
+
+                <div class="row" >
+
+                    <div class="small-6 medium-3 columns" data-equalizer-watch>
+                        <div class="sitelogo">
+                            <a href="/">
+                                <img class="logo" src="//cdn.shopify.com/s/files/1/1403/2071/t/5/assets/eurofit-logo.svg?3092649673137105783" data-no-svg="//cdn.shopify.com/s/files/1/1403/2071/t/5/assets/eurofit-logo.png?3092649673137105783" alt="Eurofit logo" style="max-width: 200px;">
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="small-12 large-6 site-search__wrapper columns" data-equalizer-watch>
+
+                        <!-- Search Form -->
+
+                            <div class="site-search clearfix">
+                                <form action="/search" method="get" class="search-form" role="search" >
+
+                                    <div class="input-group">
+                                        <input class="input-group-field radius--left" name="q" type="text" placeholder="Search 1000's of Products">
+                                        <input type="hidden" name="type" value="product" />
+                                        <div class="input-group-button">
+                                          <button type="submit" name="sa" class="search-button button radius--right postfix"><i class="fi-magnifying-glass beta"></i></button>
+                                        </div>
+                                    </div>
+
+                                </form>
+                            </div>
+
+
+                        <!-- End Search Form -->
+
+                    </div>
+
+                    <div class="large-3 show-for-large-up columns" data-equalizer-watch>
+
+                        <div class="row">
+
+                            <div class="small-12 columns">
+
+                                <div class="desktop-cart">
+                                    <a href="/cart" data-options="disable_for_touch:true" class="noradius basket_icon" title="£0.00" style="">
+                                        <!-- <i class="fi-shopping-cart alpha"></i> -->
+                                        <img class="icons_category" src="//cdn.shopify.com/s/files/1/1403/2071/t/5/assets/Cart.svg?3092649673137105783" alt="Cart icon" width="40px">
+                                        <span>0</span>
+                                    </a>
+                                    <a class="basket_text" href="/cart">Your Basket</a>
+                                </div>
+
+                            </div>
+
+                        </div>
+
+
+                        <div class="row">
+
+                            <div class="small-12 header-contact text-right columns">
+                                <h4 class="impact gamma">(01482) 714488</h4>
+                                <a class="epsilon" href="mailto:sales@eurofitdirect.co.uk"><strong>sales@eurofitdirect.co.uk</strong></a>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                </div>
+            </div>
+
+            <ul class="cd-header-buttons">
+
+                <div class="header--icons hide-for-large-up" data-equalizer-watch>
+                    <li style="vertical-align: top;">
+                        <a href="/cart" data-options="disable_for_touch:true" class="noradius basket_icon" title="£0.00" style="">
+                            <!-- <i class="fi-shopping-cart alpha"></i> -->
+                            <img class="icons_category" src="//cdn.shopify.com/s/files/1/1403/2071/t/5/assets/Cart.svg?3092649673137105783" alt="Cart icon" width="25px">
+                        </a>
+                    </li>
+                    
+                        <li style="vertical-align: top;">
+                            <a href="/account/login">
+                                <!-- <i class="fi-torso alpha"></i> -->
+                                <img class="icons_category" src="//cdn.shopify.com/s/files/1/1403/2071/t/5/assets/User.svg?3092649673137105783" alt="User icon" width="25px">
+                            </a>
+                        </li>
+                    
+                    <li style="vertical-align: top;"><a class="cd-nav-trigger" href="#cd-primary-nav"><span></span></a></li>
+                </div>
+
+            </ul> <!-- cd-header-buttons -->
+
+
+
+        </div>
+
+
+
+
+    </header>
+
+
+
+    <main class="cd-main-content">
+
+        <!-- your content here -->
+
+            <!-- Include Subheader -->
+            <section class="sub-head">
+
+    <div class="row">
+
+        <div class="small-12 medium-4 columns sub-head__statement">
+            <img class="icons_category" src="//cdn.shopify.com/s/files/1/1403/2071/t/5/assets/Menu-Delivery-Icons-05.svg?3092649673137105783" alt="Free Delivery icon" width="40px">
+            <a href="/pages/uk-delivery-shipping" class="impact epsilon">Free UK Delivery when you spend £45*</a>
+        </div>
+
+        <div class="hide-for-small medium-4 columns sub-head__statement" >
+            <img class="icons_category" src="//cdn.shopify.com/s/files/1/1403/2071/t/5/assets/Menu-Delivery-Icons-04.svg?3092649673137105783" alt="Returns icon" width="40px">
+            <a href="/pages/easy-returns" class="impact epsilon">Easy Returns Policy</a>
+        </div>
+
+        <div class="hide-for-small medium-4 columns sub-head__statement">
+            <img class="icons_category" src="//cdn.shopify.com/s/files/1/1403/2071/t/5/assets/Menu-Delivery-Icons-03.svg?3092649673137105783" alt="International Delivery icon" width="40px">
+            <a href="/pages/worldwide-delivery" class="impact epsilon">International Delivery Options</a>
+        </div>
+
+    </div>
+
+</section>
+
+            <!-- End Include Subheader -->
+
+	<!-- End Include Header & Top Navigation -->
+
+
+  	<!-- Include Main Content -->
+
+		
+        
+
+<div class="row">
+
+  <div class="large-12 columns" id="pagination">
+
+    <aside class="blog-list__sidebar small-12 medium-4 large-3 columns">
+
+      <h2 class="delta impact">Search</h2>
+      
+      <!-- Search Form -->                  
+        <div class="site-search clearfix">
+            <form action="/search" method="get" class="search-form" role="search" >
+                
+                <div class="input-group">
+                    <input class="input-group-field radius--left" name="q" type="text" placeholder="Search Blogs">
+                    <input type="hidden" name="type" value="article" />
+                    <div class="input-group-button">
+                      <button type="submit" name="sa" class="search-button button radius--right postfix"><i class="fi-magnifying-glass epsilon"></i></button>
+                    </div>
+                </div>
+                
+            </form> 
+        </div>
+      <!-- End Search Form -->
+
+
+      <br>
+
+      <h2 class="delta impact">Categories</h2>
+      
+      <div class="blog-list__sidebar__categories">
+        <!-- Category List -->
+          <a href="/blogs/around-the-office"><p>&raquo; Around the Office (0)</p></a>
+          <a href="/blogs/diy-how-tos-and-guides"><p>&raquo; DIY How To's and Guides (0)</p></a>
+          <a href="/blogs/featured-stories"><p>&raquo; Featured Stories (0)</p></a>
+          <a href="/blogs/in-the-home"><p>&raquo; In The Home (0)</p></a>
+          <a href="/blogs/kitchen-knowledge"><p>&raquo; Kitchen Knowledge (0)</p></a>
+          <a href="/blogs/news"><p>&raquo; News (11)</p></a>
+          <a href="/blogs/strong-foundations"><p>&raquo; Strong Foundations (0)</p></a>
+        <!-- End Category List -->
+      </div>
+      
+
+    </aside>
+
+    <section class="blog-list__content small-12 medium-8 large-9 columns">
+
+      
+          <div class="blog-article first">
+
+            
+              
+              <article class="blog__primary-article row">
+
+  	<div class="blog__feature-image small-12 columns">
+    	<a href="/blogs/news/a-beginners-guide-to-screws-their-uses"><img src="//cdn.shopify.com/s/files/1/1403/2071/articles/A-BEGINNERS-GUIDE-TO-SCREWS-_-THEIR-USES_1024x1024.jpg?v=1474637934" alt="A Beginners Guide to Screws & Their Uses"></a>
+  	</div>
+
+	<div class="blog__content small-12 columns">
+
+	    <h1 class="impact alpha blog__content__title">
+	        <a href="/blogs/news/a-beginners-guide-to-screws-their-uses">A Beginners Guide to Screws & Their Uses</a>
+	    </h1>
+	    <h3 class="impact epsilon blog__content__date">
+	        <time pubdate datetime="2016-09-01">Sep 01, 2016</time>  |  News
+	    </h3>
+
+	    <div class="row">
+	        <div class="blog__content__desc small-12 columns article rte">
+
+	            
+	                <p>In the fittings industry we often talk about products and their uses with the assumption that customers know exactly what they are and what they do, but with DIY being ever more popular we thought it might be a good idea to provide a basic rundown of some of the more common types of screws and their uses to help out the DIY amateurs out there.</p>
+	            
+
+							<br><br>
+	            <a href="/blogs/news/a-beginners-guide-to-screws-their-uses">Read More →</a>
+
+	        </div>
+	    </div>
+
+	</div>
+
+</article>
+
+            
+
+            
+                
+          </div>
+      
+          <div class="blog-article">
+
+            
+              
+              <article class="blog__standard-article row">
+
+  	<div class="small-12 medium-6 columns">
+    	<a href="/blogs/news/home-offices-what-to-consider"><img src="//cdn.shopify.com/s/files/1/1403/2071/articles/43_1024x1024.jpg?v=1474455235" alt="Home Offices: What to Consider"></a>
+  	</div>
+
+	<div class="small-12 medium-6 columns">
+
+	    <h2 class="impact beta blog-article-title">
+	        <a href="/blogs/news/home-offices-what-to-consider">Home Offices: What to Consider</a>
+	    </h2>
+	    <h3 class="impact epsilon blog__content__date">
+	        <time pubdate datetime="2016-08-30">Aug 30, 2016</time>  |  News
+	    </h3>
+	  	<br>
+	    <a href="/blogs/news/home-offices-what-to-consider">Read More →</a>
+
+	</div>
+
+</article>
+
+            
+
+            
+                
+          </div>
+      
+          <div class="blog-article">
+
+            
+              
+              <article class="blog__standard-article row">
+
+  	<div class="small-12 medium-6 columns">
+    	<a href="/blogs/news/what-makes-my-kitchen-better-than-yours"><img src="//cdn.shopify.com/s/files/1/1403/2071/articles/White_Kitchen_51_1024x1024.jpg?v=1474454630" alt="What Makes My Kitchen Better Than Yours?"></a>
+  	</div>
+
+	<div class="small-12 medium-6 columns">
+
+	    <h2 class="impact beta blog-article-title">
+	        <a href="/blogs/news/what-makes-my-kitchen-better-than-yours">What Makes My Kitchen Better Than Yours?</a>
+	    </h2>
+	    <h3 class="impact epsilon blog__content__date">
+	        <time pubdate datetime="2016-07-20">Jul 20, 2016</time>  |  News
+	    </h3>
+	  	<br>
+	    <a href="/blogs/news/what-makes-my-kitchen-better-than-yours">Read More →</a>
+
+	</div>
+
+</article>
+
+            
+
+            
+                
+          </div>
+      
+          <div class="blog-article">
+
+            
+              
+              <article class="blog__standard-article row">
+
+  	<div class="small-12 medium-6 columns">
+    	<a href="/blogs/news/diy-project-in-focus-repointing-damaged-brickwork"><img src="//cdn.shopify.com/s/files/1/1403/2071/articles/brick-wall-feature_1024x1024.jpg?v=1474543668" alt="DIY Project in Focus: Repointing Damaged Brickwork"></a>
+  	</div>
+
+	<div class="small-12 medium-6 columns">
+
+	    <h2 class="impact beta blog-article-title">
+	        <a href="/blogs/news/diy-project-in-focus-repointing-damaged-brickwork">DIY Project in Focus: Repointing Damaged Brickwork</a>
+	    </h2>
+	    <h3 class="impact epsilon blog__content__date">
+	        <time pubdate datetime="2016-06-25">Jun 25, 2016</time>  |  News
+	    </h3>
+	  	<br>
+	    <a href="/blogs/news/diy-project-in-focus-repointing-damaged-brickwork">Read More →</a>
+
+	</div>
+
+</article>
+
+            
+
+            
+                
+          </div>
+      
+          <div class="blog-article last">
+
+            
+              
+              <article class="blog__standard-article row">
+
+  	<div class="small-12 medium-6 columns">
+    	<a href="/blogs/news/basic-plumbing-part-2"><img src="//cdn.shopify.com/s/files/1/1403/2071/articles/basic-plumbing-part-2-featured-image_1024x1024.jpg?v=1474544202" alt="DIY for Beginners – Basic Plumbing Part 2"></a>
+  	</div>
+
+	<div class="small-12 medium-6 columns">
+
+	    <h2 class="impact beta blog-article-title">
+	        <a href="/blogs/news/basic-plumbing-part-2">DIY for Beginners – Basic Plumbing Part 2</a>
+	    </h2>
+	    <h3 class="impact epsilon blog__content__date">
+	        <time pubdate datetime="2016-05-23">May 23, 2016</time>  |  News
+	    </h3>
+	  	<br>
+	    <a href="/blogs/news/basic-plumbing-part-2">Read More →</a>
+
+	</div>
+
+</article>
+
+            
+
+            
+                
+          </div>
+      
+
+      <br>
+
+      
+
+            <ul class="pagination">
+              <li class="arrow">
+                  
+              </li>
+              
+                  
+                      <li class="current"><a href>1</a></li>
+                  
+              
+                  
+                      <li><a href="/blogs/news?page=2" title="">2</a></li>
+                  
+              
+                  
+                      <li><a href="/blogs/news?page=3" title="">3</a></li>
+                  
+              
+              <li class="arrow">
+                  
+                      <a href="/blogs/news?page=2" title="">Next &raquo;</a>
+                  
+              </li>
+            </ul>
+
+      
+
+
+
+    </section>
+
+
+    
+  </div>
+  
+</div>
+
+
+
+
+    
+
+  	<!-- End Include Main Content -->
+
+
+  	<!-- Include Header & Top Navigation -->
+		</main>
+
+    <div class="cd-overlay"></div>
+
+    <nav class="cd-nav">
+        <ul id="cd-primary-nav" class="cd-primary-nav is-fixed">
+
+            <!-- Include Nav Section -->
+            <li class="primary has-children">
+    <a href="#">Hinges</a>
+
+    <ul class="cd-secondary-nav is-hidden-meganav">
+        <li class="go-back"><a href="#0">Menu</a></li>
+        <!-- <li class="see-all"><a href="/collections/hinges">All Hinges</a></li> -->
+        <li class="has-children">
+            <a class="subtitle" href="#"><strong>Door Hinges</strong></a>
+
+            <ul class="is-hidden-meganav">
+                <li class="go-back"><a href="#0">Back</a></li>
+                <li class="see-all"><a href="/collections/hinges">All Hinges</a></li>
+
+                
+                    <li><a href="/collections/butt-hinges">Butt Hinges</a></li>
+                
+                
+                    <li><a href="/collections/rising-hinge">Rising Hinge</a></li>
+                
+                
+                
+                
+                    <li><a href="/collections/ce-graded-hinges">CE Graded Hinges</a></li>
+                
+                
+                    <li><a href="/collections/washered-hinges">Washered Hinges</a></li>
+                
+                
+                    <li><a href="/collections/parliament-hinges">Parliament Hinges</a></li>
+                
+                
+                    <li><a href="/collections/concealed-door-hinges-door-hinges">Concealed Door Hinges</a></li>
+                
+                
+                    <li><a href="/collections/gravity-hinges">Gravity Hinges</a></li>
+                
+            </ul>
+        </li>
+
+        <li class="has-children">
+            <a class="subtitle" href="#"><strong>Cabinet Hinges</strong></a>
+
+            <ul class="is-hidden-meganav">
+                <li class="go-back"><a href="#0">Back</a></li>
+                <li class="see-all"><a href="/collections/hinges">All Hinges</a></li>
+
+                
+                    <li><a href="/collections/counterflap-hinges">Counterflap Hinges</a></li>
+                
+                
+                    <li><a href="/collections/backflap-hinges">Backflap Hinges</a></li>
+                
+                
+                    <li><a href="/collections/flush-hinges">Flush Hinges</a></li>
+                
+                
+                    <li><a href="/collections/cranked-flush-hinges">Cranked Flush Hinges</a></li>
+                
+                
+                    <li><a href="/collections/hurl-hinges">Hurl Hinges</a></li>
+                
+                
+                    <li><a href="/collections/easy-on-hinges">Easy On Hinges</a></li>
+                
+                
+                    <li><a href="/collections/leaf-hinges">Leaf Hinges</a></li>
+                
+                
+                    <li><a href="/collections/concealed-hinges">Concealed Hinges</a></li>
+                
+                
+                    <li><a href="/collections/ss-concealed-hinges">S/S Concealed Hinges</a></li>
+                
+                
+                    <li><a href="/collections/double-ball">Double Ball</a></li>
+                
+                
+                    <li><a href="/collections/piano-hinges">Piano Hinges</a></li>
+                
+                
+                    <li><a href="/collections/clean-room-hinges">Clean Room Hinges</a></li>
+                
+                
+                    <li><a href="/collections/knuckle-hinges">Knuckle Hinges</a></li>
+                
+                
+                    <li><a href="/collections/torque-hinges">Torque Hinges</a></li>
+                
+
+            </ul>
+        </li>
+
+        <li class="has-children">
+            <a class="subtitle" href="#"><strong>Accessories</strong></a>
+
+            <ul class="is-hidden-meganav">
+                <li class="go-back"><a href="#0">Back</a></li>
+                <li class="see-all"><a href="/collections/hinges">All Hinges</a></li>
+                
+                    <li><a href="/collections/door-dampers">Door Dampers</a></li>
+                
+                
+                    <li><a href="/collections/hinge-accessories">Hinge Accessories</a></li>
+                
+            </ul>
+        </li>
+
+    </ul>
+</li>
+            <!-- End Include Nav Section -->
+
+            <!-- Include Nav Section -->
+            <li class="primary has-children">
+    <a href="#">Stays</a>
+
+    <ul class="cd-secondary-nav is-hidden-meganav">
+        <li class="go-back"><a href="#0">Menu</a></li>
+        <li class="has-children">
+            <a class="subtitle" href="#"><strong>Cabinet Stays</strong></a>
+
+            <ul class="is-hidden-meganav">
+                <li class="go-back"><a href="#0">Back</a></li>
+                <li class="see-all"><a href="/collections/stays">All Stays</a></li>
+
+                
+                    <li><a href="/collections/kitchen-cupboard-stays">Kitchen Cupboard Stays</a></li>
+                
+                
+                    <li><a href="/collections/toy-box-stays">Toy Box Stays</a></li>
+                
+                
+                    <li><a href="/collections/bureau-stays">Bureau Stays</a></li>
+                
+                
+                    <li><a href="/collections/tv-cabinet-stays">TV Cabinet Stays</a></li>
+                
+            </ul>
+        </li>
+
+        <li class="has-children">
+            <a class="subtitle" href="#"><strong>Stainless Steel Stays</strong></a>
+
+            <ul class="is-hidden-meganav">
+                <li class="go-back"><a href="#0">Back</a></li>
+                <li class="see-all"><a href="/collections/stays">All Stays</a></li>
+
+                
+                    <li><a href="/collections/top-box-stay">Top Box Stay</a></li>
+                
+                
+
+            </ul>
+        </li>
+
+        <li class="slug">
+            <!--
+              <a href="/slug2">
+                <img src="//cdn.shopify.com/s/files/1/1403/2071/t/5/assets/stays_slug.jpg?3092649673137105783" alt="">
+              </a>
+            -->
+        </li>
+
+    </ul>
+</li>
+
+            <!-- End Include Nav Section -->
+
+            <!-- Include Nav Section -->
+            <li class="primary has-children">
+    <a href="#">Slides</a>
+
+    <ul class="cd-secondary-nav is-hidden-meganav">
+        <li class="go-back"><a href="#0">Menu</a></li>
+        <!-- <li class="see-all"><a href="/collections/slide-systems">All Slide Systems</a></li> -->
+        <li class="has-children">
+            <a class="subtitle" href="#"><strong>Ball Bearing Slides</strong></a>
+
+            <ul class="is-hidden-meganav">
+                <li class="go-back"><a href="#0">Back</a></li>
+                <li class="see-all"><a href="/collections/slide-systems">All Slides</a></li>
+
+                
+                    <li><a href="/collections/light-duty-slides">Light Duty Slides</a></li>
+                
+                
+                    <li><a href="/collections/medium-duty-slides">Medium Duty Slides</a></li>
+                
+                
+                    <li><a href="/collections/heavy-duty-slides">Heavy Duty Slides</a></li>
+                
+                
+                    <li><a href="/collections/stainless-steel-slides">Stainless Steel Slides</a></li>
+                
+                
+            </ul>
+        </li>
+
+        <li class="has-children">
+            <a class="subtitle" href="#"><strong>More Slides</strong></a>
+
+            <ul class="is-hidden-meganav">
+                <li class="go-back"><a href="#0">Back</a></li>
+                <li class="see-all"><a href="/collections/slide-systems">All Slides</a></li>
+
+                
+                    <li><a href="/collections/flipper-slides">Flipper Slides</a></li>
+                
+                
+                    <li><a href="/collections/pocket-door-slides">Pocket Door Slides</a></li>
+                
+                
+                    <li><a href="/collections/keyboard-drawer-parts">Keyboard Drawer Parts</a></li>
+                
+                
+                    <li><a href="/collections/filing-cradle-slide">Filing Cradle Slide</a></li>
+                
+                
+                    <li><a href="/collections/metal-drawer-sides">Metal Drawer Sides</a></li>
+                
+                
+                    <li><a href="/collections/twin-wall-drawer-slides">Twin Wall Drawer Slides</a></li>
+                
+                
+                    <li><a href="/collections/bottom-fix-runners">Bottom Fix Runners</a></li>
+                
+                
+                    <li><a href="/collections/table-slides">Table Slides</a></li>
+                
+                
+                    <li><a href="/collections/dampers">Dampers</a></li>
+                
+                
+                    <li><a href="/collections/conversion-kits">Conversion Kits</a></li>
+                
+
+            </ul>
+        </li>
+
+        <li class="slug">
+            <a href="/collections/drawer-lock">
+                <img src="//cdn.shopify.com/s/files/1/1403/2071/t/5/assets/slides_slug.jpg?3092649673137105783" alt="">
+            </a>
+        </li>
+
+    </ul>
+</li>
+            <!-- End Include Nav Section -->
+
+            <!-- Include Nav Section -->
+            <li class="primary has-children">
+    <a href="#">Cabinet Hardware</a>
+
+    <ul class="cd-secondary-nav is-hidden-meganav">
+        <li class="go-back"><a href="#0">Menu</a></li>
+        <li class="has-children">
+            <a class="subtitle" href="#"><strong>Internal Fittings</strong></a>
+
+            <ul class="is-hidden-meganav">
+                <li class="go-back"><a href="#0">Back</a></li>
+                <li class="see-all"><a href="/collections/cabinet-hardware">All Cabinet Hardware</a></li>
+
+                
+                    <li><a href="/collections/wardrobe-rail">Wardrobe Rail</a></li>
+                
+                
+                    <li><a href="/collections/rail-supports">Rail Supports</a></li>
+                
+                
+                    <li><a href="/collections/catches-latches">Catches & Latches</a></li>
+                
+                
+                
+                    <li><a href="/collections/cabinet-stays">Cabinet Stays</a></li>
+                
+                
+                    <li><a href="/collections/handles">Handles</a></li>
+                
+                
+                    <li><a href="/collections/door-openers">Door Openers</a></li>
+                
+                
+                    <li><a href="/collections/drawer-fittings">Drawer Fittings</a></li>
+                
+                
+                    <li><a href="/collections/worktop-fittings">Worktop Fittings</a></li>
+                
+                
+                    <li><a href="/collections/connecting-brackets">Connecting Brackets</a></li>
+                
+                
+                    <li><a href="/collections/knock-down-fittings">Knock Down Fittings</a></li>
+                
+                
+
+            </ul>
+        </li>
+
+        <li class="has-children">
+            <a class="subtitle" href="#"><strong>External Fittings</strong></a>
+
+            <ul class="is-hidden-meganav">
+                <li class="go-back"><a href="#0">Back</a></li>
+                <li class="see-all"><a href="/collections/cabinet-hardware">All Cabinet Hardware</a></li>
+
+                
+                    <li><a href="/collections/castors">Castors</a></li>
+                
+                
+                    <li><a href="/collections/glides-feet">Glides & Feet</a></li>
+                
+            </ul>
+        </li>
+
+        <li class="has-children">
+            <a class="subtitle" href="#"><strong>Security</strong></a>
+
+            <ul class="is-hidden-meganav">
+                <li class="go-back"><a href="#0">Back</a></li>
+                <li class="see-all"><a href="/collections/cabinet-hardware">All Cabinet Hardware</a></li>
+
+                
+                    <li><a href="/collections/cabinet-bolt">Cabinet Bolt</a></li>
+                
+                
+                    <li><a href="/collections/drawer-lock">Drawer Lock</a></li>
+                
+                
+                    <li><a href="/collections/cupboard-lock">Cupboard Lock</a></li>
+                
+                
+                    <li><a href="/collections/pedestal-lock">Pedestal Lock</a></li>
+                
+                
+                    <li><a href="/collections/espagnolette-lock">Espagnolette Lock</a></li>
+                
+                
+                
+                    <li><a href="/collections/push-locks">Push Locks</a></li>
+                
+                
+                    <li><a href="/collections/lever-lock">Lever Lock</a></li>
+                
+                
+                    <li><a href="/collections/tambour-lock">Tambour Lock</a></li>
+                
+                
+                    <li><a href="/collections/glass-lock">Glass Lock</a></li>
+                
+                
+                    <li><a href="/collections/lock-accessories">Lock Accessories</a></li>
+                
+                
+                    <li><a href="/collections/push-locks-with-catch">Push Locks with Catch</a></li>
+                
+                
+            </ul>
+        </li>
+
+    </ul>
+
+</li>
+            <!-- End Include Nav Section -->
+
+            <!-- Include Nav Section -->
+            <li class="primary has-children first">
+    <a href="#">Door Hardware</a>
+
+    <ul class="cd-secondary-nav is-hidden-meganav">
+        <li class="go-back"><a href="#0">Menu</a></li>
+        <li class="has-children" >
+            <a class="subtitle" href="#"><strong>Door Furniture</strong></a>
+
+            <ul class="is-hidden-meganav">
+                <li class="go-back"><a href="#0">Back</a></li>
+                <li class="see-all"><a href="/collections/door-furniture">All Door Furniture</a></li>
+
+                
+                    <li><a href="/collections/lever-handles">Lever Handles</a></li>
+                
+                
+                    <li><a href="/collections/door-knobs">Door Knobs</a></li>
+                
+                
+                
+                
+                    <li><a href="/collections/letter-boxes">Letter Boxes</a></li>
+                
+                
+                
+                
+                
+                
+                    <li><a href="/collections/door-closers">Door Closers</a></li>
+                
+                
+                    <li><a href="/collections/door-stops">Door Stops</a></li>
+                
+
+                
+                    <li><a href="/collections/escutheons">Escutheons</a></li>
+                
+                
+            </ul>
+        </li>
+
+        <li class="has-children" >
+            <a class="subtitle" href="#"><strong>Door Locks & Security</strong></a>
+
+            <ul class="is-hidden-meganav">
+                <li class="go-back"><a href="#0">Back</a></li>
+                <li class="see-all"><a href="/collections/door-hardware">All Door Hardware</a></li>
+
+                
+                
+                
+                    <li><a href="/collections/door-bolts">Door Bolts</a></li>
+                
+                
+                    <li><a href="/collections/bathroom-locks">Bathroom Locks</a></li>
+                
+                
+                    <li><a href="/collections/security-bolts">Security Bolts</a></li>
+                
+                
+                
+                    <li><a href="/collections/door-chains">Door Chains</a></li>
+                
+                
+                    <li><a href="/collections/night-latches">Night Latches</a></li>
+                
+                
+                    <li><a href="/collections/mortice-locks">Mortice Locks</a></li>
+                
+                
+                
+                
+                    <li><a href="/collections/cylinders">Cylinders</a></li>
+                
+                
+                    <li><a href="/collections/ironmongery">Ironmongery</a></li>
+                
+
+            </ul>
+        </li>
+        <li class="slug">
+            <a href="/pages/uk-delivery-shipping">
+                <img src="//cdn.shopify.com/s/files/1/1403/2071/t/5/assets/hardware_slug.jpg?3092649673137105783" alt="">
+            </a>
+        </li>
+    </ul>
+</li>
+
+            <!-- End Include Nav Section -->
+
+            <!-- Include Nav Section -->
+            <li class="primary has-children last">
+    <a href="#">More</a>
+
+    <ul class="cd-secondary-nav is-hidden-meganav">
+        <li class="go-back"><a href="#0">Menu</a></li>
+        <!-- <li class="see-all"><a href="/collections/cabinet-hardware">All Products</a></li> -->
+
+        <!-- Include Nav Section -->
+        <li class="has-children">
+    <a class="subtitle" href="#"><strong>Table Fittings</strong></a>
+
+    <ul class="is-hidden-meganav">
+        <li class="go-back"><a href="#0">Back</a></li>
+
+        
+            <li class="has-children">
+                <a href="#">Cable Management</a>
+
+                <ul class="is-hidden-meganav">
+                    <li class="go-back"><a href="#0">Back</a></li>
+                    <li class="see-all"><a href="/collections/cable-management">All Cable Management</a></li>
+
+                    
+                        <li><a href="/collections/cable-ports">Cable Ports</a></li>
+                    
+                     
+                        <li><a href="/collections/cable-spines">Cable Spines</a></li>
+                    
+                    
+                        <li><a href="/collections/cable-ports-with-sockets">Electrical Ports</a></li>
+                    
+                </ul>
+            </li>
+        
+
+        
+            <li><a href="/collections/folding-table-frames">Folding Table Frames</a></li>
+        
+        
+        
+            <li><a href="/collections/table-legs">Table Legs</a></li>
+        
+        
+            <li><a href="/collections/table-bases">Table Bases</a></li>
+        
+        
+        
+            <li><a href="/collections/leg-frame-accessories">Leg Frame Accessories</a></li>
+        
+        
+            <li><a href="/collections/table-connectors">Table Connectors</a></li>
+        
+        
+            <li><a href="/collections/folding-tables">Folding Tables</a></li>
+        
+
+
+    </ul>
+</li>
+
+        <!-- End Include Nav Section -->
+
+        <!-- Include Nav Section -->
+        <li class="has-children">
+    <a class="subtitle" href="#"><strong>Hardware</strong></a>
+
+    <ul class="is-hidden-meganav">
+        <li class="go-back"><a href="#0">Back</a></li>
+
+        
+        
+            <li class="has-children">
+                <a href="#">Window & Door Security</a>
+
+                <ul class="is-hidden-meganav">
+                    <li class="go-back"><a href="#0">Back</a></li>
+                    <li class="see-all"><a href="/collections/window-door-security">All Window & Door Security</a></li>
+
+                    
+                        <li><a href="/collections/window">Window</a></li>
+                    
+
+                    
+                        <li><a href="/collections/door">Door</a></li>
+                    
+                </ul>
+            </li>
+        
+        
+            <li><a href="/collections/padlocks">Padlocks</a></li>
+        
+        
+        
+        
+            <li><a href="/collections/hooks-eyes">Hooks & Eyes</a></li>
+        
+        
+        
+            <li><a href="/collections/curtain-fittings">Curtain Fittings</a></li>
+        
+        
+        
+        
+        
+        
+
+    </ul>
+</li>
+
+        <!-- End Include Nav Section -->
+
+        <!-- Include Nav Section -->
+        <li class="has-children">
+    <a class="subtitle" href="#"><strong>Miscellaneous</strong></a>
+
+    <ul class="is-hidden-meganav">
+        <li class="go-back"><a href="#0">Back</a></li>
+
+        
+            <li class="has-children">
+                <a href="#">Gate & Shed Hardware</a>
+
+                <ul class="is-hidden-meganav">
+                    <li class="go-back"><a href="#0">Back</a></li>
+                    <li class="see-all"><a href="/collections/gate-shed-hardware">All Gate & Shed Hardware</a></li>
+
+                    
+                    
+                        <li><a href="/collections/tee-hinges">Tee Hinges</a></li>
+                    
+                    
+                    
+                    
+                    
+                    
+                        <li><a href="/collections/hasps-staples">Hasps & Staples</a></li>
+                    
+                    
+                    
+                </ul>
+            </li>
+        
+
+        
+            <li class="has-children">
+                <a href="#">Screws, Nails, Bolts</a>
+
+                <ul class="is-hidden-meganav">
+                    <li class="go-back"><a href="#0">Back</a></li>
+                    <li class="see-all"><a href="/collections/screws-nails-bolts">All Screws, Nails, Bolts</a></li>
+
+                    
+                        <li><a href="/collections/torq-fix">Torq-Fix</a></li>
+                    
+                     
+                        <li><a href="/collections/spax-screws">Spax Screws</a></li>
+                    
+                    
+                    
+                        <li><a href="/collections/machine-screws">Machine Screws</a></li>
+                    
+                     
+                    
+
+                </ul>
+            </li>
+        
+
+        
+            <li class="has-children">
+                <a href="#">Tools</a>
+
+                <ul class="is-hidden-meganav">
+                    <li class="go-back"><a href="#0">Back</a></li>
+                    <li class="see-all"><a href="/collections/tools">All Tools</a></li>
+
+                    
+                    
+                    
+                        <li><a href="/collections/hand-tools">Hand Tools</a></li>
+                    
+                    
+                        <li><a href="/collections/gripping">Gripping</a></li>
+                    
+                    
+                        <li><a href="/collections/tool-sets">Tool Sets</a></li>
+                    
+                    
+                    
+                        <li><a href="/collections/drill-bits">Drill Bits</a></li>
+                    
+                    
+                        <li><a href="/collections/hole-cutters">Hole Cutters</a></li>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        <li><a href="/collections/keys">Keys</a></li>
+                    
+
+
+                </ul>
+            </li>
+        
+
+        
+            <li class="has-children">
+                <a href="#">Safety</a>
+
+                <ul class="is-hidden-meganav">
+                    <li class="go-back"><a href="#0">Back</a></li>
+                    <li class="see-all"><a href="/collections/safety">All Safety</a></li>
+
+                    
+                    
+                        <li><a href="/collections/protection">Protection</a></li>
+                    
+                    
+                        <li><a href="/collections/lighting">Lighting</a></li>
+                    
+                    
+
+                </ul>
+            </li>
+        
+
+        
+
+        
+
+        
+            <li class="has-children">
+                <a href="#">Ventilation</a>
+
+                <ul class="is-hidden-meganav">
+                    <li class="go-back"><a href="#0">Back</a></li>
+                    <li class="see-all"><a href="/collections/ventilation">All Ventilation</a></li>
+
+                    
+
+                </ul>
+            </li>
+        
+
+
+
+
+    </ul>
+</li>
+        <!-- End Include Nav Section -->
+
+    </ul>
+</li>
+            <!-- End Include Nav Section -->
+
+
+
+            <li class="secondary"><a href="/collections/offers">Offers</a></li>
+            <li class="secondary"><a href="/pages/help-and-advice">Help & Advice</a></li>
+            <!-- <li class="secondary"><a href="/blogs/news">Blog</a></li> -->
+        </ul> <!-- primary-nav -->
+    </nav> <!-- cd-nav -->
+
+	<!-- End Include Header & Top Navigation -->
+
+	<br>
+
+
+	
+
+
+
+  	<!-- Include Footer -->
+		<!-- Include Newsletter Signup -->
+		<section class="newsletter-signup">
+	<div class="row" data-equalizer>
+		<div class="small-12 medium-6 columns" data-equalizer-watch>
+			<h2 class="gamma impact">Join Our Newsletter</h2>
+			<h4 class="zeta impact">Sign to receive our special offers and great deals</h4>
+		</div>
+		<div class="small-12 medium-6 columns clearfix" data-equalizer-watch>
+	        <div class="input-group">
+	            <input class="input-group-field" type="text" placeholder="Your email address">
+	            <div class="input-group-button">
+	              <button type="submit" name="sa" class="secondary_button button postfix">submit</button>
+	            </div>
+	        </div>
+	    </div>
+	</div>
+</section>
+
+<!-- End Include Newsletter Signup -->
+
+<footer>
+	<div class="row footer--upper">
+		<div class="small-12 medium-6 large-4 columns">
+			<h3 class="impact delta">Get in touch</h3>
+			<div class="footer--upper__content">
+				<h4 class="epsilon"><a href="tel:01482714488">(01482) 714488</a></h4>
+				<h4 class="epsilon"><a href="mailto:sales@eurofitdirect.co.uk">sales@eurofitdirect.co.uk</a></h4>
+				<br>
+				<p>Office/Warehouse Hours:</p>
+				<p>Mon-Thurs 8:00 - 17:00</p>
+				<p>Friday 8:00 - 16:00</p>
+			</div>
+
+		</div>
+
+		<div class="small-12 medium-6 large-4 columns">
+			<h3 class="impact delta">More Links</h3>
+			<div class="footer--upper__content">
+				<div class="further-links">
+					<a href="/pages/uk-delivery-shipping">Delivery & Shipping</a>
+					<a href="/pages/easy-returns">Easy Returns Policy</a>
+					<a href="/pages/help-and-advice">Help Guides & Advice</a>
+					<a href="/blogs/news">Eurofit Blog</a>
+					<a href="/pages/about-us">About Us</a>
+					<a href="/pages/contact-us">Contact Us</a>
+					<a href="/pages/cookie-policy">Cookie Policy</a>
+					<a href="/pages/terms-and-conditions">Terms & Conditions</a>
+				</div>
+			</div>
+		</div>
+
+		<div class="small-12 medium-12 large-4 columns">
+			<h3 class="impact delta text-center">Connect With Us</h3>
+			<div class="footer--upper__content text-center">
+				<div class="social-icon">
+				    <a href="https://www.facebook.com/eurofitdirect">
+				    	<!-- <i class="fa alpha fi-social-facebook"></i> -->
+				    	<img class="icons_category" src="//cdn.shopify.com/s/files/1/1403/2071/t/5/assets/eurofit-socials-facebook.svg?3092649673137105783" alt="User icon" width="50px">
+				    </a>
+				</div>
+				<div class="social-icon">
+				    <a href="https://twitter.com/eurofit">
+				    	<!-- <i class="fa alpha fi-social-twitter"></i> -->
+				    	<img class="icons_category" src="//cdn.shopify.com/s/files/1/1403/2071/t/5/assets/eurofit-socials-twitter.svg?3092649673137105783" alt="User icon" width="50px">
+				    </a>
+				</div>
+				<div class="social-icon">
+				    <a href="https://plus.google.com/+EurofitdirectCoUk">
+				    	<!-- <i class="fa alpha fi-social-google-plus"></i> -->
+				    	<img class="icons_category" src="//cdn.shopify.com/s/files/1/1403/2071/t/5/assets/eurofit-socials-google.svg?3092649673137105783" alt="User icon" width="50px">
+				    </a>
+				</div>
+				<div class="social-icon">
+				    <a href="https://www.youtube.com/user/eurofitdirect">
+				    	<!-- <i class="fa alpha fi-social-youtube"></i> -->
+				    	<img class="icons_category" src="//cdn.shopify.com/s/files/1/1403/2071/t/5/assets/eurofit-socials-youtube.svg?3092649673137105783" alt="User icon" width="50px">
+				    </a>
+				</div>
+			</div>
+			<div class="footer--upper__content">
+			<!-- TrustBox widget - 0 -->
+				<div class="trustpilot-widget" data-locale="en-GB" data-template-id="53aa8807dec7e10d38f59f32" data-businessunit-id="4df8c44f00006400050feca6" data-style-height="90px" data-style-width="120px" style="width:120px; margin: auto;" data-theme="dark">
+				<a href="https://uk.trustpilot.com/review/www.eurofitdirect.co.uk" target="_blank">Trustpilot</a>
+				</div>
+			<!-- End TrustBox widget -->
+			</div>
+
+		</div>
+	</div>
+
+	<div class="row footer--lower">
+		<div class="large-8 columns">
+					<img src="//cdn.shopify.com/s/files/1/1403/2071/t/5/assets/footer-payments.png?3092649673137105783" alt="Accepted Payments">
+          <p><small>Eurofit System Ltd. Barmston Road, Beverley, East Yorkshire, HU17 0LA. Regsitered Company no. 04024046</small></p>
+		</div>
+	</div>
+
+</footer>
+
+  	<!-- End Include Footer Content -->
+
+  	<!-- Scripts -->
+  		<!-- Foundation scripts -->
+			<script src="//cdn.shopify.com/s/files/1/1403/2071/t/5/assets/foundation.min.js?3092649673137105783" type="text/javascript"></script>
+
+			<script>
+	  			$(document).foundation();
+			</script>
+
+			<!-- Carousel -->
+	 		<script src="//cdn.shopify.com/s/files/1/1403/2071/t/5/assets/slick.min.js?3092649673137105783" type="text/javascript"></script>
+
+	 		<!-- Social Buttons -->
+	 		<script src="//cdn.shopify.com/s/files/1/1403/2071/t/5/assets/social_buttons.min.js?3092649673137105783" type="text/javascript"></script>
+
+			<!-- Product Image JS by @lukebussey -->
+			<script src="//cdn.shopify.com/s/files/1/1403/2071/t/5/assets/main-meganav.min.js?3092649673137105783" type="text/javascript"></script>
+
+			<!-- Product Image JS by @lukebussey -->
+			<script src="//cdn.shopify.com/s/files/1/1403/2071/t/5/assets/productimages.min.js?3092649673137105783" type="text/javascript"></script>
+
+	    <!-- Let's add a product zoom becaue Foundation doesn't have one. Thank's to Jack Moore! -->
+	    <script src="//cdn.shopify.com/s/files/1/1403/2071/t/5/assets/jquery.zoom.min.js?3092649673137105783" type="text/javascript"></script>
+
+			<!-- begin olark code -->
+			<script data-cfasync="false" type='text/javascript'>/*<![CDATA[*/window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){
+			f[z]=function(){
+			(a.s=a.s||[]).push(arguments)};var a=f[z]._={
+			},q=c.methods.length;while(q--){(function(n){f[z][n]=function(){
+			f[z]("call",n,arguments)}})(c.methods[q])}a.l=c.loader;a.i=nt;a.p={
+			0:+new Date};a.P=function(u){
+			a.p[u]=new Date-a.p[0]};function s(){
+			a.P(r);f[z](r)}f.addEventListener?f.addEventListener(r,s,false):f.attachEvent("on"+r,s);var ld=function(){function p(hd){
+			hd="head";return["<",hd,"></",hd,"><",i,' onl' + 'oad="var d=',g,";d.getElementsByTagName('head')[0].",j,"(d.",h,"('script')).",k,"='",l,"//",a.l,"'",'"',"></",i,">"].join("")}var i="body",m=d[i];if(!m){
+			return setTimeout(ld,100)}a.P(1);var j="appendChild",h="createElement",k="src",n=d[h]("div"),v=n[j](d[h](z)),b=d[h]("iframe"),g="document",e="domain",o;n.style.display="none";m.insertBefore(n,m.firstChild).id=z;b.frameBorder="0";b.id=z+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){
+			b.src="javascript:false"}b.allowTransparency="true";v[j](b);try{
+			b.contentWindow[g].open()}catch(w){
+			c[e]=d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{
+			var t=b.contentWindow[g];t.write(p());t.close()}catch(x){
+			b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({
+			loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});
+			/* custom configuration goes here (www.olark.com/documentation) */
+			olark.identify('5134-283-10-3418');/*]]>*/</script><noscript><a href="https://www.olark.com/site/5134-283-10-3418/contact" title="Contact us" target="_blank">Questions? Feedback?</a> powered by <a href="http://www.olark.com?welcome" title="Olark live chat software">Olark live chat software</a></noscript>
+			<!-- end olark code -->
+
+  	<!-- End scripts -->
+
+
+
+
+</body>
+</html>
