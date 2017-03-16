@@ -9,7 +9,7 @@
 # as a tool to those who want to harvest 
 # collections of images for stimuli.
 #
-# Note: In order to interat with the Bing API
+# Note: In order to interact with the Bing API
 #       one must first acquire a Subscription Key.
 #       See https://www.microsoft.com/cognitive-services/en-us/bing-web-search-api
 #       for details.
@@ -48,7 +48,6 @@ def scrape_images_by_phrase(obj_idx, phrase, phrase_save_dir, num_imgs):
         Save top num_imgs results for this query.
     """
     try:
-        import pdb; pdb.set_trace()
         data = make_bing_request(phrase, num_imgs)
         img_urls = parse_bing_response(data)
         img_urls_summary_fn = '{}/{}'.format(phrase_save_dir, IMG_URLS_SUMMARY_FILE)
