@@ -23,7 +23,7 @@ import json
 import os
 
 # Note: Must Acquire Indiviudal Subscription Key.
-OCP_APIM_SUBSCRIPTION_KEY = '3012d3fd6346473489418ee90fbc5592'
+OCP_APIM_SUBSCRIPTION_KEY = ''
 IMG_URLS_SUMMARY_FILE = 'img_urls_summary.csv'
 
 def scrape_images(phrases, num_imgs, save_dir='./imgs'):

@@ -12,7 +12,7 @@ import json
 import os
 
 OBJECT_TABLE_FILE = '../object_table.csv'
-TASK1_IMGS_DIR = '../imgs/generalization_task_1_scraped'
+TASK1_IMGS_DIR = '../imgs/generalization_task_1_general_scraped'
 IMG_URLS_SUMMARY_FILE = 'img_urls_summary.csv'
 NUM_SCRAPE_IMGS = 50
 
@@ -84,11 +84,11 @@ def make_bing_request(utterance):
     headers = {
         # Note that this key only lasts 90-Days on a Free Trial
         # Key Acquired: March 10, 2017
-        'Ocp-Apim-Subscription-Key': '3012d3fd6346473489418ee90fbc5592',
+        'Ocp-Apim-Subscription-Key': '',
     }
 
     params = urllib.urlencode({
-        'q': '"{} on white background"'.format(utterance),
+        'q': '"{}"'.format(utterance),
         'count': '20',
         'offset': '0',
         'mkt': 'en-us',
